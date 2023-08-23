@@ -1,0 +1,3017 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Questions>
+                    <Question>
+                        <ID>2083</ID>
+                        <Number>1</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>Lorsqu’on a consommé en grande quantité de l’alcool, de la nicotine ou d’autres
+                            substances pouvant affecter la conscience, la veille, à quels effets faut-il s’attendre en
+                            vol?
+                        </Question>
+                        <Answer1>Le mal de l’air (cinétose).</Answer1>
+                        <Answer2>Une incapacité à exploiter les thermiques.</Answer2>
+                        <Answer3>Une plus forte envie d’uriner.</Answer3>
+                        <Answer4>Une diminution de ses capacités de performance et un temps de réaction plus long.
+                        </Answer4>
+                        <CorrectAnswered>5</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2084</ID>
+                        <Number>2</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>À quoi doit s’attendre un libériste qui souffre d’un gros rhume et d’une otite, en
+                            vol?
+                        </Question>
+                        <Answer1>À des capacités de concentration très entravées, des facultés de jugement et de
+                            perception restreintes, des performances physiques sensiblement réduites.
+                        </Answer1>
+                        <Answer2>À l’apparition soudaine de maux de tête aigus et lancinants.</Answer2>
+                        <Answer3>À une capacité d’absorption en oxygène des poumons très réduite.</Answer3>
+                        <Answer4>À des dommages physiques dus à la déshydratation.</Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2085</ID>
+                        <Number>3</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Jusqu’à quelle altitude un corps en bonne santé et au repos peut-il en principe
+                            s’adapter à des conditions atmosphériques changeantes?
+                        </Question>
+                        <Answer1>Env. 2'000 m/mer.</Answer1>
+                        <Answer2>Env. 3'000 m/mer.</Answer2>
+                        <Answer3>Env. 4'000 m/mer.</Answer3>
+                        <Answer4>Env. 5'000 m/mer.</Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2086</ID>
+                        <Number>4</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>À quels effets faut-il s'attendre lorsqu'un organisme ne parvient pas à s'adapter aux
+                            conditions changeant avec l'altitude?
+                        </Question>
+                        <Answer1>Maux de tête aigus et lancinants.</Answer1>
+                        <Answer2>Euphorie et capacité de jugement réduite (mal des montagnes).</Answer2>
+                        <Answer3>Malaise, nausée.</Answer3>
+                        <Answer4>Insuffisance respiratoire.</Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2087</ID>
+                        <Number>5</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>Le mal des montagnes résulte en premier lieu</Question>
+                        <Answer1>de la faible température et du refroidissement consécutif du corps.</Answer1>
+                        <Answer2>des turbulences qui existent à haute altitude.</Answer2>
+                        <Answer3>de la faible humidité de l'air et de la déshydratation qui en résulte.</Answer3>
+                        <Answer4>de la diminution de la pression atmosphérique et donc d’oxygène qui conduit à une
+                            oxygénation insuffisante du corps.
+                        </Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2088</ID>
+                        <Number>6</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>La teneur en oxygène de l’air change avec l’altitude. Les effets inhérents sur
+                            l’organisme humain peuvent être réduits en premier lieu par
+                        </Question>
+                        <Answer1>l'absorption régulière de préparations à la vitamine C.</Answer1>
+                        <Answer2>l'absorption à titre préventif d'un remède contre le mal du voyage.</Answer2>
+                        <Answer3>une respiration profonde et accélérée de manière consciente.</Answer3>
+                        <Answer4>un entraînement physique régulier et une bonne acclimatation.</Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2089</ID>
+                        <Number>7</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>Lorsqu'un planeur de pente vole à une vitesse de 32 km/h dans une masse d'air de 2°C,
+                            l'effet refroidissant du vent sur le corps est comparable à une température par air calme de
+                        </Question>
+                        <Answer1>+ 8° C</Answer1>
+                        <Answer2>+ 2° C</Answer2>
+                        <Answer3>- 0° C</Answer3>
+                        <Answer4>- 11° C</Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2090</ID>
+                        <Number>8</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Lorsque le corps humain est exposé à des températures inférieures à la zone de confort
+                            thermique,
+                        </Question>
+                        <Answer1>ses performances physiques et ses besoins en oxygène diminuent.</Answer1>
+                        <Answer2>ses performances physiques diminuent et ses besoins en oxygène augmentent.</Answer2>
+                        <Answer3>ses performances physiques et ses besoins en oxygène augmentent.</Answer3>
+                        <Answer4>ses performances physiques augmentent et ses besoins en oxygène diminuent.</Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2091</ID>
+                        <Number>9</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Lorsque le corps humain est soumis à un flux d’air de manière prolongée,</Question>
+                        <Answer1>ses besoins en oxygène augmentent considérablement.</Answer1>
+                        <Answer2>ses besoins en liquide augmentent considérablement.</Answer2>
+                        <Answer3>ses besoins en protéines augmentent considérablement.</Answer3>
+                        <Answer4>ses besoins en vitamines augmentent considérablement.</Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2092</ID>
+                        <Number>10</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Zurich-Kloten annonce un QNH de 1'015. Que signifie cette indication?</Question>
+                        <Answer1>À Zurich-Kloten, la pression atmosphérique est de 1'015 hPa.</Answer1>
+                        <Answer2>À Zurich-Kloten, la pression ramenée au niveau de la mer selon l’atmosphère type OACI
+                            est de 1'015 hPa.
+                        </Answer2>
+                        <Answer3>À Zurich-Kloten, la pression standard selon l’OACI est de 1'015 hPa..</Answer3>
+                        <Answer4>À Zurich-Kloten, la pression maximale ce jour-là atteint 1'015 hPa.</Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2093</ID>
+                        <Number>11</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>1</Answer>
+                        <Question>Zurich-Kloten annonce un QNH de 1'015, Lugano un QNH de 1'007. Que signifie cette
+                            indication?
+                        </Question>
+                        <Answer1>La chute de pression entre Zurich et Lugano engendre un fort courant du nord par-dessus
+                            le massif alpin, avec congestion nuageuse côté nord et foehn du nord côté sud des Alpes.
+                        </Answer1>
+                        <Answer2>Comme Zurich-Kloten se situe à une altitude plus élevée que Lugano, la pression y est
+                            un peu plus élevée. Calculée par rapport au niveau de la mer, la pression sur les Alpes est
+                            uniforme et le vent donc faible.
+                        </Answer2>
+                        <Answer3>L’atmosphère au-dessus de Zurich-Kloten est plus froide et plus dense qu’à Lugano. Ce
+                            jour-là, on peut surtout s’attendre à un bon développement thermique côté nord des Alpes.
+                        </Answer3>
+                        <Answer4>La chute de pression entre Zurich et Lugano engendre un fort courant du sud par-dessus
+                            le massif alpin, avec congestion nuageuse côté sud et foehn du sud côté nord des Alpes.
+                        </Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2094</ID>
+                        <Number>12</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>Lugano annonce un QNH de 1'015, Zurich-Kloten un QNH de 1'007. Que signifie cette
+                            indication?
+                        </Question>
+                        <Answer1>La chute de pression entre Zurich et Lugano engendre un fort courant du nord par-dessus
+                            le massif alpin, avec congestion nuageuse côté nord et foehn du nord côté sud des Alpes.
+                        </Answer1>
+                        <Answer2>Comme Zurich-Kloten se situe à une altitude plus élevée que Lugano, la pression y est
+                            un peu plus élevée. Calculée par rapport au niveau de la mer, la pression sur les Alpes est
+                            uniforme et le vent donc faible.
+                        </Answer2>
+                        <Answer3>L’atmosphère au-dessus de Zurich-Kloten est plus froide et plus dense qu’à Lugano. Ce
+                            jour-là, on peut s’attendre surtout s’attendre à un bon développement thermique côté nord
+                            des Alpes.
+                        </Answer3>
+                        <Answer4>La chute de pression entre Zurich et Lugano engendre un fort courant du sud par-dessus
+                            le massif alpin, avec congestion nuageuse côté sud et foehn du sud côté nord des Alpes.
+                        </Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2095</ID>
+                        <Number>13</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>À partir de quel écart de pression entre Zurich et Lugano peut-on en règle générale
+                            anticiper du foehn dans les vallées des Alpes?
+                        </Question>
+                        <Answer1>À partir de 2 hPa</Answer1>
+                        <Answer2>À partir de 4 hPa</Answer2>
+                        <Answer3>À partir de 8 hPa</Answer3>
+                        <Answer4>À partir de 16 hPa</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>4</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2096</ID>
+                        <Number>14</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>1</Answer>
+                        <Question>Un pilote prévoit un vol depuis Fiesch en direction du col de la Furka. Parmi les
+                            publications suivantes, laquelle donne des indications quant à la classification des espaces
+                            aériens qu’il prévoit de traverser?
+                        </Question>
+                        <Answer1>La carte de vol à voile.</Answer1>
+                        <Answer2>Le bulletin Notam.</Answer2>
+                        <Answer3>Le VFR-Manual.</Answer3>
+                        <Answer4>Le DABS.</Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2097</ID>
+                        <Number>15</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Un pilote prévoit de voler depuis les Alpes et de traverser la plaine. Parmi les
+                            publications suivantes, laquelle donne des indications quant à la ligne qui sépare les Alpes
+                            et le Plateau, et donc le changement d’altitude maximale de vol?
+                        </Question>
+                        <Answer1>Le bulletin Notam.</Answer1>
+                        <Answer2>La carte de vol à voile.</Answer2>
+                        <Answer3>Le VFR-Manual.</Answer3>
+                        <Answer4>Le DABS.</Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2098</ID>
+                        <Number>16</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Un pilote prévoit de voler depuis Flims en direction du col de l'Oberalp. Sa
+                            trajectoire traverse la zone dangereuse LS-D10. Parmi les publications suivantes, laquelle
+                            donne des indications quant aux heures d'activité de cette zone?
+                        </Question>
+                        <Answer1>La carte de vol à voile.</Answer1>
+                        <Answer2>Le bulletin Notam ou le DABS.</Answer2>
+                        <Answer3>Le VFR-Manual.</Answer3>
+                        <Answer4>La carte de vol à voile et le VFR-Manual.</Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2099</ID>
+                        <Number>160</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Un hélicoptère de secours est sur le point d’intervenir sur le terrain d’atterrissage
+                            où je viens de me poser, comme me l’indiquent des pilotes qui m’interpellent. Quel
+                            comportement dois-je adopter?
+                        </Question>
+                        <Answer1>Je leste mon parapente à l’aide de ma sellette et de mon sac à dos pour empêcher un
+                            gonflage intempestif.
+                        </Answer1>
+                        <Answer2>Je range mon parapente avec soin et ne bouge plus afin que le pilote puisse bien me
+                            voir en approche.
+                        </Answer2>
+                        <Answer3>Je quitte la zone sans attendre avec tout mon matériel puis m’assure à une distance
+                            suffisante qu’aucun élément ne peut être emporté par le vent.
+                        </Answer3>
+                        <Answer4>Je quitte sans attendre la zone dangereuse et laisse mon équipement sur place.
+                        </Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2100</ID>
+                        <Number>161</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Après le décollage, je remarque un hélicoptère en vol stationnaire dans la direction
+                            du terrain d’atterrissage, à 500 m de moi et un peu plus bas. Quel comportement dois-je
+                            adopter?
+                        </Question>
+                        <Answer1>Je longe l’hélicoptère le plus près possible, mais pas à moins de 100 m, afin de perdre
+                            le moins d’altitude possible jusqu’au terrain d’atterrissage.
+                        </Answer1>
+                        <Answer2>Je fais un détour très au large de l’hélicoptère et respecte une distance d’au moins
+                            500 m puis me pose sur un autre terrain dans la mesure où je peux le faire sans risque.
+                        </Answer2>
+                        <Answer3>J’effectue un virage à 180° et me pose à la pente au prochain endroit adapté.</Answer3>
+                        <Answer4>J’attire l’attention de l’hélicoptère sur moi en effectuant des mouvements de
+                            balancier. C’est à lui de m’éviter.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>4</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2101</ID>
+                        <Number>162</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>Lors du survol d’une forêt étendue et après une grosse fermeture, je dois lancer mon
+                            parachute de secours. Je me pose sans me blesser dans une grande clairière. Que dois-je
+                            faire?
+                        </Question>
+                        <Answer1>Replier mon aile et mon secours le plus vite possible afin qu’il ne vienne pas à l’idée
+                            des randonneurs d’alerter les secours ou la police.
+                        </Answer1>
+                        <Answer2>J’attends au moins une heure sur place afin de donner mon identité à l’arrivée des
+                            secours.
+                        </Answer2>
+                        <Answer3>Je replie mon aile et rentre chez moi après avoir laissé une note dans la clairière
+                            avec mon nom, mon adresse et mon numéro de téléphone.
+                        </Answer3>
+                        <Answer4>Je contacte dès que possible la Rega au numéro 1414 afin d’indiquer ma position et ce
+                            qui m’est arrivé. J’évite ainsi une intervention inutile des secours.
+                        </Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2102</ID>
+                        <Number>17</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>Quels éléments font entre autres partie de la préparation optimale d’un vol sur un
+                            nouveau site?
+                        </Question>
+                        <Answer1>Inspection du terrain d’atterrissage, informations relatives aux obstacles aériens,
+                            inscription du vol auprès du chef de l’aérodrome le plus proche.
+                        </Answer1>
+                        <Answer2>Inspection du terrain d’atterrissage, informations relatives aux obstacles aériens,
+                            inscription du vol auprès du chef de l’aérodrome le plus proche, planification du vol en
+                            fonction des conditions.
+                        </Answer2>
+                        <Answer3>Inscription du vol auprès du chef de l’aérodrome le plus proche, planification du vol
+                            en fonction des conditions, inspection du terrain d’atterrissage.
+                        </Answer3>
+                        <Answer4>Planification du vol en fonction des conditions, inspection du terrain d’atterrissage,
+                            informations relatives aux obstacles aériens.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>4</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2103</ID>
+                        <Number>18</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>À quoi faut-il faire particulièrement attention lors de la visite du terrain
+                            d’atterrissage sur un nouveau site de vol?
+                        </Question>
+                        <Answer1>Quelles sont les voies d’accès, où peut-on replier son aile?</Answer1>
+                        <Answer2>Où se trouvent le cabinet médical et la cabine téléphonique les plus proches?</Answer2>
+                        <Answer3>Quelles sont les directions possible du vent, quels obstacles doivent être pris en
+                            compte selon les différentes approches?
+                        </Answer3>
+                        <Answer4>Où se trouve la cabine téléphonique la plus proche, quelles sont les voies d’accès?
+                        </Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2104</ID>
+                        <Number>19</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>1</Answer>
+                        <Question>Des informations sur la présence de câbles fixes à une hauteur élevée et leur tracé
+                            sont données
+                        </Question>
+                        <Answer1>sur la carte des obstacles à la navigation aérienne de la Confédération et en partie
+                            sur la carte de vol à voile.
+                        </Answer1>
+                        <Answer2>dans l'OACS.</Answer2>
+                        <Answer3>dans le Notam.</Answer3>
+                        <Answer4>dans le DABS.</Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2105</ID>
+                        <Number>20</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Quel est le critère essentiel lors du choix d’un terrain de décollage adapté?
+                        </Question>
+                        <Answer1>Le terrain de décollage doit être équipé d’une manche à air ou d’un mouchard.</Answer1>
+                        <Answer2>Une interruption de décollage doit être possible à tout moment sans danger.</Answer2>
+                        <Answer3>Le vent doit être constamment de face.</Answer3>
+                        <Answer4>Le terrain de décollage doit être suffisamment incliné pour garantir un décollage
+                            rapide.
+                        </Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2106</ID>
+                        <Number>21</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Un vent de face constant souffle à 15 km/h au décollage. À quoi faut-il s’attendre
+                            concernant la distance et la vitesse de décollage?
+                        </Question>
+                        <Answer1>La distance de décollage sera courte, la vitesse de décollage sera élevée.</Answer1>
+                        <Answer2>La distance de décollage sera courte, la vitesse de décollage sera faible</Answer2>
+                        <Answer3>La distance de décollage sera longue, la vitesse de décollage sera élevée.</Answer3>
+                        <Answer4>La distance de décollage sera longue, la vitesse de décollage sera faible.</Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2107</ID>
+                        <Number>22</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Sur un terrain de décollage peu incliné, le vent est nul. À quoi faut-il s’attendre
+                            concernant la distance et la vitesse de décollage?
+                        </Question>
+                        <Answer1>La distance de décollage sera courte, la vitesse de décollage sera élevée.</Answer1>
+                        <Answer2>La distance de décollage sera courte, la vitesse de décollage sera faible</Answer2>
+                        <Answer3>La distance de décollage sera longue, la vitesse de décollage sera élevée.</Answer3>
+                        <Answer4>La distance de décollage sera longue, la vitesse de décollage sera faible.</Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2108</ID>
+                        <Number>23</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Sur un site de décollage, le vent est nul. Quel est le critère essentiel d’un terrain
+                            de décollage adapté?
+                        </Question>
+                        <Answer1>La présence d’une manche à air ou d’un mouchard dans la pente en dessous du
+                            décollage.
+                        </Answer1>
+                        <Answer2>L’aire de décollage devant le parapente doit comporter le moins de petits obstacles et
+                            d’inégalités possible.
+                        </Answer2>
+                        <Answer3>L’aire de décollage derrière le parapente doit être aussi plate que possible et
+                            comporter le moins de petits obstacles et d’inégalités possible.
+                        </Answer3>
+                        <Answer4>La pente doit être très inclinée pour permettre un décollage rapide.</Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2109</ID>
+                        <Number>24</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Un vent de face constant souffle à 20 km/h au décollage. Quel est le critère essentiel
+                            d’un terrain de décollage adapté?
+                        </Question>
+                        <Answer1>La présence d’une manche à air ou d’un mouchard dans la pente en dessous du
+                            décollage.
+                        </Answer1>
+                        <Answer2>L’aire de décollage devant le parapente doit comporter le moins de petits obstacles et
+                            d’inégalités possible.
+                        </Answer2>
+                        <Answer3>L’aire de décollage derrière le parapente doit être aussi plate que possible et
+                            comporter le moins de petits obstacles et d’inégalités possible.
+                        </Answer3>
+                        <Answer4>La pente doit être très inclinée pour permettre un décollage rapide.</Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2110</ID>
+                        <Number>163</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Après une erreur de pilotage, j’atterris dans un arbre avec rudesse mais sans me
+                            blesser. J’estime la hauteur de l’arbre, un sapin blanc, à environ 30 m. Que dois-je faire?
+                        </Question>
+                        <Answer1>Je me libère de l’aile et de la sellette et commence à descendre avec prudence.
+                        </Answer1>
+                        <Answer2>Je vérifie la solidité des branches et m’assure à l’aide de la longue corde que j’ai
+                            emportée dans ma sellette.
+                        </Answer2>
+                        <Answer3>J’alarme les secours à l’aide de mon portable puis j’attends de l’aide. Je bouge alors
+                            le moins possible.
+                        </Answer3>
+                        <Answer4>Je coupe quelques suspentes (si possible les suspentes de frein), je les attache les
+                            unes aux autres puis descends en rappel à l’aide d’un mousqueton.
+                        </Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2111</ID>
+                        <Number>25</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Lors du décollage depuis un couloir ou une clairière dans une forêt, il faut le cas
+                            échéant s’attendre à
+                        </Question>
+                        <Answer1>des déclenchements thermiques fréquents entrainant des turbulences à cause de la grande
+                            différence de température entre la forêt et la prairie.
+                        </Answer1>
+                        <Answer2>un vent nul au sol alors qu’il souffle au niveau de la cime des arbres, ce qui engendre
+                            de fortes turbulences au niveau de la cime des arbres.
+                        </Answer2>
+                        <Answer3>des courants thermiques descendants proches du sol, dans la clairière fraîche près de
+                            la forêt ensoleillée, qui compliquent le décollage.
+                        </Answer3>
+                        <Answer4>de forts courants thermiques descendants lors du survol des premiers arbres, à cause de
+                            la différence de température entre la clairière et la forêt.
+                        </Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2112</ID>
+                        <Number>26</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Quels signes indiquent qu’un décollage se situe probablement sous le vent?</Question>
+                        <Answer1>Un vent ascendant constant de 5 à 10 km/h.</Answer1>
+                        <Answer2>Le changement abrupt de la vitesse et de la direction du vent.</Answer2>
+                        <Answer3>L’alternance constante entre un vent nul et des phases avec des courants ascendants
+                            chauds d’une force irrégulière.
+                        </Answer3>
+                        <Answer4>Quand, à haute altitude, les nuages se déplacent lentement en direction et par-dessus
+                            le décollage.
+                        </Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2113</ID>
+                        <Number>27</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>Un vent de face constant souffle à 25 km/h au décollage. Quelle méthode de décollage
+                            est la plus sûre?
+                        </Question>
+                        <Answer1>Le pilote se place sur un plan très incliné le plus près possible du bord de fuite et
+                            accélère au maximum pour gonfler l'aile de manière énergique.
+                        </Answer1>
+                        <Answer2>Tant que les circonstances le permettent, on décolle toujours dos à l’aile car il
+                            s’agit de loin de la méthode de décollage la plus sûre.
+                        </Answer2>
+                        <Answer3>Sur un plan très incliné, le pilote procède au gonflage face à l’aile afin d’être
+                            soulevé dès que la calotte se trouve au-dessus de lui.
+                        </Answer3>
+                        <Answer4>Sur un terrain plat, le pilote procède au gonflage face à l’aile et évite
+                            impérativement d’être soulevé involontairement.
+                        </Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2114</ID>
+                        <Number>164</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>1</Answer>
+                        <Question>Je me trouve loin au-dessus d’une vallée que je traverse. J’entends soudain un
+                            hélicoptère et le vois venir droit sur moi à la même altitude, à environ 1 km de distance.
+                            Que dois-je faire?
+                        </Question>
+                        <Answer1>J’agrandis ma silhouette en effectuant des mouvements de balancier ou des virages et
+                            manifeste ainsi ma présence à l’hélicoptère afin qu’il puisse me voir et m’éviter.
+                        </Answer1>
+                        <Answer2>Je fais les oreilles des deux côtés et augmente ainsi mon taux de chute afin que nous
+                            ne nous croisions pas à la même altitude. J’effectue en même temps un virage à 90° afin
+                            d’éviter l’hélicoptère.
+                        </Answer2>
+                        <Answer3>J’appelle la centrale d’intervention de la Rega, qui prend contact avec le pilote de
+                            l’hélicoptère et lui indique ma présence.
+                        </Answer3>
+                        <Answer4>Je lâche les freins et attire l’attention en faisant des signes et en criant. Si ça ne
+                            suffit pas, je lance mon secours.
+                        </Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2115</ID>
+                        <Number>28</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>1</Answer>
+                        <Question>En quoi consiste un contrôle prévol en 5 points (MAVIE) correct?</Question>
+                        <Answer1>1. Sellette, casque et parachute de secours fermés et sécurisés; 2. Élévateurs et
+                            suspentes agencés correctement; 3. Calotte bien en place; 4. Direction et force du vent; 5.
+                            Trajectoire et espace de décollage libres.
+                        </Answer1>
+                        <Answer2>1. Élévateurs et suspentes agencés correctement; 2. Calotte bien en place; 3. Direction
+                            et force du vent; 4. Trajectoire et espace de décollage libres; 5. Sellette, casque et
+                            parachute de secours fermés et sécurisés.
+                        </Answer2>
+                        <Answer3>1. Calotte bien en place; 2. Direction et force du vent; 3. Trajectoire et espace de
+                            décollage libres; 4. Sellette, casque et parachute de secours fermés et sécurisés; 5.
+                            Élévateurs et suspentes agencés correctement.
+                        </Answer3>
+                        <Answer4>1. Direction et force du vent; 2. Trajectoire et espace de décollage libres; 3.
+                            Sellette, casque et parachute de secours fermés et sécurisés; 4. Élévateurs et suspentes
+                            agencés correctement; 5. Calotte bien en place.
+                        </Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2116</ID>
+                        <Number>29</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>Par un vent constant de 25 km/h et en cas de gonflage face à l’aile, le contrôle
+                            prévol en 5 points (MAVIE) est-il modifié?
+                        </Question>
+                        <Answer1>Non.</Answer1>
+                        <Answer2>Oui, dans la mesure où le contrôle de la direction et de la force du vent n’est pas
+                            nécessaire.
+                        </Answer2>
+                        <Answer3>Oui, dans la mesure où le contrôle de la calotte n’est pas nécessaire.</Answer3>
+                        <Answer4>Oui, dans la mesure où le contrôle de la trajectoire et de l’espace de décollage est à
+                            nouveau nécessaire après le gonflage de l’aile.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>4</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2117</ID>
+                        <Number>30</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>À quel moment un pilote doit-il s’assurer que la trajectoire et l’espace de décollage
+                            sont libres?
+                        </Question>
+                        <Answer1>Avant de se préparer au décollage.</Answer1>
+                        <Answer2>Avant de déployer l'aile au décollage.</Answer2>
+                        <Answer3>Juste avant le décollage.</Answer3>
+                        <Answer4>Lorsqu'il a fini d'étaler l'aile.</Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2118</ID>
+                        <Number>31</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Quel est le pire scénario possible quand un pilote a oublié de fermer les sangles de
+                            cuisses avant le décollage?
+                        </Question>
+                        <Answer1>Le pilote ne peut pas s'installer confortablement dans la sellette.</Answer1>
+                        <Answer2>Le pilote doit lâcher les freins après le décollage pour s'installer dans la
+                            sellette.
+                        </Answer2>
+                        <Answer3>Le pilote peut glisser hors de la sellette et faire une chute mortelle.</Answer3>
+                        <Answer4>Le parapente ne peut plus être piloté par déplacement du poids du corps.</Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2119</ID>
+                        <Number>32</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Quelles sont les conséquences éventuelles lorsqu’un pilote ne serre pas suffisamment
+                            les sangles de cuisses avant le décollage?
+                        </Question>
+                        <Answer1>Il peut glisser hors de la sellette et faire une chute mortelle.</Answer1>
+                        <Answer2>Il peut s’avérer difficile, voire impossible, de s’asseoir dans la sellette.</Answer2>
+                        <Answer3>L'aile tire continuellement d'un côté.</Answer3>
+                        <Answer4>Le parapente ne peut plus être piloté par déplacement du poids du corps.</Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2120</ID>
+                        <Number>33</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Quelles conséquences peut entraîner une calotte mouillée?</Question>
+                        <Answer1>Les performances du parapente seront fortement réduites.</Answer1>
+                        <Answer2>La vitesse de décollage, de vol et d'atterrissage augmentera fortement.</Answer2>
+                        <Answer3>La calotte s’avère plus difficile à gonfler et monte moins bien; l’aile peut décrocher
+                            plus tôt que d’habitude quand on agit sur les freins.
+                        </Answer3>
+                        <Answer4>Le parapente est imprégné, il ne peut pas se mouiller.</Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2121</ID>
+                        <Number>165</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Au terrain de décollage, j’apprends par radio qu’un accident vient d’avoir lieu au
+                            terrain d’atterrissage et qu’un hélicoptère de secours va intervenir. Quel est le
+                            comportement correct à adopter?
+                        </Question>
+                        <Answer1>Je décolle le plus vite possible afin d’atterrir avant même l’hélicoptère, puis j’aide
+                            les secours.
+                        </Answer1>
+                        <Answer2>J’attends la fin de l’intervention et le départ de l’hélicoptère de la zone avant de
+                            décoller. J’informe les autres pilotes présents au décollage et les prie d’attendre, eux
+                            aussi.
+                        </Answer2>
+                        <Answer3>Je décolle et cherche immédiatement un bon thermique afin de passer le temps de manière
+                            judicieuse en attendant que l’hélicoptère ait redécollé.
+                        </Answer3>
+                        <Answer4>Je décolle et me pose sur le terrain juste à côté de l’atterro officiel. Tant que le
+                            rotor de l’hélicoptère ne tourne pas, j’ai le droit de me poser juste à côté de lui.
+                        </Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2122</ID>
+                        <Number>34</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Un pilote a un doute quant au décollage dans des conditions données. Quelle attitude
+                            doit-il adopter?
+                        </Question>
+                        <Answer1>Il laisse les autres pilotes décoller en premier. Si les autres y parviennent, il
+                            pourra lui aussi décoller sans problème.
+                        </Answer1>
+                        <Answer2>Il décolle: sur les sites de décollage officiels, la sécurité doit être garantie.
+                        </Answer2>
+                        <Answer3>Il décolle uniquement s’il est convaincu d’y arriver sans problème.</Answer3>
+                        <Answer4>Il décolle: utilisateur fréquent de ce décollage, il peut considérer qu’il y arrivera,
+                            cette fois encore.
+                        </Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2123</ID>
+                        <Number>35</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>Un décollage en parapente se déroule en trois phases. Lesquelles?</Question>
+                        <Answer1>1. Gonflage, 2. Contrôle/Correction, 3. Freinage</Answer1>
+                        <Answer2>1. Contrôle, 2. Gonflage, 3. Accélération</Answer2>
+                        <Answer3>1. Gonflage, 2. Freinage, 3. Accélération</Answer3>
+                        <Answer4>1. Gonflage, 2. Contrôle/correction, 3. Accélération</Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2124</ID>
+                        <Number>36</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Lors de quelle phase faut-il au plus tard procéder à une interruption de décollage
+                            contrôlée?
+                        </Question>
+                        <Answer1>Lors d'aucune phase.</Answer1>
+                        <Answer2>Lors de la phase de gonflage.</Answer2>
+                        <Answer3>Lors de la phase de contrôle et de correction.</Answer3>
+                        <Answer4>Lors de la phase d'accélération.</Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2125</ID>
+                        <Number>37</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Sur un terrain de décollage sud souffle un vent de 120°/5 nœuds. Quelle est la manière
+                            correcte de procéder?
+                        </Question>
+                        <Answer1>Gonfler l’aile vers le sud puis accélérer en direction du sud-ouest afin de compenser
+                            le vent latéral.
+                        </Answer1>
+                        <Answer2>Gonfler l’aile face au vent puis accélérer face au vent, dans la diagonale de la
+                            pente.
+                        </Answer2>
+                        <Answer3>Gonfler l’aile face au vent, la tourner vers la ligne de pente puis accélérer.
+                        </Answer3>
+                        <Answer4>Il faut renoncer à décoller: un décollage par vent latéral représente un risque
+                            important.
+                        </Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2126</ID>
+                        <Number>166</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Un hélicoptère vient de la gauche et croise la trajectoire d’un parapente. L’hélico
+                            dévie vers le haut afin d’éviter tout rapprochement ou une collision.
+                        </Question>
+                        <Answer1>Comme l’hélico dévie de sa trajectoire, le parapentiste peut poursuivre son vol sans
+                            hésiter.
+                        </Answer1>
+                        <Answer2>Le parapentiste effectue si possible un demi-tour ou un virage à 90° afin d’éviter
+                            l’éventuel «downwash» dû à l’hélico.
+                        </Answer2>
+                        <Answer3>Le parapentiste effectue une manœuvre de roulis sur l’axe longitudinal (un salut) et
+                            signale ainsi au pilote de l’hélicoptère qu’il l’a vu.
+                        </Answer3>
+                        <Answer4>En montée, le «downwash» de l’hélico reste très faible et le parapentiste n’a pas à
+                            s’inquiéter de quelconques tourbillons.
+                        </Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2127</ID>
+                        <Number>38</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Par vent nul, un décollage à 3'600 m/mer se distingue d’un décollage à 1'400 m/mer par
+                            le fait que la distance de décollage à 3’600 m/mer
+                        </Question>
+                        <Answer1>est plus courte en raison des performances augmentées de l’organisme humain à cette
+                            altitude.
+                        </Answer1>
+                        <Answer2>est plus courte car on peut accélérer plus vite grâce à la faible densité
+                            atmosphérique.
+                        </Answer2>
+                        <Answer3>est plus longue car la faible densité atmosphérique doit être compensée par une vitesse
+                            de décollage plus élevée.
+                        </Answer3>
+                        <Answer4>est identique, il n’y a pas de différence.</Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2128</ID>
+                        <Number>39</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Après le décollage, un pilote ne réussit pas à s’installer confortablement dans la
+                            sellette à cause de sangles de cuisses desserrées. Quelle réaction est correcte?
+                        </Question>
+                        <Answer1>Lâcher aussitôt les freins afin de faire glisser la planche d’assise sous les fesses.
+                        </Answer1>
+                        <Answer2>Les freins en mains, saisir immédiatement la planche d’assise et la faire glisser sous
+                            les fesses.
+                        </Answer2>
+                        <Answer3>S’éloigner un peu de la pente, saisir les deux freins dans une main et faire glisser la
+                            planche d’assise sous les fesses avec la main libre.
+                        </Answer3>
+                        <Answer4>Il ne faut en aucun cas lâcher les freins pendant le vol. Au cas où on ne parvient pas
+                            à glisser dans la sellette sans l’aide des mains, il faut amorcer un atterrissage forcé.
+                        </Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2129</ID>
+                        <Number>40</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Pourquoi ne faut-il pas lâcher les freins immédiatement après le décollage?</Question>
+                        <Answer1>Juste après le décollage, la pression dynamique pourrait diminuer, entrainant une
+                            fermeture de l’aile.
+                        </Answer1>
+                        <Answer2>En cas de fermeture de l’aile due à des turbulences à proximité du sol, le pilote n’a
+                            pas le temps d’effectuer des corrections s’il doit d’abord chercher les poignées de freins.
+                        </Answer2>
+                        <Answer3>Juste après le décollage, le pilote doit fortement freiner l’aile afin d’améliorer sa
+                            finesse et lui permettre de décoller.
+                        </Answer3>
+                        <Answer4>À cause des turbulences fréquentes à proximité du sol, le pilote doit pouvoir
+                            s’agripper aux freins afin de se redresser au cas où il toucherait à nouveau le sol.
+                        </Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2130</ID>
+                        <Number>41</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Juste après le décollage, un parapentiste constate qu’il doit fortement freiner à
+                            droite pour voler tout droit. Quelle peut en être la cause?
+                        </Question>
+                        <Answer1>Un léger vent de travers venant de la droite.</Answer1>
+                        <Answer2>Un fort vent de travers venant de la gauche.</Answer2>
+                        <Answer3>Un nœud entre les suspentes, derrière à gauche.</Answer3>
+                        <Answer4>Un nœud entre les suspentes, derrière à droite.</Answer4>
+                        <CorrectAnswered>4</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2131</ID>
+                        <Number>42</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Juste après le décollage, un parapentiste constate qu’il doit fortement freiner à
+                            droite pour voler tout droit. II aperçoit alors un nœud entre les suspentes D et les
+                            suspentes de frein. Quelles sont les conséquences sur la suite du vol?
+                        </Question>
+                        <Answer1>L’aile est plus sensible aux turbulences et se ferme plus vite.</Answer1>
+                        <Answer2>La tendance au vol parachutal augmente et il faut s’attendre à un décrochage
+                            asymétrique lorsque l’on vire à droite.
+                        </Answer2>
+                        <Answer3>Les suspentes D peuvent se déchirer par frottement, entraînant la chute.</Answer3>
+                        <Answer4>L’aile a une forte tendance à la fermeture côté droit et en cas de virage à gauche, le
+                            risque de décrochage asymétrique augmente.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>4</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2132</ID>
+                        <Number>43</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>1</Answer>
+                        <Question>Juste après le décollage, un pilote aperçoit un nœud dans les suspentes avant, côté
+                            gauche de l’aile. Quelles sont les conséquences sur la suite du vol?
+                        </Question>
+                        <Answer1>L’aile est plus sensible aux turbulences et se ferme plus vite.</Answer1>
+                        <Answer2>La tendance au vol parachutal augmente et il faut s’attendre à un décrochage
+                            asymétrique lorsque l’on vire à droite.
+                        </Answer2>
+                        <Answer3>Les suspentes D peuvent se déchirer par frottement, entraînant la chute.</Answer3>
+                        <Answer4>L’aile a une forte tendance à la fermeture côté droit et en cas de virage à gauche, le
+                            risque de décrochage asymétrique augmente.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>4</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2133</ID>
+                        <Number>44</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Juste après le décollage, un pilote constate qu’il ne peut pas actionner le frein
+                            gauche et aperçoit un nœud au niveau du passage de la suspente de frein sur l’élévateur
+                            arrière. Quelle réaction est correcte?
+                        </Question>
+                        <Answer1>Immédiatement amorcer un atterrissage d’urgence par un virage à droite.</Answer1>
+                        <Answer2>Piloter l’aile avec plus de force côté gauche afin de desserrer un peu le nœud.
+                        </Answer2>
+                        <Answer3>Piloter l’aile à l’aide de l’élévateur arrière, côté gauche, jusqu’à atteindre une
+                            distance de sécurité suffisante par rapport au relief, puis essayer de défaire le nœud.
+                        </Answer3>
+                        <Answer4>Tirer brièvement les deux freins à fond de manière énergique (pomper des deux côtés)
+                            pour défaire le nœud.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>4</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2134</ID>
+                        <Number>45</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Un pilote désire voler le plus loin possible par vent nul. Quelle attitude doit-il
+                            adopter?
+                        </Question>
+                        <Answer1>Il doit voler aussi vite que possible, ouvrir les trims si l’aile en dispose et
+                            accélérer autant que l’aile et les turbulences le permettent.
+                        </Answer1>
+                        <Answer2>Il doit voler sans freiner à la vitesse trimmée.</Answer2>
+                        <Answer3>Il doit freiner le parapente à environ 20 - 30%.</Answer3>
+                        <Answer4>Il doit freiner le parapente à environ 50%.</Answer4>
+                        <CorrectAnswered>1</CorrectAnswered>
+                        <WrongAnswered>2</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2135</ID>
+                        <Number>46</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Un terrain de décollage se situe à 1'600 m au-dessus du niveau de la mer, le fond de
+                            la vallée à 400 m au-dessus du niveau de la mer. Le fabricant d’un parapente indique une
+                            finesse de 9. Quelle est la distance la plus grande que l’on peut parcourir par vent nul?
+                        </Question>
+                        <Answer1>6 km</Answer1>
+                        <Answer2>9 km</Answer2>
+                        <Answer3>10,8 km</Answer3>
+                        <Answer4>14,4 km</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>1</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2136</ID>
+                        <Number>47</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Un pilote désire rester en l’air aussi longtemps que possible avec son parapente.
+                            Quelle attitude doit-il adopter?
+                        </Question>
+                        <Answer1>Il doit voler aussi vite que possible, ouvrir les trims si l’aile en dispose et
+                            accélérer autant que l’aile et les turbulences le permettent.
+                        </Answer1>
+                        <Answer2>Il doit voler en freinant à peine le parapente (1% - 10%).</Answer2>
+                        <Answer3>Il doit freiner le parapente à environ 20 - 30%.</Answer3>
+                        <Answer4>Il doit freiner le parapente à environ 50%.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>2</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2137</ID>
+                        <Number>48</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>La vitesse de vol d’une aile peut-elle être influencée par la position du corps?
+                        </Question>
+                        <Answer1>Lorsqu’on vole en se penchant en avant et qu’on appuie les épaules contre les
+                            élévateurs, l’aile s’en trouve accélérée.
+                        </Answer1>
+                        <Answer2>Adopter une position aérodynamique en vol permet de nettement réduire la traînée et
+                            d’augmenter légèrement la vitesse.
+                        </Answer2>
+                        <Answer3>Lorsqu’on allonge les jambes, le centre de gravité se déplace vers l’avant, l’angle
+                            d’incidence diminue et l’aile vole plus vite.
+                        </Answer3>
+                        <Answer4>Non.</Answer4>
+                        <CorrectAnswered>2</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2138</ID>
+                        <Number>49</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>1</Answer>
+                        <Question>Un pilote désire voler aussi loin que possible avec son parapente par un vent de face
+                            de 25 km/h. Quelle attitude doit-il adopter?
+                        </Question>
+                        <Answer1>Il doit voler aussi vite que possible, ouvrir les trims si l’aile en dispose et
+                            accélérer autant que l’aile et les turbulences le permettent.
+                        </Answer1>
+                        <Answer2>Il doit voler en freinant à peine le parapente (1% - 10%).</Answer2>
+                        <Answer3>Il doit freiner le parapente à environ 20 - 30%.</Answer3>
+                        <Answer4>Il doit freiner le parapente à environ 50%.</Answer4>
+                        <CorrectAnswered>2</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2139</ID>
+                        <Number>50</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Un pilote désire voler aussi loin que possible avec son parapente par un vent arrière
+                            de 20 km/h. Quelle attitude doit-il adopter?
+                        </Question>
+                        <Answer1>Il doit voler aussi vite que possible, ouvrir les trims si l’aile en dispose et
+                            accélérer autant que l’aile et les turbulences le permettent.
+                        </Answer1>
+                        <Answer2>Il doit voler à la vitesse trimmée.</Answer2>
+                        <Answer3>Il doit voler en freinant légèrement.</Answer3>
+                        <Answer4>Il doit freiner le parapente à environ 50%.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>2</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2140</ID>
+                        <Number>51</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Un pilote vole dans une pompe thermique très étendue montant à 3 m/s. Quelle attitude
+                            doit-il adopter pour gagner le plus d’altitude possible?
+                        </Question>
+                        <Answer1>Il doit voler aussi vite que possible, ouvrir les trims si l’aile en dispose et
+                            accélérer autant que l’aile et les turbulences le permettent.
+                        </Answer1>
+                        <Answer2>Il doit voler à la vitesse trimmée.</Answer2>
+                        <Answer3>Il doit freiner le parapente à environ 20 - 30%.</Answer3>
+                        <Answer4>Il doit freiner le parapente à environ 50%.</Answer4>
+                        <CorrectAnswered>2</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2141</ID>
+                        <Number>167</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Sur un terrain d’atterrissage pour parapentes, une toile rouge d’env. 6 x 6 m avec une
+                            croix jaune sur les deux diagonales
+                        </Question>
+                        <Answer1>signifie qu’un exercice pratique pour instructeurs de vol libre a lieu. Il inclut un
+                            atterrissage très précis, d’où cette croix d’atterrissage.
+                        </Answer1>
+                        <Answer2>correspond à une information pour les hélicoptères en approche et indique un héliport
+                            (terrain d’atterrissage extérieur).
+                        </Answer2>
+                        <Answer3>indique une interdiction d’atterrissage pour tous les aéronefs, qu’il s’agisse d’avions
+                            à voilure fixe, d’hélicoptères ou de planeurs de pente. Respecte cette interdiction et
+                            utilise un terrain d’atterrissage alternatif. Si un hélicoptère de secours est en approche,
+                            ce signe d’interdiction d’atterrissage sera brièvement retiré pour éviter qu’il ne soit
+                            emporté par le «downwash» de l’hélico.
+                        </Answer3>
+                        <Answer4>signalise une chasse aux chevreuils, chamois et bouquetins. Il faut s’attendre à des
+                            bruits de chasse dans un rayon de 5 km. Aucun risque direct pour les parapentistes, il
+                            s’agit d’une signalisation purement informative.
+                        </Answer4>
+                        <CorrectAnswered>2</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2142</ID>
+                        <Number>52</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>Un pilote vole en direction du terrain d’atterrissage qui se trouve précisément au sud
+                            de sa position. Il s’aperçoit qu’un vent d’ouest modéré souffle à 25 km/h. Quelle attitude
+                            doit-il adopter pour arriver le plus haut possible au-dessus du terrain d’atterrissage?
+                        </Question>
+                        <Answer1>Il doit orienter son aile en direction du sud et voler aussi vite que possible.
+                        </Answer1>
+                        <Answer2>Il doit orienter son aile en direction du terrain d'atterrissage et voler en freinant
+                            légèrement.
+                        </Answer2>
+                        <Answer3>Il doit orienter son aile en direction du terrain d'atterrissage et voler aussi vite
+                            que possible.
+                        </Answer3>
+                        <Answer4>Il doit orienter son aile en direction du sud-ouest et voler aussi vite que possible.
+                        </Answer4>
+                        <CorrectAnswered>2</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2143</ID>
+                        <Number>53</Number>
+                        <ImageID>23</ImageID>
+                        <Answer>4</Answer>
+                        <Question>Un pilote vole en direction du terrain d’atterrissage qui se trouve précisément au sud
+                            de sa position. Il s’aperçoit qu’un vent d’ouest modéré souffle à 20 km/h et oriente
+                            toujours son aile précisément en direction du terrain d’atterrissage. Quelle est sa
+                            trajectoire?
+                        </Question>
+                        <Answer1>1</Answer1>
+                        <Answer2>2</Answer2>
+                        <Answer3>3</Answer3>
+                        <Answer4>4</Answer4>
+                        <CorrectAnswered>2</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2144</ID>
+                        <Number>54</Number>
+                        <ImageID>23</ImageID>
+                        <Answer>3</Answer>
+                        <Question>Un pilote vole en direction du terrain d’atterrissage qui se trouve précisément au sud
+                            de sa position. Il s’aperçoit qu’un vent d’ouest modéré souffle à 20 km/h et oriente
+                            toujours son aile précisément en direction du sud. Quelle est sa trajectoire?
+                        </Question>
+                        <Answer1>1</Answer1>
+                        <Answer2>2</Answer2>
+                        <Answer3>3</Answer3>
+                        <Answer4>4</Answer4>
+                        <CorrectAnswered>2</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2145</ID>
+                        <Number>55</Number>
+                        <ImageID>23</ImageID>
+                        <Answer>1</Answer>
+                        <Question>Un pilote vole en direction du terrain d’atterrissage qui se trouve précisément au sud
+                            de sa position. Il s’aperçoit qu’un vent d’ouest modéré souffle à 20 km/h et oriente
+                            toujours son aile précisément en direction du sud-ouest. Quelle est sa trajectoire?
+                        </Question>
+                        <Answer1>1</Answer1>
+                        <Answer2>2</Answer2>
+                        <Answer3>3</Answer3>
+                        <Answer4>4</Answer4>
+                        <CorrectAnswered>1</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2146</ID>
+                        <Number>56</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>1</Answer>
+                        <Question>L'angle de correction de dérive est l'angle entre</Question>
+                        <Answer1>l’axe longitudinal de l’aile et la trajectoire de vol.</Answer1>
+                        <Answer2>l’axe longitudinal de l’aile et la direction du vent.</Answer2>
+                        <Answer3>l’axe transversal de l’aile et la direction du vent.</Answer3>
+                        <Answer4>la direction du vent et la trajectoire de vol.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>2</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2147</ID>
+                        <Number>57</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>1</Answer>
+                        <Question>L'angle de correction de dérive</Question>
+                        <Answer1>augmente quand le vent de travers se renforce.</Answer1>
+                        <Answer2>diminue quand le vent de travers se renforce.</Answer2>
+                        <Answer3>est influencé par la direction du vent, pas par sa force.</Answer3>
+                        <Answer4>est influencé par la force du vent, pas par sa direction.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2148</ID>
+                        <Number>58</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>1</Answer>
+                        <Question>Le libériste A vole à 35 km/h, le libériste B à 50 km/h. Tous deux suivent la même
+                            trajectoire et sont soumis au même vent de travers.
+                        </Question>
+                        <Answer1>A doit choisir un plus grand angle de correction de dérive que B.</Answer1>
+                        <Answer2>Tous deux choisissent le même angle de correction de dérive.</Answer2>
+                        <Answer3>B doit choisir un plus grand angle de correction de dérive que A.</Answer3>
+                        <Answer4>L’angle de correction de dérive correspond toujours à la bissectrice de la trajectoire
+                            et du vent de travers.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2149</ID>
+                        <Number>59</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>L'angle de correction de dérive</Question>
+                        <Answer1>augmente quand la vitesse de vol est plus élevée.</Answer1>
+                        <Answer2>diminue quand la vitesse de vol est plus élevée.</Answer2>
+                        <Answer3>n’est pas influencé par la vitesse de vol.</Answer3>
+                        <Answer4>correspond toujours à la moitié de l’angle entre vent et trajectoire.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2150</ID>
+                        <Number>60</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>La grandeur de l’angle de correction de dérive dépend</Question>
+                        <Answer1>du taux de chute de l’aile, de la direction et de la force du vent.</Answer1>
+                        <Answer2>du taux de chute de l’aile, de la force du vent et de la distance à parcourir.
+                        </Answer2>
+                        <Answer3>de la vitesse de l’aile, de la direction du vent et de la distance à parcourir.
+                        </Answer3>
+                        <Answer4>de la vitesse de l’aile, de la direction et de la force du vent.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2151</ID>
+                        <Number>168</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Les libéristes doivent-ils respecter les zones de protection de la faune et de la
+                            forêt?
+                        </Question>
+                        <Answer1>Non, elles n’ont pas non plus de signification pour les pilotes de distance.</Answer1>
+                        <Answer2>Oui, y entrer s’avère illégal et sera puni.</Answer2>
+                        <Answer3>Oui. Un non-respect met en péril le site de vol concerné.</Answer3>
+                        <Answer4>Non, il s’agit d’accords purement volontaires, ne pas les respecter n’a aucune
+                            conséquence.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2152</ID>
+                        <Number>61</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Un libériste vole face au vent et se retrouve sous un cumulus. Où peut-il anticiper un
+                            courant ascendant?
+                        </Question>
+                        <Answer1>Aussitôt qu'il se trouve sous le cumulus.</Answer1>
+                        <Answer2>Au centre du cumulus.</Answer2>
+                        <Answer3>En particulier au vent du cumulus.</Answer3>
+                        <Answer4>En particulier sous le vent du cumulus.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2153</ID>
+                        <Number>62</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Un libériste enroule un thermique pendant 10 minutes. Pendant ce temps, il se déplace
+                            d’environ 3 km par rapport au sol. Que peut-on dire quant à la force du vent?
+                        </Question>
+                        <Answer1>La force du vent ne peut être précisée à partir des informations données.</Answer1>
+                        <Answer2>Elle est de 30 km/h.</Answer2>
+                        <Answer3>Elle est de 18 km/h.</Answer3>
+                        <Answer4>Il faut s'attendre à un vent très fort au sol.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2154</ID>
+                        <Number>63</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>1</Answer>
+                        <Question>Un libériste arrive dans une masse d’air ascendante dans laquelle il veut enrouler.
+                            Après un virage de 90°, son vario affiche une valeur négative. Quelle est la meilleure
+                            attitude à adopter?
+                        </Question>
+                        <Answer1>Après un virage à 180°, voler brièvement tout droit car l’air ascendant devrait
+                            maintenant se trouver devant le pilote; il peut ensuite recentrer.
+                        </Answer1>
+                        <Answer2>Impérativement continuer à tourner avec la même inclinaison et à la même vitesse.
+                        </Answer2>
+                        <Answer3>Immédiatement changer de direction; le pilote a sans doute viré trop tôt.</Answer3>
+                        <Answer4>L’extension horizontale de la masse d’air rencontrée ne permet pas de faire un tour
+                            complet; le pilote doit en chercher une autre.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2155</ID>
+                        <Number>64</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>1</Answer>
+                        <Question>Un libériste enroule un thermique par vent nul. La pompe thermique</Question>
+                        <Answer1>monte à la verticale.</Answer1>
+                        <Answer2>dévie vers le nord avec l’altitude.</Answer2>
+                        <Answer3>dévie vers l’ouest avec l’altitude.</Answer3>
+                        <Answer4>dévie vers l’est avec l’altitude.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2156</ID>
+                        <Number>65</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Un libériste enroule un thermique par vent nul. Que se passe-t-il lorsqu’il s’éloigne
+                            trop du centre de la pompe?
+                        </Question>
+                        <Answer1>Il ne monte plus mais vole à la vitesse du taux de chute normal.</Answer1>
+                        <Answer2>Il entre dans la zone descendante autour de la pompe et perd ainsi beaucoup
+                            d’altitude.
+                        </Answer2>
+                        <Answer3>L'ascendance devient plus forte et plus turbulente.</Answer3>
+                        <Answer4>L'ascendance devient plus forte et moins turbulente.</Answer4>
+                        <CorrectAnswered>2</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2157</ID>
+                        <Number>66</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>1</Answer>
+                        <Question>Un libériste enroule un thermique par vent nul afin de gagner de l’altitude le plus
+                            vite possible. Soudain, il perd la pompe et son vario indique un taux de chute important.
+                            Quelle est en principe la meilleure chose à faire?
+                        </Question>
+                        <Answer1>Un virage serré de 120 - 180° afin de revenir le plus vite possible dans la pompe.
+                        </Answer1>
+                        <Answer2>Un virage de 120 - 180° le plus plat possible afin de perdre le moins d’altitude
+                            possible dans le courant descendant.
+                        </Answer2>
+                        <Answer3>Enrouler très largement jusqu’au retour de l’ascendance.</Answer3>
+                        <Answer4>Partir en ligne droite à la recherche d'une nouvelle zone ascendante.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2158</ID>
+                        <Number>67</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>Un libériste enroule un thermique par un vent de 270°/10 kt. La pompe thermique
+                        </Question>
+                        <Answer1>monte à la verticale.</Answer1>
+                        <Answer2>dévie vers le nord avec l’altitude.</Answer2>
+                        <Answer3>dévie vers l’ouest avec l’altitude.</Answer3>
+                        <Answer4>dévie vers l’est avec l’altitude.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2159</ID>
+                        <Number>68</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Un libériste enroule un thermique par un vent de 270°/10 kt qui fait dévier la pompe
+                            thermique vers l’est avec l’altitude. Dans les alentours de la pompe, où faut-il s’attendre
+                            au courant descendant le plus fort?
+                        </Question>
+                        <Answer1>Du côté au vent.</Answer1>
+                        <Answer2>Du côté sous le vent.</Answer2>
+                        <Answer3>Du côté ensoleillé.</Answer3>
+                        <Answer4>Du côté à l’ombre.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2160</ID>
+                        <Number>69</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>1</Answer>
+                        <Question>Un libériste enroule un thermique par un vent de 270°/10 kt qui fait dévier la pompe
+                            thermique vers l’est avec l’altitude. Pour ne pas perdre la pompe, le pilote enroule
+                        </Question>
+                        <Answer1>plutôt côté au vent.</Answer1>
+                        <Answer2>plutôt côté sous le vent.</Answer2>
+                        <Answer3>si possible vers la droite.</Answer3>
+                        <Answer4>si possible vers la gauche.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2161</ID>
+                        <Number>169</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Voler avec une aile sans numéro FSVL</Question>
+                        <Answer1>ne pose pas de problème, ce numéro spécifique à la FSVL est facultatif.</Answer1>
+                        <Answer2>s’apparente à un vol illégal conformément à l’Ordonnance sur les aéronefs de catégories
+                            spéciales.
+                        </Answer2>
+                        <Answer3>ne s’avère illégal que lors des vols d’examen, compte tenu des directives de l’OFAC.
+                        </Answer3>
+                        <Answer4>ne pose pas de problème, ce numéro n’est obligatoire que pour les vols commerciaux.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2162</ID>
+                        <Number>70</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Un pilote qui veut effectuer un long vol de distance enroule une pompe thermique. Quel
+                            est le bon moment pour la quitter?
+                        </Question>
+                        <Answer1>Une fois qu’il se trouve le plus haut.</Answer1>
+                        <Answer2>Une fois que son vario n’indique plus d’ascendance notable.</Answer2>
+                        <Answer3>Une fois qu’il sait quel point il veut rallier ensuite et qu’il bénéficie d’une
+                            altitude suffisante pour l’atteindre.
+                        </Answer3>
+                        <Answer4>Une fois qu’il se trouve à 50 m sous de la base des nuages.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2163</ID>
+                        <Number>71</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Quelles mesures de précaution faut-il prendre quand on vole en soaring dans une
+                            atmosphère turbulente?
+                        </Question>
+                        <Answer1>Ne jamais voler sous de la crête.</Answer1>
+                        <Answer2>Augmenter la distance par rapport au relief et adapter la vitesse aux conditions.
+                        </Answer2>
+                        <Answer3>Accélérer afin d’obtenir un écoulement d’air plus homogène autour de l’aile et ainsi
+                            réduire le risque de décrochage asymétrique.
+                        </Answer3>
+                        <Answer4>Quitter la pente, le vol en soaring dans une atmosphère thermique turbulente représente
+                            un risque trop important.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2164</ID>
+                        <Number>72</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Quand on vole en soaring dans un vent ascendant dynamique, il faut toujours effectuer
+                            les virages
+                        </Question>
+                        <Answer1>du côté de l’extrémité de l’aile soulevée par le vent ascendant.</Answer1>
+                        <Answer2>dans le même sens que l’aéronef situé au-dessus et le plus proche dans la même
+                            ascendance.
+                        </Answer2>
+                        <Answer3>en s’éloignant de la pente.</Answer3>
+                        <Answer4>sous la crête, en s’éloignant de la pente; au-dessus de la crête, du côté de
+                            l’extrémité de l’aile soulevée par le vent ascendant.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2165</ID>
+                        <Number>73</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>En vol, les planeurs de pente</Question>
+                        <Answer1>ne laissent pratiquement pas de turbulences derrière eux quand ils se déplacent à
+                            vitesse réduite.
+                        </Answer1>
+                        <Answer2>génèrent brièvement des turbulences pouvant être ressenties par d’autres planeurs de
+                            pente derrière eux.
+                        </Answer2>
+                        <Answer3>laissent une zone ascendante sur leur trajectoire, derrière eux.</Answer3>
+                        <Answer4>laissent une zone descendante sur leur trajectoire, derrière eux.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2166</ID>
+                        <Number>74</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Les turbulences générées par les planeurs de pente</Question>
+                        <Answer1>sont sans importance dans la pratique.</Answer1>
+                        <Answer2>prennent de l’importance avec l’augmentation de l’altitude par rapport au sol.
+                        </Answer2>
+                        <Answer3>peuvent causer des difficultés aux pilotes qui suivent de près, notamment au décollage
+                            et à l’atterrissage.
+                        </Answer3>
+                        <Answer4>doivent avant tout être évitées lorsqu’on enroule dans la même pompe.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2167</ID>
+                        <Number>75</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Quelles peuvent être les conséquences quand, en vol tout droit, un pilote freine trop
+                            ou de manière trop brusque son parapente des deux côtés?
+                        </Question>
+                        <Answer1>L’aile subit une fermeture frontale; ses extrémités peuvent alors dépasser le milieu de
+                            l’aile, de sorte qu’elle se ferme totalement.
+                        </Answer1>
+                        <Answer2>L’aile subit un décrochage et entre en vol parachutal, voire part en arrière.</Answer2>
+                        <Answer3>L’aile subit un décrochage latéral, vire du côté du décrochage et part en vrille.
+                        </Answer3>
+                        <Answer4>L’aile entre dans une spirale de plus en plus engagée.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2168</ID>
+                        <Number>76</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Qu’est-ce qui indique qu’un parapente se trouve en vol parachutal stable?</Question>
+                        <Answer1>Sensation du vent sur le visage, aucun déplacement par rapport au sol, l’aile chute à
+                            la verticale.
+                        </Answer1>
+                        <Answer2>Pas de sensation du vent sur le visage, pas de pression sur les freins, l’intrados
+                            n’est plus tendu mais présente une surface concave entre les points d’attache des suspentes.
+                        </Answer2>
+                        <Answer3>L’aile chute à grande vitesse, la pression sur les freins est très importante.
+                        </Answer3>
+                        <Answer4>L’aile entre dans une spirale de plus en plus engagée.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2169</ID>
+                        <Number>77</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Un parapente se trouve en vol parachutal stable à une altitude de 500 m au-dessus de
+                            l’atterrissage. Comment le pilote doit-il réagir?
+                        </Question>
+                        <Answer1>Les ailes homologuées sortent automatiquement du vol parachutal. Il faut donc attendre,
+                            en freinant légèrement, que l’aile réagisse.
+                        </Answer1>
+                        <Answer2>Tirer brusquement un frein à fond et tout de suite le relâcher.</Answer2>
+                        <Answer3>Appuyer les élévateurs A vers l’avant ou utiliser l’accélérateur jusqu’à ce que l’aile
+                            revienne au vol normal.
+                        </Answer3>
+                        <Answer4>Tirer brusquement les deux freins à fond et tout de suite les relâcher.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2170</ID>
+                        <Number>78</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Un parapente se trouve en vol parachutal stable à 10 m au-dessus du sol en finale.
+                            Comment le pilote doit-il réagir?
+                        </Question>
+                        <Answer1>Tirer immédiatement sur les élévateurs avant.</Answer1>
+                        <Answer2>Laisser l’aile en vol parachutal, se redresser et tirer les deux freins à fond à
+                            environ 4 m au-dessus du sol.
+                        </Answer2>
+                        <Answer3>Laisser l’aile en vol parachutal, se redresser et atterrir en faisant un roulé-boulé.
+                        </Answer3>
+                        <Answer4>Lancer le parachute de secours.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2171</ID>
+                        <Number>79</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>À part trop freiner en vol, quelles peuvent être les autres causes du vol parachutal
+                            stable?
+                        </Question>
+                        <Answer1>Voler à travers une averse, une calotte mouillée.</Answer1>
+                        <Answer2>Des suspentes de freins trop courtes.</Answer2>
+                        <Answer3>Des suspentes déréglées par le vieillissement et qui sont passées inaperçues faute d’un
+                            contrôle annuel.
+                        </Answer3>
+                        <Answer4>Les réponses a, b et c sont correctes.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2172</ID>
+                        <Number>80</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Quelles peuvent être les conséquences quand on freine un parapente de manière
+                            excessive lors d’un virage?
+                        </Question>
+                        <Answer1>L’aile subit une fermeture frontale; ses extrémités peuvent alors dépasser le milieu de
+                            l’aile, de sorte qu’elle se ferme totalement.
+                        </Answer1>
+                        <Answer2>L’aile subit un décrochage et entre en vol parachutal.</Answer2>
+                        <Answer3>L’aile subit un décrochage latéral, vire du côté du décrochage et part en vrille.
+                        </Answer3>
+                        <Answer4>L’aile entre dans une spirale de plus en plus engagée.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2173</ID>
+                        <Number>81</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Quelles peuvent être les conséquences quand un pilote amorce soudain un virage avec un
+                            parapente qui vole tout droit?
+                        </Question>
+                        <Answer1>L’aile subit une fermeture frontale; ses extrémités peuvent alors dépasser le milieu de
+                            l’aile, de sorte qu’elle se ferme totalement.
+                        </Answer1>
+                        <Answer2>L’aile subit un décrochage et entre en vol parachutal.</Answer2>
+                        <Answer3>L’aile subit un décrochage latéral, vire du côté du décrochage et part en vrille.
+                        </Answer3>
+                        <Answer4>Compte tenu de la charge unilatérale sur l’aile, des éléments de construction peuvent
+                            être distendus et par la suite, l’aile tirera légèrement de ce côté.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2174</ID>
+                        <Number>82</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Qu’est-ce qui indique qu’un côté du parapente a décroché?</Question>
+                        <Answer1>Compte tenu de la diminution de la pression dynamique, le côté intérieur au virage du
+                            parapente subit une fermeture.
+                        </Answer1>
+                        <Answer2>La tension diminue brusquement sur le frein intérieur au virage, qui n’offre plus
+                            aucune résistance.
+                        </Answer2>
+                        <Answer3>L’aile entre en spirale engagée, ce qui génère une charge importante et constante.
+                        </Answer3>
+                        <Answer4>L’aile devient instable autour de l’axe longitudinal et amorce un mouvement
+                            pendulaire.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2175</ID>
+                        <Number>83</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>En virage, un pilote remarque soudain qu’une extrémité de son parapente décroche.
+                            Comment doit-il réagir?
+                        </Question>
+                        <Answer1>Immédiatement freiner l’aile du côté extérieur au virage pour stabiliser la
+                            direction.
+                        </Answer1>
+                        <Answer2>Pomper avec le frein côté intérieur au virage afin d’augmenter la pression dynamique.
+                        </Answer2>
+                        <Answer3>Immédiatement relâcher les deux freins et laisser l’aile prendre de la vitesse.
+                        </Answer3>
+                        <Answer4>Immédiatement se tenir aux élévateurs pour diminuer tout risque de twist.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2176</ID>
+                        <Number>84</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>1</Answer>
+                        <Question>Le risque d’un décrochage asymétrique peut être diminué quand</Question>
+                        <Answer1>on vole constamment avec une réserve de vitesse suffisante et qu’on pilote l’aile avec
+                            finesse.
+                        </Answer1>
+                        <Answer2>on garde en permanence son aile à l’œil et qu’on renonce à effectuer des virages trop
+                            serrés.
+                        </Answer2>
+                        <Answer3>en virage, on freine constamment l’aile du côté extérieur au virage de manière dosée
+                            afin d’éviter tout décrochage unilatéral.
+                        </Answer3>
+                        <Answer4>on emporte un anémomètre, en vol, qui permet un contrôle fiable de la vitesse de
+                            l’aile.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2177</ID>
+                        <Number>85</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>1</Answer>
+                        <Question>Quelles peuvent être les conséquences quand un pilote tire uniquement sur les
+                            élévateurs A d’un parapente pour accélérer?
+                        </Question>
+                        <Answer1>L’aile subit une fermeture frontale; ses extrémités peuvent alors dépasser le milieu de
+                            l’aile, de sorte qu’elle se ferme totalement.
+                        </Answer1>
+                        <Answer2>L’aile subit un décrochage et entre en vol parachutal.</Answer2>
+                        <Answer3>L’aile subit un décrochage latéral, vire du côté du décrochage et part en vrille.
+                        </Answer3>
+                        <Answer4>L’aile entre dans une spirale de plus en plus engagée.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2178</ID>
+                        <Number>86</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>Un parapente subit une fermeture latérale de plus de 50 % et son pilote le laisse
+                            voler ainsi sans la moindre action sur les freins. Quelles peuvent être les conséquences?
+                        </Question>
+                        <Answer1>L’aile subit une fermeture frontale; ses extrémités peuvent alors dépasser le milieu de
+                            l’aile, de sorte qu’elle se ferme totalement.
+                        </Answer1>
+                        <Answer2>L’aile subit un décrochage et entre en vol parachutal.</Answer2>
+                        <Answer3>L’aile subit un décrochage latéral, vire du côté du décrochage et part en vrille.
+                        </Answer3>
+                        <Answer4>L’aile entre dans une spirale de plus en plus engagée.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2179</ID>
+                        <Number>87</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>Lors d’un vol, une aile subit soudain une fermeture latérale. Comment le pilote
+                            doit-il réagir?
+                        </Question>
+                        <Answer1>Immédiatement pomper de manière énergique du côté fermé afin de le regonfler aussi vite
+                            que possible et limiter la perte d’altitude.
+                        </Answer1>
+                        <Answer2>Tirer les freins à fond des deux côtés jusqu’à ce que l’aile se rouvre.</Answer2>
+                        <Answer3>Immédiatement tirer à fond le frein du côté non fermé pour éviter que l’aile ne parte
+                            du côté fermé.
+                        </Answer3>
+                        <Answer4>Stabiliser la direction de vol désirée par déplacement du poids du corps et un freinage
+                            dosé du côté non fermé et, si nécessaire, rouvrir le côté fermé en pompant.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2180</ID>
+                        <Number>88</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>1</Answer>
+                        <Question>Un pilote traverse une zone turbulente et son parapente commence à balancer sur l’axe
+                            transversal et l’axe longitudinal. Comment le pilote doit-il réagir?
+                        </Question>
+                        <Answer1>Rester assis et détendu dans la sellette, piloter avec une pression légère à moyenne
+                            sur les freins et ne pas tenter de compenser les mouvements pendulaires.
+                        </Answer1>
+                        <Answer2>Poursuivre le vol sans freiner, voire en accélérant afin de quitter la zone turbulente
+                            au plus vite.
+                        </Answer2>
+                        <Answer3>Freiner le parapente à 50 % et s’agripper aux élévateurs pour stabiliser un peu la
+                            position du corps.
+                        </Answer3>
+                        <Answer4>Stabiliser les mouvements pendulaires en contrant immédiatement au frein de manière
+                            énergique.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2181</ID>
+                        <Number>89</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>Le terme «twist» désigne</Question>
+                        <Answer1>une rotation rapide de l’aile autour de l’axe vertical, une moitié de l’aile se
+                            déplaçant vers l’avant et l’autre vers l’arrière.
+                        </Answer1>
+                        <Answer2>un changement rapide de direction, l’aile présentant parfois une inclinaison de plus de
+                            90°.
+                        </Answer2>
+                        <Answer3>des virages très étroits, le facteur de charge augmentant sensiblement en raison de la
+                            force centrifuge.
+                        </Answer3>
+                        <Answer4>la torsion des élévateurs et des suspentes provoquée par la rotation rapide de la
+                            calotte autour de l’axe vertical, le pilote ne parvenant pas à suivre le mouvement en raison
+                            de l’inertie.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2182</ID>
+                        <Number>90</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>1</Answer>
+                        <Question>Le terme «vrille» désigne</Question>
+                        <Answer1>une rotation rapide de l’aile autour de l’axe vertical, une moitié de l’aile se
+                            déplaçant vers l’avant et l’autre vers l’arrière.
+                        </Answer1>
+                        <Answer2>un changement rapide de direction, l’aile présentant parfois une inclinaison de plus de
+                            90°.
+                        </Answer2>
+                        <Answer3>des virages très étroits, le facteur de charge augmentant sensiblement en raison de la
+                            force centrifuge.
+                        </Answer3>
+                        <Answer4>la torsion des élévateurs et des suspentes provoquée par la rotation rapide de la
+                            calotte autour de l’axe vertical, le pilote ne parvenant pas à suivre le mouvement en raison
+                            de l’inertie.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2183</ID>
+                        <Number>91</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Le terme «wingover» désigne</Question>
+                        <Answer1>une rotation rapide de l’aile autour de l’axe vertical, une moitié de l’aile se
+                            déplaçant vers l’avant et l’autre vers l’arrière.
+                        </Answer1>
+                        <Answer2>un changement rapide de direction, l’aile présentant parfois une inclinaison de plus de
+                            90°.
+                        </Answer2>
+                        <Answer3>des virages très étroits, le facteur de charge augmentant sensiblement en raison de la
+                            force centrifuge.
+                        </Answer3>
+                        <Answer4>la torsion des élévateurs et des suspentes provoquée par la rotation rapide de la
+                            calotte autour de l’axe vertical, le pilote ne parvenant pas à suivre le mouvement en raison
+                            de l’inertie.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2184</ID>
+                        <Number>92</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Le terme «spirale engagée» désigne</Question>
+                        <Answer1>une rotation rapide de l’aile autour de l’axe vertical, une moitié de l’aile se
+                            déplaçant vers l’avant et l’autre vers l’arrière.
+                        </Answer1>
+                        <Answer2>un changement rapide de direction, l’aile présentant parfois une inclinaison de plus de
+                            90°.
+                        </Answer2>
+                        <Answer3>des virages très étroits, le facteur de charge augmentant sensiblement en raison de la
+                            force centrifuge.
+                        </Answer3>
+                        <Answer4>la torsion des élévateurs et des suspentes provoquée par la rotation rapide de la
+                            calotte autour de l’axe vertical, le pilote ne parvenant pas à suivre le mouvement en raison
+                            de l’inertie.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2185</ID>
+                        <Number>93</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>1</Answer>
+                        <Question>Quel est l’avantage de la descente rapide à l’aide des oreilles?</Question>
+                        <Answer1>Elle permet de maintenir un cap déterminé pendant la durée de la manœuvre et le corps
+                            ne subit pas de force G.
+                        </Answer1>
+                        <Answer2>Elle permet d’atteindre un taux de chute très important sans déformation de la
+                            calotte.
+                        </Answer2>
+                        <Answer3>Elle est facile à déclencher et permet d’atteindre un taux de chute important, le corps
+                            ne subit pas de force G importante.
+                        </Answer3>
+                        <Answer4>La sortie s’effectue sans problème, elle permet d’atteindre un taux de chute important
+                            et le corps ne subit pas de force G importante.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2186</ID>
+                        <Number>94</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Quel est l’avantage de la descente rapide à l’aide de la spirale engagée?</Question>
+                        <Answer1>Elle permet de maintenir un cap déterminé pendant la durée de la manœuvre et le corps
+                            ne subit pas de force G.
+                        </Answer1>
+                        <Answer2>Elle permet d’atteindre un taux de chute très important sans déformation de la
+                            calotte.
+                        </Answer2>
+                        <Answer3>Elle est facile à déclencher et permet d’atteindre un taux de chute important, le corps
+                            ne subit pas de force G importante.
+                        </Answer3>
+                        <Answer4>La sortie s’effectue sans problème, elle permet d’atteindre un taux de chute important
+                            et le corps ne subit pas de force G importante.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2188</ID>
+                        <Number>96</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>1</Answer>
+                        <Question>Lors d’une descente en effectuant les oreilles, il faut prendre en considération que
+                            dans cette configuration, l’aile
+                        </Question>
+                        <Answer1>vole avec un angle d’incidence plus grand et que le risque d’entrer en vol parachutal
+                            augmente sensiblement, surtout en sortie de manœuvre.
+                        </Answer1>
+                        <Answer2>vole avec une vitesse horizontale élevée et que par conséquent le risque d’une
+                            fermeture frontale augmente.
+                        </Answer2>
+                        <Answer3>nécessite une bonne maîtrise de la part du pilote, surtout dans les turbulences, et son
+                            corps est soumis plus longtemps à une charge importante.
+                        </Answer3>
+                        <Answer4>vole de manière très instable.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2189</ID>
+                        <Number>97</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>1</Answer>
+                        <Question>Lors d’une descente rapide en effectuant les oreilles, il faut prendre en
+                            considération
+                        </Question>
+                        <Answer1>qu’en accélérant en même temps l’aile, on peut réduire le risque de vol parachutal et
+                            augmenter le taux de chute.
+                        </Answer1>
+                        <Answer2>de ne pas accélérer l’aile afin de diminuer le risque d’une fermeture frontale.
+                        </Answer2>
+                        <Answer3>que le corps est soumis à une charge extrême.</Answer3>
+                        <Answer4>que l’aile vole de manière très instable.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2190</ID>
+                        <Number>98</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Lorsqu’on rouvre les oreilles, il faut veiller à</Question>
+                        <Answer1>complètement les rouvrir au plus tard en finale en pompant.</Answer1>
+                        <Answer2>ne pas les rouvrir de manière active (en pompant) à faible hauteur au-dessus du sol.
+                        </Answer2>
+                        <Answer3>les rouvrir en tirant simultanément et fortement sur les freins.</Answer3>
+                        <Answer4>ne plus les rouvrir qu’en secouant les suspentes A extérieures, pendant la volte
+                            d’atterrissage.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2191</ID>
+                        <Number>99</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Lors d’une descente rapide par le biais d’une spirale engagée, il faut considérer
+                        </Question>
+                        <Answer1>le risque d’entrer en vol parachutal en sortie de manœuvre.</Answer1>
+                        <Answer2>qu’on n’obtient un taux de chute vraiment élevé qu’en accélérant simultanément le
+                            parapente.
+                        </Answer2>
+                        <Answer3>que cette manœuvre génère une charge importante pour le corps, si elle se prolonge, et
+                            qu’elle n’est donc pas adaptée à tous les pilotes.
+                        </Answer3>
+                        <Answer4>qu'on ne peut atteindre qu'un faible taux de chute.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2195</ID>
+                        <Number>102</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Le survol du terrain d’atterrissage juste avant la perte d’altitude et la volte
+                            d’atterrissage est
+                        </Question>
+                        <Answer1>interdit car il gêne les planeurs de pente qui atterrissent.</Answer1>
+                        <Answer2>à éviter dans la mesure du possible à cause des risques de collision.</Answer2>
+                        <Answer3>recommandé afin d’observer la manche à air.</Answer3>
+                        <Answer4>obligatoire.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2196</ID>
+                        <Number>103</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Lors du survol du terrain d’atterrissage, la manche à air n’est pas visible. Qu’est-ce
+                            qui permet néanmoins de se faire une idée de la direction du vent?
+                        </Question>
+                        <Answer1>La direction du vol des oiseaux.</Answer1>
+                        <Answer2>Les panaches de fumée et les drapeaux ainsi qu'une éventuelle dérive latérale lors du
+                            vol.
+                        </Answer2>
+                        <Answer3>La propre tendance de l’aile (sans intervention du pilote, une aile aux
+                            caractéristiques de vol stables a tendance à se tourner dans le vent).
+                        </Answer3>
+                        <Answer4>Le mouvement des nuages dans le ciel.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2197</ID>
+                        <Number>104</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>1</Answer>
+                        <Question>Sur un terrain d'atterrissage en pente douce, la situation ne permet d’atterrir qu’en
+                            remontant ou en redescendant la pente. Quelle proposition s’avère juste par vent nul?
+                        </Question>
+                        <Answer1>Contre la pente, un atterrissage précis s'avère plus facile, mais un atterrissage en
+                            douceur plus difficile.
+                        </Answer1>
+                        <Answer2>Contre la pente, un atterrissage précis et en douceur s'avère plus facile.</Answer2>
+                        <Answer3>Dans le sens de la pente, un atterrissage précis et en douceur s'avère plus facile.
+                        </Answer3>
+                        <Answer4>Dans le sens de la pente, un atterrissage précis s'avère plus facile, mais un
+                            atterrissage en douceur plus difficile.
+                        </Answer4>
+                        <CorrectAnswered>3</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2198</ID>
+                        <Number>105</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>À quoi sert d’effectuer une volte d’atterrissage?</Question>
+                        <Answer1>À s’entraîner pour réussir les examens organisés par la FSVL.</Answer1>
+                        <Answer2>Il s’agit d’un outil pédagogique pour débutants.</Answer2>
+                        <Answer3>À permettre aux autres utilisateurs de l’espace aérien d’anticiper ma trajectoire; elle
+                            se prête aussi le mieux à un atterrissage précis.
+                        </Answer3>
+                        <Answer4>Pour les titulaires de la licence officielle de vol libre, la volte d'atterrissage n'a
+                            plus d'importance.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2199</ID>
+                        <Number>106</Number>
+                        <ImageID>27</ImageID>
+                        <Answer>2</Answer>
+                        <Question>Comment s'appelle la partie de la volte marquée d'un (1)?</Question>
+                        <Answer1>La base</Answer1>
+                        <Answer2>La zone de destruction d'altitude</Answer2>
+                        <Answer3>Le vent-arrière</Answer3>
+                        <Answer4>La finale</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2200</ID>
+                        <Number>107</Number>
+                        <ImageID>27</ImageID>
+                        <Answer>3</Answer>
+                        <Question>Comment s'appelle la partie de la volte marquée d'un (2)?</Question>
+                        <Answer1>La base</Answer1>
+                        <Answer2>La zone de destruction d'altitude</Answer2>
+                        <Answer3>Le vent-arrière</Answer3>
+                        <Answer4>La finale</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2201</ID>
+                        <Number>108</Number>
+                        <ImageID>27</ImageID>
+                        <Answer>1</Answer>
+                        <Question>Comment s'appelle la partie de la volte marquée d'un (3)?</Question>
+                        <Answer1>La base</Answer1>
+                        <Answer2>La zone de destruction d'altitude</Answer2>
+                        <Answer3>Le vent-arrière</Answer3>
+                        <Answer4>La finale</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2202</ID>
+                        <Number>109</Number>
+                        <ImageID>27</ImageID>
+                        <Answer>4</Answer>
+                        <Question>Comment s'appelle la partie de la volte marquée d'un (4)?</Question>
+                        <Answer1>La base</Answer1>
+                        <Answer2>La zone de destruction d'altitude</Answer2>
+                        <Answer3>Le vent-arrière</Answer3>
+                        <Answer4>La finale</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2203</ID>
+                        <Number>110</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Comment faut-il éliminer le surplus de hauteur dans la zone de destruction d'altitude
+                            avant de passer en vent-arrière?
+                        </Question>
+                        <Answer1>Par des virages à 360° à gauche.</Answer1>
+                        <Answer2>Par des virages à 360° à droite.</Answer2>
+                        <Answer3>Par des virages à 360° dans le sens de la volte d’atterrissage.</Answer3>
+                        <Answer4>Par des virages en «S».</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2204</ID>
+                        <Number>111</Number>
+                        <ImageID>25</ImageID>
+                        <Answer>2</Answer>
+                        <Question>Lorsqu'un pilote est obligé d'effectuer une volte par la gauche, dans quel secteur
+                            faut-il éliminer le surplus de hauteur avant de passer en vent-arrière?
+                        </Question>
+                        <Answer1>1</Answer1>
+                        <Answer2>2</Answer2>
+                        <Answer3>3</Answer3>
+                        <Answer4>4</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2205</ID>
+                        <Number>112</Number>
+                        <ImageID>25</ImageID>
+                        <Answer>3</Answer>
+                        <Question>Lorsqu'un pilote est obligé d'effectuer une volte par la droite, dans quel secteur
+                            faut-il éliminer le surplus de hauteur avant de passer en vent-arrière?
+                        </Question>
+                        <Answer1>1</Answer1>
+                        <Answer2>2</Answer2>
+                        <Answer3>3</Answer3>
+                        <Answer4>4</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2206</ID>
+                        <Number>113</Number>
+                        <ImageID>26</ImageID>
+                        <Answer>2</Answer>
+                        <Question>Les quatre schémas suivants représentent une prise de terrain standard par vent nul
+                            (en pointillé) et une volte adaptée aux circonstances rencontrées dans la pratique (ligne
+                            continue). Quel type d’approche un pilote doit-il choisir par vent nul, lorsqu’au passage
+                            vent-arrière/base il constate qu’il est plutôt bas?
+                        </Question>
+                        <Answer1>1</Answer1>
+                        <Answer2>2</Answer2>
+                        <Answer3>3</Answer3>
+                        <Answer4>4</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2207</ID>
+                        <Number>114</Number>
+                        <ImageID>26</ImageID>
+                        <Answer>4</Answer>
+                        <Question>Les quatre schémas suivants représentent une prise de terrain standard par vent nul
+                            (en pointillé) et une volte adaptée aux circonstances rencontrées dans la pratique (ligne
+                            continue). Quel type d'approche un pilote doit-il choisir par vent nul, lorsqu'en base il
+                            constate qu'il est trop haut?
+                        </Question>
+                        <Answer1>1</Answer1>
+                        <Answer2>2</Answer2>
+                        <Answer3>3</Answer3>
+                        <Answer4>4</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2208</ID>
+                        <Number>115</Number>
+                        <ImageID>26</ImageID>
+                        <Answer>1</Answer>
+                        <Question>Les quatre schémas suivants représentent une prise de terrain standard par vent nul
+                            (en pointillé) et une volte adaptée aux circonstances rencontrées dans la pratique. Quel
+                            type d'approche un pilote doit-il choisir par vent de 10 - 15 km/h?
+                        </Question>
+                        <Answer1>1</Answer1>
+                        <Answer2>2</Answer2>
+                        <Answer3>3</Answer3>
+                        <Answer4>4</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2209</ID>
+                        <Number>116</Number>
+                        <ImageID>26</ImageID>
+                        <Answer>3</Answer>
+                        <Question>Les quatre schémas suivants représentent une prise de terrain standard par vent nul
+                            (en pointillé) et une volte adaptée aux circonstances rencontrées dans la pratique. Quel
+                            type d'approche un pilote doit-il choisir par vent de 25 - 30 km/h?
+                        </Question>
+                        <Answer1>1</Answer1>
+                        <Answer2>2</Answer2>
+                        <Answer3>3</Answer3>
+                        <Answer4>4</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2210</ID>
+                        <Number>117</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Parmi trois planeurs de pente qui se suivent à 50 m, un pilote est le premier à
+                            atteindre l'atterrissage. Le vent est nul, toute la volte est dégagée et le sens de
+                            l'approche n'a pas été déterminé. Comment la prise de terrain doit-elle s'effectuer ?
+                        </Question>
+                        <Answer1>Étant le premier, il choisit librement la direction d'atterrissage et le sens de
+                            rotation de la volte.
+                        </Answer1>
+                        <Answer2>Étant le premier, il choisit librement la direction d’atterrissage mais doit effectuer
+                            une volte à gauche.
+                        </Answer2>
+                        <Answer3>Étant le premier, il choisit librement le sens de rotation de la volte mais doit
+                            atterrir perpendiculairement à l'axe de la vallée.
+                        </Answer3>
+                        <Answer4>Étant le premier, il doit effectuer une volte à gauche et atterrir perpendiculairement
+                            à l’axe de la vallée.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2211</ID>
+                        <Number>118</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Parmi trois planeurs de pente qui se suivent à 50 m, un pilote est le premier à
+                            survoler l’atterrissage. Le vent est nul. Il décide de faire une volte à gauche avec un
+                            atterrissage en direction de l’ouest. En base, il constate qu’un léger vent d’est (2 - 5
+                            km/h) souffle sur le terrain. Que doit-il faire?
+                        </Question>
+                        <Answer1>Poursuivre son approche comme prévue et choisir un angle d'approche plus prononcé en
+                            finale.
+                        </Answer1>
+                        <Answer2>Immédiatement interrompre son approche, passer côté sous le vent de la cible et
+                            atterrir face au vent.
+                        </Answer2>
+                        <Answer3>Poursuivre son approche comme prévue et choisir un angle d'approche plus plat en
+                            finale.
+                        </Answer3>
+                        <Answer4>Transformer la partie vent-arrière en base et atterrir vent de travers.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2213</ID>
+                        <Number>119</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Quand on atterrit par vent arrière, l’angle d’approche est</Question>
+                        <Answer1>plus plat et la vitesse de l'arrondi plus petite.</Answer1>
+                        <Answer2>plus raide et la vitesse de l'arrondi plus grande.</Answer2>
+                        <Answer3>plus plat et la vitesse de l'arrondi plus grande.</Answer3>
+                        <Answer4>plus raide et la vitesse de l'arrondi plus petite.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2214</ID>
+                        <Number>120</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>Quand on atterrit par vent de face, l’angle d’approche est</Question>
+                        <Answer1>plus plat et la vitesse de l'arrondi plus petite.</Answer1>
+                        <Answer2>plus raide et la vitesse de l'arrondi plus grande.</Answer2>
+                        <Answer3>plus plat et la vitesse de l'arrondi plus grande.</Answer3>
+                        <Answer4>plus raide et la vitesse de l'arrondi plus petite.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2215</ID>
+                        <Number>121</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>Dans la partie vent-arrière, un pilote constate qu’il vole bien trop haut. Comment
+                            doit-il réagir?
+                        </Question>
+                        <Answer1>Effectuer un nouveau tour à 360° dans le sens de la volte.</Answer1>
+                        <Answer2>Freiner l'aile pour réduire sa finesse.</Answer2>
+                        <Answer3>Retourner vers l’aire de destruction de l’altitude puis recommencer la phase
+                            vent-arrière.
+                        </Answer3>
+                        <Answer4>Prévoir un peu plus d'espace pour toutes les phases de l'atterrissage.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2216</ID>
+                        <Number>122</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>Dans la partie vent-arrière, un pilote constate qu’il vole plutôt bas. Comment doit-il
+                            réagir?
+                        </Question>
+                        <Answer1>Considérer la phase vent-arrière comme base et atterrir en travers du vent.</Answer1>
+                        <Answer2>Freiner légèrement l’aile afin d’améliorer sa finesse.</Answer2>
+                        <Answer3>Voler directement vers la cible prévue et là, effectuer des rotations jusqu’à
+                            l’atterrissage.
+                        </Answer3>
+                        <Answer4>Raccourcir toutes les phases d’atterrissage.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2217</ID>
+                        <Number>123</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>En base, un pilote constate qu’il vole bien trop haut. Comment doit-il réagir?
+                        </Question>
+                        <Answer1>Effectuer un nouveau tour à 360° dans le sens de la volte.</Answer1>
+                        <Answer2>Freiner l’aile pour réduire sa finesse.</Answer2>
+                        <Answer3>Prolonger la base et la répéter si nécessaire.</Answer3>
+                        <Answer4>Retourner vers l’aire de destruction de l’altitude puis recommencer la phase
+                            vent-arrière.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2218</ID>
+                        <Number>124</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>1</Answer>
+                        <Question>Lors du passage du vent-arrière en base, un pilote constate qu’il vole plutôt bas.
+                            Comment doit-il réagir?
+                        </Question>
+                        <Answer1>Réduire la base ou y renoncer entièrement.</Answer1>
+                        <Answer2>Freiner légèrement l'aile afin d'améliorer sa finesse.</Answer2>
+                        <Answer3>Voler directement vers la cible prévue et là, effectuer des rotations jusqu’à
+                            l’atterrissage.
+                        </Answer3>
+                        <Answer4>Transformer la partie vent-arrière en base et atterrir vent de travers.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2219</ID>
+                        <Number>125</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>En finale, un pilote constate qu’il vole à peine trop haut. Comment doit-il réagir?
+                        </Question>
+                        <Answer1>Effectuer un nouveau tour à 360° dans le sens de la volte.</Answer1>
+                        <Answer2>Freiner l’aile pour réduire sa finesse et se redresser plus tôt afin d’augmenter la
+                            résistance à l’air.
+                        </Answer2>
+                        <Answer3>Prolonger la finale au-delà de la cible, effectuer un virage à 180° et atterrir en
+                            venant de la direction opposée.
+                        </Answer3>
+                        <Answer4>Augmenter la vitesse de vol pour augmenter la résistance à l’air.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2220</ID>
+                        <Number>126</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>En finale avec un léger vent de face, un pilote constate qu’il vole plutôt un peu bas.
+                            Comment doit-il réagir?
+                        </Question>
+                        <Answer1>Effectuer un atterrissage hors cible.</Answer1>
+                        <Answer2>Freiner légèrement l'aile pour améliorer sa finesse.</Answer2>
+                        <Answer3>Piloter sans freiner jusqu’à proximité du sol, puis tirer lentement les freins de
+                            manière continue.
+                        </Answer3>
+                        <Answer4>Freiner l'aile à 50 % pour allonger le vol autant que possible.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2221</ID>
+                        <Number>127</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>1</Answer>
+                        <Question>En finale, un pilote tire les freins à 80 % sans que l’aile ne décroche. Dans la
+                            mesure où il maintient ce freinage assez longtemps,
+                        </Question>
+                        <Answer1>il est très probable qu’après un certain temps, l’aile finisse par décrocher.</Answer1>
+                        <Answer2>grâce à la pression dynamique élevée, l’aile vole de manière sûre et stable.</Answer2>
+                        <Answer3>après quelques instants, l’aile reprend d’elle-même de la vitesse.</Answer3>
+                        <Answer4>les vitesses horizontale et verticale diminuent continuellement.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2222</ID>
+                        <Number>128</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Que faut-il faire en premier juste après l’atterrissage?</Question>
+                        <Answer1>Retirer immédiatement la sellette et le casque.</Answer1>
+                        <Answer2>Quitter immédiatement l'aire d'atterrissage.</Answer2>
+                        <Answer3>Plier immédiatement le parapente et le remettre dans le sac à dos.</Answer3>
+                        <Answer4>Inscrire le vol dans le carnet de vol.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2223</ID>
+                        <Number>129</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>Un vent de 25 km/h souffle au terrain d’atterrissage. Toute de suite après avoir
+                            touché le sol avec ses pieds, un pilote doit
+                        </Question>
+                        <Answer1>tirer les freins autant que possible vers le bas afin que le parapente cesse aussitôt
+                            de voler.
+                        </Answer1>
+                        <Answer2>tirer les élévateurs A autant que possible vers le bas afin de provoquer une fermeture
+                            frontale du parapente pour qu’il cesse de voler.
+                        </Answer2>
+                        <Answer3>tirer un frein à fond afin que le parapente se couche sur le bord d’attaque et ne
+                            génère plus de portance.
+                        </Answer3>
+                        <Answer4>pivoter à 180° puis saisir et tirer à fond les suspentes B ou C si elles sont
+                            accessibles et sinon les commandes afin que le parapente cesse de voler.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2224</ID>
+                        <Number>130</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Lors d’un atterrissage sur une pente abrupte, il faut effectuer la finale</Question>
+                        <Answer1>en contre-pente.</Answer1>
+                        <Answer2>perpendiculairement à la ligne de pente.</Answer2>
+                        <Answer3>dans le sens de la pente.</Answer3>
+                        <Answer4>face au vent.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2225</ID>
+                        <Number>131</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>En vol au-dessus d’une vallée où le vent de vallée souffle à 25 km/h, un pilote doit
+                            choisir un terrain d’atterrissage adapté. Parmi ces exigences, laquelle est la plus
+                            importante afin d’assurer un atterrissage en toute sécurité?
+                        </Question>
+                        <Answer1>Le côté sous le vent du terrain ne doit pas comporter d’arbres ou de bâtiments sur une
+                            distance d’au moins 100 m pour les parties base et finale.
+                        </Answer1>
+                        <Answer2>Le terrain doit être le plus protégé possible du vent par la structure du sol, par des
+                            arbres ou par des bâtiments.
+                        </Answer2>
+                        <Answer3>Le côté au vent du terrain doit être le plus plat possible et comporter le moins
+                            d’arbres ou de constructions possible.
+                        </Answer3>
+                        <Answer4>Le terrain ne doit en aucun cas monter face au vent.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2226</ID>
+                        <Number>132</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Alors que le vent souffle à 20 km/h, un pilote est obligé de se poser sur un terrain
+                            entouré de constructions de tous les côtés. À quoi doit-il s’attendre?
+                        </Question>
+                        <Answer1>A de fortes turbulences au niveau des pignons des toits et à de l'air stable à
+                            proximité du sol.
+                        </Answer1>
+                        <Answer2>A de fortes turbulences tout au long de la dernière phase en finale.</Answer2>
+                        <Answer3>A des conditions d'atterrissage idéales sur un terrain protégé du vent.</Answer3>
+                        <Answer4>A un vol plané marqué à proximité du sol en raison du renforcement de l'effet de sol.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2228</ID>
+                        <Number>134</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>1</Answer>
+                        <Question>Quelles sont les mesures à prendre si un atterrissage sur une étendue d’eau ou un
+                            cours d’eau s’avère inévitable?
+                        </Question>
+                        <Answer1>Ouvrir si possible les sangles de la sellette avant même l’atterrissage.</Answer1>
+                        <Answer2>Jeter le parachute de secours juste avant l’atterrissage, afin qu’il augmente la
+                            portance dans l’eau.
+                        </Answer2>
+                        <Answer3>Le pilote doit démonter tous les appareils électroniques (radio, vario, etc.) et les
+                            maintenir au-dessus de sa tête afin qu’ils n’entrent pas au contact de l’eau.
+                        </Answer3>
+                        <Answer4>Bien serrer les sangles de la sellette, afin de ne pas glisser au-dehors après
+                            l’atterrissage et d’éviter que l’aile ne coule ou soit emportée par le courant.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2229</ID>
+                        <Number>135</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Lors d’un atterrissage dans les arbres, qu’est-ce qui entraine le plus souvent des
+                            blessures graves?
+                        </Question>
+                        <Answer1>Sous le poids du parapente et du pilote, les branches cèdent, le pilote tombe au sol.
+                        </Answer1>
+                        <Answer2>Le pilote sort de la sellette sans s'être suffisamment assuré avec une corde, les
+                            branches cèdent sous son poids et il tombe de l'arbre.
+                        </Answer2>
+                        <Answer3>Le pilote se blesse en percutant l’arbre.</Answer3>
+                        <Answer4>Le parapente et le pilote glissent de l'arbre et tombent au sol.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2230</ID>
+                        <Number>136</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Après un atterrissage dans un arbre, le parapente reste accroché à la cime. Dans
+                            quelle mesure peut-on éviter d’abîmer le parapente en le dégageant?
+                        </Question>
+                        <Answer1>Le faire enlever par un hélicoptère.</Answer1>
+                        <Answer2>Défaire le lien entre la sellette et les élévateurs.</Answer2>
+                        <Answer3>Ouvrir les maillons des suspentes et défaire les nœuds des poignées de frein.</Answer3>
+                        <Answer4>Attacher une longue corde au baudrier, s'éloigner le plus possible de l'arbre en tenant
+                            l'extrémité de la corde et tirer le parapente horizontalement pour le dégager de la cime de
+                            l'arbre.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2231</ID>
+                        <Number>137</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Lors d’un vol, dans quelle situation le risque de collision entre un delta et un
+                            parapente est-il le plus grand parce qu’aucun des pilotes ne voit l’autre?
+                        </Question>
+                        <Answer1>Un delta se rapproche d’un parapente par devant et par en haut.</Answer1>
+                        <Answer2>Un delta se rapproche d’un parapente par derrière et par en bas.</Answer2>
+                        <Answer3>Un delta se rapproche d’un parapente par devant et par en bas.</Answer3>
+                        <Answer4>Un delta se rapproche d’un parapente par derrière et par en haut.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2232</ID>
+                        <Number>138</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Un parapente vole à la même altitude qu’un delta et dans le même thermique. Comment le
+                            pilote de parapente risque-t-il de se mettre en danger et de mettre en danger le delta?
+                        </Question>
+                        <Answer1>En effectuant des rotations très étroites.</Answer1>
+                        <Answer2>En changeant brusquement de direction de rotation.</Answer2>
+                        <Answer3>En volant lentement.</Answer3>
+                        <Answer4>En effectuant des rotations dans le même sens que le delta.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2233</ID>
+                        <Number>139</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Un pilote doit lancer son parachute de secours</Question>
+                        <Answer1>dès que la calotte s’affale (fermeture frontale sur toute son envergure).</Answer1>
+                        <Answer2>à chaque fois que la situation semble incontrôlable.</Answer2>
+                        <Answer3>lorsque l’aile est aspirée par un cumulus et que le vario indique alors plus de 6
+                            m/s.
+                        </Answer3>
+                        <Answer4>lors d'une fermeture latérale en phase finale d'atterrissage.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2234</ID>
+                        <Number>140</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>Dans quelle situation un pilote doit-il lancer son parachute de secours immédiatement
+                            et sans hésitation?
+                        </Question>
+                        <Answer1>Le tiers droit de la calotte est fermé et s’est coincé entre les suspentes.</Answer1>
+                        <Answer2>Le planeur de pente est aspiré par un cumulus et monte dans ce nuage à la vitesse de 8
+                            m/s.
+                        </Answer2>
+                        <Answer3>Un décrochage se produit d’un côté, l’aile part en vrille.</Answer3>
+                        <Answer4>Lors d’une collision frontale en vol entre un parapente et un delta.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2235</ID>
+                        <Number>141</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Dans quelle situation un pilote doit-il lancer son parachute de secours immédiatement
+                            et sans hésitation?
+                        </Question>
+                        <Answer1>Le tiers droit de la calotte est fermé et s’est coincé entre les suspentes.</Answer1>
+                        <Answer2>Le planeur de pente est aspiré par un cumulus et monte dans ce nuage à la vitesse de 8
+                            m/s.
+                        </Answer2>
+                        <Answer3>Après une vrille, les suspentes sont torsadées sur plusieurs tours (twists) et l’aile
+                            part d’elle-même en spirale engagée.
+                        </Answer3>
+                        <Answer4>Après un décrochage latéral, l’aile part en vrille.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2236</ID>
+                        <Number>142</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>1</Answer>
+                        <Question>Comment doit se comporter un pilote immédiatement après avoir lancé son parachute de
+                            secours?
+                        </Question>
+                        <Answer1>Le pilote se redresse et tente d’empêcher le parapente de voler en tirant une rangée de
+                            suspentes de manière asymétrique.
+                        </Answer1>
+                        <Answer2>Le pilote adopte une position la plus horizontale possible et replie ses bras et ses
+                            jambes contre son corps (position embryonnaire).
+                        </Answer2>
+                        <Answer3>Le parapente doit être piloté de façon à ce qu'il ne s'approche pas trop du parachute
+                            de secours avec lequel il pourrait s'emmêler.
+                        </Answer3>
+                        <Answer4>Le pilote ouvre sa sellette pendant la descente pour se libérer au plus vite du
+                            parapente au sol.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2237</ID>
+                        <Number>143</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Après un atterrissage très violent, un pilote a les lèvres bleues, des sueurs froides,
+                            un pouls faible et rapide et il tient des propos décousus.
+                        </Question>
+                        <Answer1>Il s’agit juste d’un moment de frayeur, il va se remettre.</Answer1>
+                        <Answer2>Il s’agit des signes d’un choc: allonger le pilote selon son souhait, à l’abri des
+                            conditions météo, et ne pas lui donner à boire.
+                        </Answer2>
+                        <Answer3>Placer le pilote le plus vite possible en position latérale.</Answer3>
+                        <Answer4>Lui donner beaucoup à boire.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2238</ID>
+                        <Number>144</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Quelles mesures doit-on prendre lorsqu’un blessé ne répond pas mais respire
+                            normalement et ne présente aucune blessure externe? On positionne le blessé
+                        </Question>
+                        <Answer1>couché sur le dos, les jambes relevées.</Answer1>
+                        <Answer2>en position latérale de sécurité et protégé des conditions météo (soleil, vent, froid,
+                            humidité); sa respiration doit être contrôlée en permanence.
+                        </Answer2>
+                        <Answer3>couché sur le ventre et ranimé par l'ingestion de boissons fraîches.</Answer3>
+                        <Answer4>assis et protégé des conditions météo (soleil, vent, froid, humidité).</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2239</ID>
+                        <Number>145</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Les blessés encore conscients et présentant les symptômes d’une blessure de la colonne
+                            vertébrale doivent impérativement être
+                        </Question>
+                        <Answer1>couchés sur le ventre et surtout protégés des conditions météo.</Answer1>
+                        <Answer2>empêchés de bouger, de s’asseoir ou même de tenter de marcher.</Answer2>
+                        <Answer3>assis et protégés des conditions météo.</Answer3>
+                        <Answer4>relevés le plus rapidement possible pour vérifier s’ils peuvent encore marcher.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2240</ID>
+                        <Number>146</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Quels symptômes peuvent indiquer une lésion de la colonne vertébrale chez un blessé?
+                        </Question>
+                        <Answer1>Il est blême, ses lèvres sont bleues, il a des sueurs froides, un pouls rapide et il
+                            parle de façon inintelligible.
+                        </Answer1>
+                        <Answer2>Il a de fortes douleurs dans les jambes.</Answer2>
+                        <Answer3>Il a de fortes douleurs au dos et n’a aucune sensation dans les pieds, les jambes, les
+                            bras ou les mains.
+                        </Answer3>
+                        <Answer4>Il a perdu connaissance.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2241</ID>
+                        <Number>147</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Lorsqu’un blessé doit être transporté par hélicoptère, avant l’arrivée de ce dernier
+                            il faut
+                        </Question>
+                        <Answer1>enlever la sellette et le casque au blessé et les ranger dans son sac à dos.</Answer1>
+                        <Answer2>immédiatement interrompre toute activité de vol libre aux alentours du lieu de
+                            l’accident et ranger les ailes, les vêtements et tous les objets qui trainent autour du lieu
+                            de l’accident.
+                        </Answer2>
+                        <Answer3>marquer le lieu de l'accident avec un parapente.</Answer3>
+                        <Answer4>quitter rapidement le lieu de l'accident.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2242</ID>
+                        <Number>148</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Quand niche l'aigle royal?</Question>
+                        <Answer1>Janvier-mars</Answer1>
+                        <Answer2>Mars-mai</Answer2>
+                        <Answer3>Mai-juillet</Answer3>
+                        <Answer4>Juin-août</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2243</ID>
+                        <Number>149</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>Quelle est la signification du «vol ondulé» de l’aigle royal?</Question>
+                        <Answer1>L'aigle cherche un partenaire.</Answer1>
+                        <Answer2>L'aigle s'amuse à des jeux aériens.</Answer2>
+                        <Answer3>L'aigle chasse de petits passereaux.</Answer3>
+                        <Answer4>L’aigle défend son territoire et sa couvée.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2244</ID>
+                        <Number>150</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>2</Answer>
+                        <Question>Où l'aigle royal construit-il son nid dans les Alpes?</Question>
+                        <Answer1>Dans de vieux arbres.</Answer1>
+                        <Answer2>Dans des falaises abruptes au-dessous de la limite de la forêt.</Answer2>
+                        <Answer3>Dans des falaises abruptes au-dessus de la limite de la forêt.</Answer3>
+                        <Answer4>A terre, sur des affleurements rocheux inaccessibles.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2245</ID>
+                        <Number>151</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Existe-t-il des interdictions de décollage et d’atterrissage liées à la protection de
+                            l’environnement?
+                        </Question>
+                        <Answer1>Non, tant que je ne dérange pas la nature, je peux décoller et atterrir où je veux.
+                        </Answer1>
+                        <Answer2>Oui, dans toutes les zones de protection nationales.</Answer2>
+                        <Answer3>Oui, dans les zones de protection nationales, en conformité avec l’Ordonnance sur les
+                            atterrissages en campagne de la Confédération et les règles particulières des cantons.
+                        </Answer3>
+                        <Answer4>Oui, mais il s’agit de zones boisées ou par ailleurs inadaptées au décollage et à
+                            l’atterrissage.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2246</ID>
+                        <Number>152</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>L’aigle royal est le plus dérangé par des pilotes de vol libre quand ils</Question>
+                        <Answer1>volent en été au-dessus de la limite de la forêt et font fuir les marmottes, la
+                            principale proie de l'aigle royal.
+                        </Answer1>
+                        <Answer2>pénètrent dans son territoire et l’obligent à s’envoler et à en marquer les limites.
+                        </Answer2>
+                        <Answer3>volent au printemps à proximité de l’aire de nidification et obligent l’adulte à
+                            quitter ses œufs.
+                        </Answer3>
+                        <Answer4>font du soaring au printemps devant des rochers exposés au sud.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2247</ID>
+                        <Number>153</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>1</Answer>
+                        <Question>Où vivent les chamois et les bouquetins en hiver et au printemps dans les Alpes?
+                        </Question>
+                        <Answer1>En majorité sur les flancs escarpés de montagnes exposées au sud.</Answer1>
+                        <Answer2>En majorités dans les forêts de montagne exposées au sud.</Answer2>
+                        <Answer3>Dans les pâturages alpins situées hors des domaines skiables.</Answer3>
+                        <Answer4>Dans les pentes exposées au nord, peu touchées par le tourisme.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2248</ID>
+                        <Number>154</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Quand la plupart des chamois et bouquetins femelles mettent-elles bas?</Question>
+                        <Answer1>Mars</Answer1>
+                        <Answer2>Avril</Answer2>
+                        <Answer3>Mai-Juin</Answer3>
+                        <Answer4>Octobre</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2249</ID>
+                        <Number>155</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>Mon site de vol est parsemé de cabanes d’alpage et de chalets de vacances.</Question>
+                        <Answer1>J’ai payé une taxe de décollage et j’ai donc le droit d’utiliser tout le site.
+                        </Answer1>
+                        <Answer2>Les parapentistes constituent une attraction pour tous, plus il y en a, mieux c’est.
+                        </Answer2>
+                        <Answer3>Les cabanes d’alpage n’appartiennent à personne, tout le monde peut les utiliser.
+                        </Answer3>
+                        <Answer4>Je respecte la propriété et la vie privée de chacun et j’adapte mon comportement en
+                            conséquence.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2250</ID>
+                        <Number>156</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>Quelle est la saison la plus rude pour les chamois et les bouquetins, période pendant
+                            laquelle meurent de nombreux individus?
+                        </Question>
+                        <Answer1>Après les premières tombées de neige, quand des animaux doivent s'habituer au froid et
+                            ne trouvent plus de nourriture.
+                        </Answer1>
+                        <Answer2>Pendant le rut, quand les mâles poursuivent les femelles et que les animaux n'ont alors
+                            plus le temps de se nourrir.
+                        </Answer2>
+                        <Answer3>En plein hiver, quand les déplacements dans la haute neige profonde sont quasiment
+                            impossibles.
+                        </Answer3>
+                        <Answer4>En fin d'hiver, en mars-avril, quand les réserves de graisse sont épuisées et que la
+                            neige recouvre encore l'herbe.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2251</ID>
+                        <Number>157</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>3</Answer>
+                        <Question>Que font les chamois et les bouquetins l'été pendant la journée?</Question>
+                        <Answer1>Ils se retirent dans la fraîcheur des forêts de montagne et s'y reposent.</Answer1>
+                        <Answer2>Ils restent dans les forêts de montagne, s'y nourrissent et s'y reposent
+                            alternativement.
+                        </Answer2>
+                        <Answer3>Le matin, après s'être nourris, ils se déplacent dans les falaises ombragées et sur des
+                            croupes ventées au-dessus des lieux de pâture et s'y reposent.
+                        </Answer3>
+                        <Answer4>Ils se nourrissent toute la journée dans les pentes situées au nord.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2252</ID>
+                        <Number>158</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>Chamois et bouquetins sont le plus dérangés quand les pilotes de vol libre</Question>
+                        <Answer1>volent au ras de la cime des arbres de la forêt de montagne et effraient les animaux au
+                            repos.
+                        </Answer1>
+                        <Answer2>crient et chantent dans les airs et effraient ainsi les animaux.</Answer2>
+                        <Answer3>volent au-dessus des pâturages alpins bien verts.</Answer3>
+                        <Answer4>volent dans les zones inhabitées au-dessus de la limite de la forêt, à faible distance
+                            des flancs de la montagne.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>2253</ID>
+                        <Number>159</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>1</Answer>
+                        <Question>Les pilotes de vol libre peuvent contribuer le plus efficacement à la protection de la
+                            faune sauvage lorsqu’ils
+                        </Question>
+                        <Answer1>se conforment aux accords passés entre les clubs de vol libre et les gardes-faune.
+                        </Answer1>
+                        <Answer2>alertent les animaux sauvages par des cris.</Answer2>
+                        <Answer3>volent près du sol afin d’être vu des animaux.</Answer3>
+                        <Answer4>volent, les animaux sauvages ont la vue courte et ne nous remarquent pas.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>4010</ID>
+                        <Number>95</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>Quand on fait les oreilles, il faut veiller à</Question>
+                        <Answer1>n’utiliser que les suspentes A ou les petites sangles A séparées et prévues à cet
+                            effet, sinon, l’aile peut se fermer sur tout le front. [x]
+                        </Answer1>
+                        <Answer2>ne pas tirer les suspentes A intérieures lors d’une mise en œuvre trop désordonnée afin
+                            d’éviter une fermeture frontale de l’aile. [y]
+                        </Answer2>
+                        <Answer3>fermer une oreille après l’autre, pour les pilotes les moins expérimentés, afin
+                            d’éviter le risque d’une fermeture frontale. [z]
+                        </Answer3>
+                        <Answer4>Les réponses x, y et z sont correctes.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>4011</ID>
+                        <Number>100</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>Lors d’une descente rapide par le biais d’une spirale engagée, il faut considérer
+                        </Question>
+                        <Answer1>le risque d’entrer en vol parachutal en sortie de manœuvre.</Answer1>
+                        <Answer2>qu’on n’obtient un taux de chute vraiment élevé qu’en accélérant simultanément le
+                            parapente.
+                        </Answer2>
+                        <Answer3>que seul le frein intérieur doit être actionné au cours de la manœuvre.</Answer3>
+                        <Answer4>que la vitesse, le taux de chute et la force G restent contrôlables à l’aide du frein
+                            extérieur et du déplacement du poids du corps vers l’extérieur.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>4012</ID>
+                        <Number>101</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>Lors d’une descente rapide par le biais d’une spirale engagée, il faut considérer
+                        </Question>
+                        <Answer1>qu’indépendamment de la géométrie de l’assise, de la position du corps et des
+                            caractéristiques de l’aile, chaque aile peut continuer à tourner de manière stable. [x]
+                        </Answer1>
+                        <Answer2>que poser la jambe extérieure sur la jambe intérieure et donc se pencher vers
+                            l’intérieur peut sensiblement augmenter la tendance de l’aile à continuer à tourner. [y]
+                        </Answer2>
+                        <Answer3>que pour empêcher une aile de continuer à tourner, il faut la contrôler de manière
+                            active à l’aide du frein extérieur et du déplacement du poids du corps vers l’extérieur. [z]
+                        </Answer3>
+                        <Answer4>Les réponses x, y et z sont correctes.</Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+                    <Question>
+                        <ID>4013</ID>
+                        <Number>133</Number>
+                        <ImageID xsi:nil="true"/>
+                        <Answer>4</Answer>
+                        <Question>À l’approche du sol par vent fort, on peut s’attendre à une forte diminution du vent
+                            (gradient de vent). Si le parapente s’affaisse alors brièvement,
+                        </Question>
+                        <Answer1>on le rattrape en tirant au maximum sur les freins.</Answer1>
+                        <Answer2>il faut dans tous les cas s’attendre à une fermeture.</Answer2>
+                        <Answer3>il faut dans tous les cas s’attendre à un vol parachutal.</Answer3>
+                        <Answer4>il ne faut surtout pas freiner car on risque un décrochage. Il faut plutôt permettre à
+                            l’aile de reprendre de la vitesse puis contrôler une possible et faible abattée de manière
+                            dosée.
+                        </Answer4>
+                        <CorrectAnswered>0</CorrectAnswered>
+                        <WrongAnswered>0</WrongAnswered>
+                    </Question>
+    </Questions>
+</Root>

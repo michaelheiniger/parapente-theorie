@@ -1,0 +1,2518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Questions>
+        <Question>
+            <ID>1479</ID>
+            <Number>1</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>L’air est un mélange de différents gaz. Ses composantes principales sont</Question>
+            <Answer1>env. 78 % d’oxygène et env. 21 % d’azote.</Answer1>
+            <Answer2>env. 78 % d’azote et env. 21 % d’oxygène.</Answer2>
+            <Answer3>env. 78 % de dioxyde de carbone et env. 21 % d’oxygène.</Answer3>
+            <Answer4>env. 78 % d’oxygène et 21 % de vapeur d’eau.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1480</ID>
+            <Number>2</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Comment évolue la température de l’air avec l’augmentation de l’altitude, dans la
+                troposphère réelle?
+            </Question>
+            <Answer1>Elle diminue de façon linéaire de 0,65°C/100 m jusqu’à la tropopause.</Answer1>
+            <Answer2>Elle diminue de façon linéaire de 1°C/100 m jusqu’à la tropopause.</Answer2>
+            <Answer3>Selon les couches, elle peut diminuer, rester constante ou augmenter, mais elle diminue
+                en moyenne de 0,65°C/100 m.
+            </Answer3>
+            <Answer4>Elle diminue toujours avec l’augmentation de l’altitude, mais pas de façon linéaire:
+                elle varie de 0,1°C à 1,2°C selon les différentes couches.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1481</ID>
+            <Number>3</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Pour permettre à tous les utilisateurs de l’espace aérien de régler uniformément leurs
+                altimètres, on standardise l’atmosphère (atmosphère standard ICAO). Quelles valeurs sont
+                valables dans la troposphère? (Pression et température au niveau de la mer, gradient de
+                température)
+            </Question>
+            <Answer1>1033,65 hPa 15°C 1°C / 100m</Answer1>
+            <Answer2>1013,25 hPa 15°C 0,65°C / 100m</Answer2>
+            <Answer3>1033,65 hPa 15°C 0,5°C / 100m</Answer3>
+            <Answer4>1013,25 hPa 15°C 1°C / 100m</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1482</ID>
+            <Number>4</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Sous nos latitudes, l’altitude moyenne de la tropopause est de</Question>
+            <Answer1>4'000m au-dessus du niveau de la mer</Answer1>
+            <Answer2>5'500m au-dessus du niveau de la mer</Answer2>
+            <Answer3>11'000m au-dessus du niveau de la mer</Answer3>
+            <Answer4>50'000m au-dessus du niveau de la mer</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1483</ID>
+            <Number>5</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>La pression atmosphérique est une conséquence</Question>
+            <Answer1>de la gravité.</Answer1>
+            <Answer2>des pôles magnétiques.</Answer2>
+            <Answer3>des particules d’eau et de poussière en suspension dans l’air.</Answer3>
+            <Answer4>de la rotation de la Terre.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1484</ID>
+            <Number>6</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Comment se comporte la pression atmosphérique avec l’augmentation de l’altitude?
+            </Question>
+            <Answer1>Elle diminue de moitié jusqu’à la tropopause puis reste constante.</Answer1>
+            <Answer2>Elle diminue d’environ 80 hPa tous les 100 mètres.</Answer2>
+            <Answer3>Elle diminue de moitié environ tous les 11'000 m.</Answer3>
+            <Answer4>Elle diminue de moitié environ tous les 5'500 m.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1485</ID>
+            <Number>7</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Sur quelle pression moyenne au niveau de la mer (atmosphère standard ICAO) s’appuient
+                les météorologues pour leurs calculs?
+            </Question>
+            <Answer1>1013,25 hPa</Answer1>
+            <Answer2>1033,65 hPa</Answer2>
+            <Answer3>760,0 hPa</Answer3>
+            <Answer4>998,75 hPa</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1486</ID>
+            <Number>8</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>La pression au niveau de la mer:</Question>
+            <Answer1>est toujours constante.</Answer1>
+            <Answer2>peut, dans de rares cas, augmenter par rapport à la moyenne.</Answer2>
+            <Answer3>peut, dans de rares cas, diminuer par rapport à la moyenne.</Answer3>
+            <Answer4>augmente ou diminue par rapport à la moyenne selon les conditions météorologiques.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1487</ID>
+            <Number>9</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>La pression à un point précis au niveau de la mer dépend:</Question>
+            <Answer1>de la situation météo actuelle.</Answer1>
+            <Answer2>des marées.</Answer2>
+            <Answer3>de la nature de sa surface.</Answer3>
+            <Answer4>du degré de longitude.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1488</ID>
+            <Number>10</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Au niveau de la mer, le baromètre indique une pression de 980 hPa. Quelle est la
+                mesure la plus probable à une altitude de 5'500 m au-dessus du niveau de la mer?
+            </Question>
+            <Answer1>1'035 hPa</Answer1>
+            <Answer2>980 hPa</Answer2>
+            <Answer3>650 hPa</Answer3>
+            <Answer4>490 hPa</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1489</ID>
+            <Number>11</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Au niveau de la mer, un enfant lâche un ballon d’un volume d’environ 5 dm³. Quel
+                volume aura le ballon lorsqu’il atteindra l’altitude de 5’500 m au dessus du niveau de la
+                mer?
+            </Question>
+            <Answer1>2,5 dm³</Answer1>
+            <Answer2>5 dm³</Answer2>
+            <Answer3>10 dm³</Answer3>
+            <Answer4>20 dm³</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1490</ID>
+            <Number>12</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Dans quelle partie de l’atmosphère se produisent les phénomènes météorologiques qui
+                déterminent notre météo?
+            </Question>
+            <Answer1>Troposphère</Answer1>
+            <Answer2>Mésosphère</Answer2>
+            <Answer3>Stratosphère</Answer3>
+            <Answer4>Tropopause</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1491</ID>
+            <Number>13</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>La température des couches d’air proches du sol est principalement déterminée
+            </Question>
+            <Answer1>par la température du sol.</Answer1>
+            <Answer2>par le rayonnement solaire auquel sont exposées les particules de l'air.</Answer2>
+            <Answer3>par l'humidité relative contenue dans l'air.</Answer3>
+            <Answer4>par l'incidence du rayonnement solaire sur les particules de l'air.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1492</ID>
+            <Number>14</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Pour un angle d’ensoleillement identique, quelle surface réchauffera le mieux la masse
+                d’air située à proximité du sol?
+            </Question>
+            <Answer1>Un sol rocheux</Answer1>
+            <Answer2>Une jeune forêt de feuillus</Answer2>
+            <Answer3>Une zone marécageuse</Answer3>
+            <Answer4>Une prairie sèche</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1493</ID>
+            <Number>15</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>À la même altitude au-dessus du niveau de la mer,</Question>
+            <Answer1>l’air chaud est aussi dense que l’air froid.</Answer1>
+            <Answer2>l’air chaud est moins dense que l’air froid.</Answer2>
+            <Answer3>l’air chaud est plus dense que l’air froid.</Answer3>
+            <Answer4>la densité de l’air dépend du gradient adiabatique.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1494</ID>
+            <Number>16</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Comment évolue la température d’une masse d’air qui se décolle du sol et monte en
+                altitude sans former de nuage?
+            </Question>
+            <Answer1>La température augmente d’environ 0,5°C tous les 100 m car le rayonnement solaire
+                s’intensifie.
+            </Answer1>
+            <Answer2>On ne peut rien dire à ce sujet car cette valeur dépend de la situation météo.
+            </Answer2>
+            <Answer3>La température diminue d’environ 0,65°C tous les 100 m, comme c’est le cas dans toute
+                la troposphère.
+            </Answer3>
+            <Answer4>La température diminue d’environ 1°C tous les 100 m car la pression diminue avec
+                l’altitude.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1495</ID>
+            <Number>17</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Pourquoi la température d’une masse d’air change-t-elle lorsqu’elle monte?</Question>
+            <Answer1>Comme la pression atmosphérique diminue avec l’altitude, la masse d’air se dilate et
+                perd de l’énergie sous forme de chaleur.
+            </Answer1>
+            <Answer2>La masse d’air se refroidit en s’éloignant de sa source de chaleur, la surface de la
+                Terre.
+            </Answer2>
+            <Answer3>Comme l’angle d’incidence du soleil diminue avec l’altitude, la masse d’air est moins
+                alimentée en chaleur qu’au sol.
+            </Answer3>
+            <Answer4>Une masse d’air qui monte doit continuellement évaporer de l’eau. L’augmentation de
+                l’altitude entraine donc toujours une diminution de la température.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1496</ID>
+            <Number>18</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Comment évoluent le volume et la température d'une masse d'air qui descend?</Question>
+            <Answer1>Son volume augmente, sa température diminue.</Answer1>
+            <Answer2>Son volume augmente, sa température augmente.</Answer2>
+            <Answer3>Son volume diminue, sa température augmente.</Answer3>
+            <Answer4>Son volume diminue, sa température diminue.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1497</ID>
+            <Number>19</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Comment se réchauffe principalement l’air qui se trouve à 100 m au-dessus du sol, en
+                cours de journée?
+            </Question>
+            <Answer1>La couche d’air proche du sol se réchauffe et s’élève tandis que l’air froid en
+                altitude descend vers le sol, où il se réchauffe.
+            </Answer1>
+            <Answer2>Les rayons du soleil frappent la surface de la Terre, elle les réfléchit dans le
+                domaine infra-rouge et réchauffe plus ou moins l’air selon sa distance par rapport à la
+                surface de la Terre.
+            </Answer2>
+            <Answer3>Les rayons du soleil traversent les particules de l’air et les chargent d’énergie
+                (ionisation) libérée sous forme de chaleur.
+            </Answer3>
+            <Answer4>La couche d’air proche du sol se réchauffe et grâce à sa bonne conductivité thermique,
+                elle transmet sa chaleur à la couche d’air au-dessus d’elle.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1498</ID>
+            <Number>20</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Dans la troposphère, la température de l’air diminue en moyenne avec l’augmentation de
+                l’altitude. Mais il arrive aussi qu’elle augmente sur une certaine portion sous l’influence
+                de la stratification. Comment s’appelle ce phénomène?
+            </Question>
+            <Answer1>Suradiabatisme</Answer1>
+            <Answer2>Isothermie</Answer2>
+            <Answer3>Restitution</Answer3>
+            <Answer4>Inversion</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1499</ID>
+            <Number>21</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Dans la troposphère, la température de l’air diminue en moyenne avec l’augmentation de
+                l’altitude. Mais il arrive aussi qu’elle reste identique sur une certaine portion sous
+                l’influence de la stratification. Comment s’appelle ce phénomène?
+            </Question>
+            <Answer1>Inversion</Answer1>
+            <Answer2>Restitution</Answer2>
+            <Answer3>Isothermie</Answer3>
+            <Answer4>Suradiabatisme</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1500</ID>
+            <Number>22</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Où a-t-on le plus de chance de trouver des thermiques en hiver, en début
+                d’après-midi?
+            </Question>
+            <Answer1>Sur un versant sud moyennement escarpé à l’enneigement régulier.</Answer1>
+            <Answer2>Au niveau de la limite ensoleillée entre la piste de ski préparée et la neige
+                poudreuse.
+            </Answer2>
+            <Answer3>Sur un versant sud abrupt composé de roches et de forêts de sapins.</Answer3>
+            <Answer4>Au-dessus d’un terrain plat et déneigé.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1502</ID>
+            <Number>23</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Une inversion est une couche d'air dont la température</Question>
+            <Answer1>diminue avec l'augmentation de l'altitude.</Answer1>
+            <Answer2>augmente avec l'augmentation de l'altitude.</Answer2>
+            <Answer3>se trouve au-dessus du point de congélation.</Answer3>
+            <Answer4>est constante.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1503</ID>
+            <Number>24</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Une isothermie est une couche d’air dont la température</Question>
+            <Answer1>diminue avec l’augmentation de l’altitude.</Answer1>
+            <Answer2>augmente avec l’augmentation de l’altitude.</Answer2>
+            <Answer3>se trouve au-dessus du point de congélation.</Answer3>
+            <Answer4>est constante.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1504</ID>
+            <Number>25</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Inversion et isothermie sont</Question>
+            <Answer1>les causes et les déclencheurs de l’ascension thermique de l’air.</Answer1>
+            <Answer2>des composantes de la troposphère disposées en couches instables.</Answer2>
+            <Answer3>stables ou instables selon la température.</Answer3>
+            <Answer4>des couches qui bloquent les masses d’air ascendantes.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1505</ID>
+            <Number>26</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Le gradient de température vertical désigne</Question>
+            <Answer1>la différence d’altitude par °C d’une masse d’air.</Answer1>
+            <Answer2>la différence de pression par km entre deux points géographiques différents.</Answer2>
+            <Answer3>l’unité de mesure de la température, comme son nom l’indique: grad(ient).</Answer3>
+            <Answer4>la différence de température par 100 m de différence d’altitude.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1506</ID>
+            <Number>27</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Le gradient de température d'une couche isotherme est de:</Question>
+            <Answer1>0° C / 100 m</Answer1>
+            <Answer2>0,5° C / 100 m</Answer2>
+            <Answer3>0,65° C / 100 m</Answer3>
+            <Answer4>1° C / 100 m</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1507</ID>
+            <Number>28</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Où se situe une inversion, en règle générale?</Question>
+            <Answer1>À la base des cumulus.</Answer1>
+            <Answer2>À la limite entre l’air brumeux proche du sol et l’air limpide en altitude.</Answer2>
+            <Answer3>Là où la différence entre température et point de rosée égale 0°C.</Answer3>
+            <Answer4>Les inversions ne se forment qu’au sol.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1508</ID>
+            <Number>29</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Quel signe laisse présumer la présence d’une inversion?</Question>
+            <Answer1>Un cumulonimbus.</Answer1>
+            <Answer2>Un lenticulaire.</Answer2>
+            <Answer3>Une mer de brouillard.</Answer3>
+            <Answer4>Un cirrus.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1509</ID>
+            <Number>30</Number>
+            <ImageID>9</ImageID>
+            <Answer>3</Answer>
+            <Question>Quelles données mesurées par une radiosonde la nuit à 2 h laissent présumer une
+                inversion en altitude?
+            </Question>
+            <Answer1>1</Answer1>
+            <Answer2>2</Answer2>
+            <Answer3>3</Answer3>
+            <Answer4>4</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1510</ID>
+            <Number>31</Number>
+            <ImageID>9</ImageID>
+            <Answer>1</Answer>
+            <Question>Quelles données mesurées par une radiosonde la nuit à 2 h laissent présumer une
+                inversion au sol?
+            </Question>
+            <Answer1>1</Answer1>
+            <Answer2>2</Answer2>
+            <Answer3>3</Answer3>
+            <Answer4>4</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1511</ID>
+            <Number>32</Number>
+            <ImageID>9</ImageID>
+            <Answer>4</Answer>
+            <Question>Quelles données mesurées par une radiosonde la nuit à 2 h laissent présumer une
+                isothermie?
+            </Question>
+            <Answer1>1</Answer1>
+            <Answer2>2</Answer2>
+            <Answer3>3</Answer3>
+            <Answer4>4</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1512</ID>
+            <Number>33</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>À quel changement d’état physique correspond la condensation?</Question>
+            <Answer1>Le passage de l'état liquide à l'état solide.</Answer1>
+            <Answer2>Le passage de l'état liquide à l'état gazeux.</Answer2>
+            <Answer3>Le passage de l'état gazeux à l'état liquide.</Answer3>
+            <Answer4>Le passage de l'état gazeux à l'état solide.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1513</ID>
+            <Number>34</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Quel changement de l'état physique d'une matière nécessite de l'énergie sous forme de
+                chaleur?
+            </Question>
+            <Answer1>Le passage de l'état liquide à l'état solide.</Answer1>
+            <Answer2>Le passage de l'état solide à l'état liquide.</Answer2>
+            <Answer3>Le passage de l'état gazeux à l'état liquide.</Answer3>
+            <Answer4>Le passage de l'état gazeux à l'état solide.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1514</ID>
+            <Number>35</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Quel changement de l'état physique d'une matière nécessite de l'énergie sous forme de
+                chaleur?
+            </Question>
+            <Answer1>Le passage de l'état liquide à l'état solide.</Answer1>
+            <Answer2>Le passage de l'état gazeux à l'état liquide.</Answer2>
+            <Answer3>Le passage de l'état gazeux à l'état solide.</Answer3>
+            <Answer4>Le passage de l'état liquide à l'état gazeux.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1515</ID>
+            <Number>36</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Quel changement de l'état physique d'une matière libère de l'énergie sous forme de
+                chaleur?
+            </Question>
+            <Answer1>Le passage de l'état liquide à l'état gazeux.</Answer1>
+            <Answer2>Le passage de l'état solide à l'état gazeux.</Answer2>
+            <Answer3>Le passage de l'état gazeux à l'état liquide.</Answer3>
+            <Answer4>Le passage de l'état solide à l'état liquide.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1516</ID>
+            <Number>37</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Quel changement de l'état physique d'une matière libère de l'énergie sous forme de
+                chaleur?
+            </Question>
+            <Answer1>Le passage de l'état liquide à l'état solide.</Answer1>
+            <Answer2>Le passage de l'état solide à l'état gazeux.</Answer2>
+            <Answer3>Le passage de l'état liquide à l'état gazeux.</Answer3>
+            <Answer4>Le passage de l'état solide à l'état liquide.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1517</ID>
+            <Number>38</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Quel changement de l'état physique d'une matière libère de l'énergie sous forme de
+                chaleur?
+            </Question>
+            <Answer1>Le passage de l'état liquide à l'état gazeux.</Answer1>
+            <Answer2>Le passage de l'état solide à l'état gazeux.</Answer2>
+            <Answer3>Le passage de l'état solide à l'état liquide.</Answer3>
+            <Answer4>Le passage de l'état gazeux à l'état solide.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1518</ID>
+            <Number>39</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>En météorologie, le terme «point de rosée» désigne:</Question>
+            <Answer1>la teneur relative en humidité de l’air.</Answer1>
+            <Answer2>la température à laquelle l’air doit se refroidir afin que la vapeur d’eau commence à
+                se condenser.
+            </Answer2>
+            <Answer3>la teneur en humidité de l’air lorsqu’il atteint la température de condensation.
+            </Answer3>
+            <Answer4>le degré de rayonnement nocturne du sol qui permet à l’humidité de l’air de se
+                condenser sur le sol froid.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1519</ID>
+            <Number>40</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Quel est le gradient de température de l’air ascendant en Suisse dans les basses
+                couches de la troposphère ?
+            </Question>
+            <Answer1>&lt; 1°C / 100 m</Answer1>
+            <Answer2>1,0°C / 100 m</Answer2>
+            <Answer3>1,5°C / 100 m</Answer3>
+            <Answer4>&gt; 2°C / 100 m</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1520</ID>
+            <Number>41</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>De quoi dépend le gradient de température de l’air humide ascendant?</Question>
+            <Answer1>En particulier de l'humidité relative de l'air.</Answer1>
+            <Answer2>En particulier de la quantité de vapeur d'eau qui se condense.</Answer2>
+            <Answer3>En particulier de la différence de température entre l'air ascendant et l'air
+                environnant.
+            </Answer3>
+            <Answer4>En particulier de l'intensité du rayonnement solaire.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1521</ID>
+            <Number>42</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Pourquoi l’air humide ascendant refroidit-il moins vite que l’air sec ascendant?
+            </Question>
+            <Answer1>Parce que l'eau refroidit plus lentement que l'air.</Answer1>
+            <Answer2>Parce que l’air humide monte plus vite et qu’ainsi, le refroidissement a lieu avec un
+                temps de retard.
+            </Answer2>
+            <Answer3>Parce que la chaleur libérée par la condensation influence la température de la masse
+                d'air.
+            </Answer3>
+            <Answer4>Parce que la vapeur d'eau est plus légère que l'air, un paquet d'air humide est plus
+                léger et consomme moins d'énergie sous forme de chaleur en s'élevant.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1522</ID>
+            <Number>43</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Quel type de nuage apparaît suite à de bons courants ascendants thermiques?</Question>
+            <Answer1>Cirrus</Answer1>
+            <Answer2>Cumulus</Answer2>
+            <Answer3>Stratus</Answer3>
+            <Answer4>Lenticulaire</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1523</ID>
+            <Number>44</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Des altocumulus castellanus deux heures après le lever du soleil indiquent</Question>
+            <Answer1>une instabilité à l'altitude des nuages.</Answer1>
+            <Answer2>un front froid en approche.</Answer2>
+            <Answer3>le centre d’un anticyclone.</Answer3>
+            <Answer4>une grande stabilité de la stratification dans la partie basse de la troposphère.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1524</ID>
+            <Number>45</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Un temps ensoleillé dans les couches supérieures et du brouillard dans les couches
+                inférieures indiquent
+            </Question>
+            <Answer1>une faible stabilité de la stratification dans la partie basse de la troposphère.
+            </Answer1>
+            <Answer2>un front froid en approche.</Answer2>
+            <Answer3>le centre d'une dépression.</Answer3>
+            <Answer4>une grande stabilité de la stratification dans la partie basse de la troposphère.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1526</ID>
+            <Number>46</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Par quel type de temps la formation de brouillard au sol (brouillard de rayonnement)
+                est-elle la plus vraisemblable?
+            </Question>
+            <Answer1>Ciel couvert, absence de vent, faible différence entre température et point de
+                condensation.
+            </Answer1>
+            <Answer2>Ciel dégagé, absence de vent, différence importante entre température et point de
+                condensation.
+            </Answer2>
+            <Answer3>Ciel dégagé, absence de vent, faible différence entre température et point de
+                condensation.
+            </Answer3>
+            <Answer4>Ciel dégagé, vent 270°/10 nœuds, faible différence entre température et point de
+                condensation.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1527</ID>
+            <Number>47</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Les nuages se forment</Question>
+            <Answer1>uniquement à proximité de dépressions.</Answer1>
+            <Answer2>quand la température et l’évaporation augmentent.</Answer2>
+            <Answer3>quand l’air se refroidit, en général en s’élevant, jusqu’au point de rosée.</Answer3>
+            <Answer4>à chaque fois qu’une masse d’air qui monte atteint une inversion.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1528</ID>
+            <Number>48</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>La base du nuage constitue</Question>
+            <Answer1>la limite inférieure du nuage et se trouve à l’altitude à laquelle la température de
+                l’air qui monte atteint son point de rosée.
+            </Answer1>
+            <Answer2>la limite supérieure du nuage et se trouve à l’altitude à laquelle la température de
+                l’air qui monte est identique à celle de l’air ambiant.
+            </Answer2>
+            <Answer3>la limite inférieure du nuage et se trouve à l’altitude à laquelle la température de
+                l’air qui monte est identique à celle de l’air ambiant.
+            </Answer3>
+            <Answer4>la limite supérieure du nuage et se trouve à l’altitude à laquelle la température de
+                l’air qui monte atteint son point de rosée.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1529</ID>
+            <Number>49</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Comment s’appellent les nuages en couche close dont la base se trouve à une altitude
+                de 4’000 m au-dessus du niveau de la mer?
+            </Question>
+            <Answer1>Cirrostratus</Answer1>
+            <Answer2>Altocumulus</Answer2>
+            <Answer3>Nimbostratus</Answer3>
+            <Answer4>Altostratus</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1530</ID>
+            <Number>50</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Comment s’appellent les petits nuages "amoncelés" dont la base se trouve à une
+                altitude de 4’500 m au-dessus du niveau de la mer?
+            </Question>
+            <Answer1>Cirrocumulus</Answer1>
+            <Answer2>Altocumulus</Answer2>
+            <Answer3>Cumulonimbus</Answer3>
+            <Answer4>Altostratus</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1531</ID>
+            <Number>51</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Comment s’appelle une couche close de nuages dont la base se trouve à une altitude de
+                1’000 m au-dessus du niveau de la mer et qui engendre des précipitations?
+            </Question>
+            <Answer1>Cirrostratus</Answer1>
+            <Answer2>Cumulo-nimbus</Answer2>
+            <Answer3>Nimbostratus</Answer3>
+            <Answer4>Altostratus</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1532</ID>
+            <Number>52</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Parmi les types de nuages suivants, lequel a une base sensiblement plus élevée que les
+                trois autres?
+            </Question>
+            <Answer1>Cumulus</Answer1>
+            <Answer2>Cirrocumulus</Answer2>
+            <Answer3>Strato-cumulus</Answer3>
+            <Answer4>Cumulonimbus</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1533</ID>
+            <Number>53</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Parmi les types de nuages suivants, lequel a une limite supérieure située à une
+                altitude différente des trois autres?
+            </Question>
+            <Answer1>Cirrus</Answer1>
+            <Answer2>Cirrocumulus</Answer2>
+            <Answer3>Cumulus humilis</Answer3>
+            <Answer4>Cirrostratus</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1534</ID>
+            <Number>54</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Parmi les types de nuages suivants, lequel engendre des précipitations?</Question>
+            <Answer1>Cirrostratus</Answer1>
+            <Answer2>Stratocumulus</Answer2>
+            <Answer3>Cumulus humilis</Answer3>
+            <Answer4>Nimbostratus</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1535</ID>
+            <Number>55</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Parmi les types de nuages suivants, lequel se constitue en général de cristaux de
+                glace?
+            </Question>
+            <Answer1>Cirrocumulus</Answer1>
+            <Answer2>Stratocumulus</Answer2>
+            <Answer3>Cumulus humilis</Answer3>
+            <Answer4>Nimbostratus</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1536</ID>
+            <Number>56</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Parmi les types de nuages suivants, lequel permet de présumer des ascendances
+                thermiques favorables pour les planeurs de pente?
+            </Question>
+            <Answer1>Cirrocumulus</Answer1>
+            <Answer2>Cumulonimbus</Answer2>
+            <Answer3>Cumulus humilis</Answer3>
+            <Answer4>Lenticulaire</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1537</ID>
+            <Number>57</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Parmi les types de nuages suivants, lequel est le plus dangereux pour des planeurs de
+                pente évoluant dans les environs?
+            </Question>
+            <Answer1>Cirrocumulus</Answer1>
+            <Answer2>Cumulonimbus</Answer2>
+            <Answer3>Cumulus humilis</Answer3>
+            <Answer4>Stratocumulus</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1538</ID>
+            <Number>58</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Les nuages de type lenticulaire (en forme de lentilles) peuvent se former quand
+            </Question>
+            <Answer1>des masses d’air s’écoulent à une certaine vitesse par-dessus le relief.</Answer1>
+            <Answer2>de fortes ascendances thermiques à caractère adiabatique humide se forment.</Answer2>
+            <Answer3>de l’air instable au niveau du sol s’élève soudain sur une grande surface.</Answer3>
+            <Answer4>les thermiques causent un effet de foehn.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1539</ID>
+            <Number>59</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Les nuages du type lenticulaire</Question>
+            <Answer1>sont constitués exclusivement d'eau, mais jamais de glace.</Answer1>
+            <Answer2>ne se forment qu’en cas de foehn du sud, en Suisse.</Answer2>
+            <Answer3>changent à peine de position malgré la vitesse élevée du vent.</Answer3>
+            <Answer4>provoquent des précipitations.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1540</ID>
+            <Number>60</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Quel signe, visible de loin, indique qu’un cumulus congestus ou cumulonimbus provoque
+                des précipitations?
+            </Question>
+            <Answer1>Un rideau gris s'étend de la base du nuage en direction du sol.</Answer1>
+            <Answer2>Le nuage est plus étendu à la verticale qu'à l'horizontale.</Answer2>
+            <Answer3>Entre la base du nuage et la surface de la terre se forment des lambeaux de brouillard
+                gris qui sont dirigés vers le haut.
+            </Answer3>
+            <Answer4>La base du nuage a un aspect noir.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1541</ID>
+            <Number>61</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Dès qu’il y a des précipitations sous un cumulus congestus ou cumulonimbus,</Question>
+            <Answer1>il ne présente plus de danger pour le vol car il se trouve en stade de désagrégation.
+            </Answer1>
+            <Answer2>l’air se refroidit par évaporation, ce qui entraine de forts courants descendants avec
+                des rafales.
+            </Answer2>
+            <Answer3>on peut en déduire qu’il ne génère plus de courants ascendants.</Answer3>
+            <Answer4>il y a toujours des décharges électriques entre le nuage et la surface de la terre.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1542</ID>
+            <Number>62</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Laquelle des affirmations suivantes est fausse?</Question>
+            <Answer1>Les cumulus congestus et cumulonimbus peuvent provoquer des courants ascendants et
+                descendants avec des pointes de vitesse à plus de 30 m/s.
+            </Answer1>
+            <Answer2>Les cumulus congestus et cumulonimbus déversent toujours de la grêle sur la surface de
+                la Terre.
+            </Answer2>
+            <Answer3>Les cumulonimbus peuvent contenir des grêlons de la taille d'un poing.</Answer3>
+            <Answer4>Les cumulus congestus et cumulonimbus peuvent produire des poches d’air froid par
+                évaporation qui, à la périphérie du nuage, se déversent sur le sol à grande vitesse.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1543</ID>
+            <Number>63</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>La pression atmosphérique au niveau de la mer n’est pas toujours la même, notamment
+                parce que
+            </Question>
+            <Answer1>à la surface de la Terre, les variations de températures produisent un réchauffement ou
+                un refroidissement de l’air, ce qui provoque une variation de la densité de l’air.
+            </Answer1>
+            <Answer2>les masses d’air maritimes sont plus humides et donc plus lourdes que les masses d’air
+                continentales, ce qui entraine une augmentation de la pression atmosphérique.
+            </Answer2>
+            <Answer3>les masses d’air continentales sont plus sèches et donc plus lourdes que les masses
+                d’air maritimes, ce qui entraine une augmentation de la pression atmosphérique.
+            </Answer3>
+            <Answer4>la pression diminue avec l’augmentation de la vitesse d’écoulement des masses d’air et
+                inversement.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1544</ID>
+            <Number>64</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Une zone de haute pression peut se former au-dessus d’une zone qui est</Question>
+            <Answer1>plus sèche que son environnement durant une longue période.</Answer1>
+            <Answer2>plus froide que son environnement durant une longue période.</Answer2>
+            <Answer3>ensoleillée de manière plus intensive que son environnement durant une longue
+                période.
+            </Answer3>
+            <Answer4>plus chaude que son environnement durant une longue période.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1545</ID>
+            <Number>65</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Une zone de basse pression peut se former au-dessus d’une zone qui est</Question>
+            <Answer1>plus sèche que son environnement durant une longue période.</Answer1>
+            <Answer2>plus froide que son environnement durant une longue période.</Answer2>
+            <Answer3>ensoleillée de manière plus intensive que son environnement durant une longue
+                période.
+            </Answer3>
+            <Answer4>plus chaude que son environnement durant une longue période.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1546</ID>
+            <Number>66</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>En Europe, la pression atmosphérique au niveau de la mer au centre d’une forte
+                dépression peut atteindre
+            </Question>
+            <Answer1>1'035 hPa</Answer1>
+            <Answer2>1'055 hPa</Answer2>
+            <Answer3>955 hPa</Answer3>
+            <Answer4>915 hPa</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1547</ID>
+            <Number>67</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>En Europe, la pression atmosphérique au niveau de la mer au centre d’un important
+                anticyclone peut atteindre
+            </Question>
+            <Answer1>1'035 hPa</Answer1>
+            <Answer2>1'055 hPa</Answer2>
+            <Answer3>955 hPa</Answer3>
+            <Answer4>915 hPa</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1548</ID>
+            <Number>68</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Dans une zone de basse pression dans l’hémisphère nord,</Question>
+            <Answer1>les masses d'air s'abaissent et tournent autour de son centre dans le sens des
+                aiguilles d'une montre.
+            </Answer1>
+            <Answer2>les masses d'air s'élèvent et tournent autour de son centre dans le sens inverse des
+                aiguilles d'une montre.
+            </Answer2>
+            <Answer3>les masses d'air s'élèvent et tournent autour de son centre dans le sens des aiguilles
+                d'une montre.
+            </Answer3>
+            <Answer4>les masses d'air s'abaissent et tournent autour de son centre dans le sens inverse des
+                aiguilles d'une montre.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1549</ID>
+            <Number>69</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Dans une zone de haute pression dans l’hémisphère nord,</Question>
+            <Answer1>les masses d'air s'abaissent et tournent autour de son centre dans le sens des
+                aiguilles d'une montre.
+            </Answer1>
+            <Answer2>les masses d'air s'élèvent et tournent autour de son centre dans le sens inverse des
+                aiguilles d'une montre.
+            </Answer2>
+            <Answer3>les masses d'air s'élèvent et tournent autour de son centre dans le sens des aiguilles
+                d'une montre.
+            </Answer3>
+            <Answer4>les masses d'air s'abaissent et tournent autour de son centre dans le sens inverse des
+                aiguilles d'une montre.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1550</ID>
+            <Number>70</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Une isobare est la ligne qui relie tous les points</Question>
+            <Answer1>d’une même température calculée par rapport au niveau de la mer.</Answer1>
+            <Answer2>d’une même pression atmosphérique calculée par rapport au niveau de la mer.</Answer2>
+            <Answer3>de même altitude avec une pression de 500 hPa.</Answer3>
+            <Answer4>dont les variations de pression sont les plus importantes.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1551</ID>
+            <Number>71</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>À partir du tracé des isobares de la carte météorologique au sol, on peut se prononcer
+                sur:
+            </Question>
+            <Answer1>la direction générale du vent et la tendance aux précipitations.</Answer1>
+            <Answer2>le gradient de température et la force du vent.</Answer2>
+            <Answer3>la direction principale et la force du vent.</Answer3>
+            <Answer4>la tendance aux précipitations.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1552</ID>
+            <Number>72</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>En plaine, les vents au sol soufflent</Question>
+            <Answer1>directement du centre d’un anticyclone vers le centre d’une dépression.</Answer1>
+            <Answer2>plus ou moins parallèlement aux isobares du centre d’un anticyclone vers le centre
+                d’une dépression.
+            </Answer2>
+            <Answer3>directement du centre d’une dépression vers le centre d’un anticyclone.</Answer3>
+            <Answer4>plus ou moins parallèlement aux isobares du centre d’une dépression vers le centre d’un
+                anticyclone.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1553</ID>
+            <Number>73</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Sur une carte météo, lorsque l’écart entre les isobares est faible, on parle
+            </Question>
+            <Answer1>d'une chute de pression abrupte et on prévoit des vents faibles.</Answer1>
+            <Answer2>d'une répartition plate de la pression et on prévoit des vents faibles.</Answer2>
+            <Answer3>d'une chute de pression abrupte et on prévoit un vent fort.</Answer3>
+            <Answer4>d'une répartition plate de la pression et on prévoit un vent fort.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1554</ID>
+            <Number>74</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Lorsque l’écart entre les isobares est important, on parle</Question>
+            <Answer1>d'une chute de pression abrupte et on prévoit des vents faibles.</Answer1>
+            <Answer2>d'une répartition plate de la pression et on prévoit des vents faibles.</Answer2>
+            <Answer3>d'une chute de pression abrupte et on prévoit un vent fort.</Answer3>
+            <Answer4>d'une répartition plate de la pression et on prévoit un vent fort.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1555</ID>
+            <Number>75</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Les courants ascendants thermiques se forment plus favorablement</Question>
+            <Answer1>au centre de la dépression car les masses d'air qui se trouvent dans sa zone
+                d'influence ont tendance à s'élever.
+            </Answer1>
+            <Answer2>en cas de chute de pression abrupte car il y a un renouvellement d’air froid qui
+                souffle sur le sol chaud et l’air ascendant thermique n’a plus besoin de descendre.
+            </Answer2>
+            <Answer3>au centre de l'anticyclone car le rayonnement solaire y est plus intense grâce à
+                l'absence de nuages.
+            </Answer3>
+            <Answer4>en cas de répartition plate de la pression car l'air peut se réchauffer sans être gêné
+                par les vents et aucune subsidence (inversion descendante) ne l'empêche de s'élever.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1556</ID>
+            <Number>76</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Un vent de 135° souffle</Question>
+            <Answer1>du nord-ouest.</Answer1>
+            <Answer2>du nord-est.</Answer2>
+            <Answer3>du sud-ouest.</Answer3>
+            <Answer4>du sud-est.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1557</ID>
+            <Number>77</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Un vent de nord-ouest correspond à une valeur de</Question>
+            <Answer1>045°</Answer1>
+            <Answer2>315°</Answer2>
+            <Answer3>225°</Answer3>
+            <Answer4>135°</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1558</ID>
+            <Number>78</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Un vent d’une vitesse de 25 nœuds souffle à environ</Question>
+            <Answer1>15 km/h</Answer1>
+            <Answer2>25 km/h</Answer2>
+            <Answer3>35 km/h</Answer3>
+            <Answer4>45 km/h</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1559</ID>
+            <Number>79</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Un vent de 270°/10 noeuds est</Question>
+            <Answer1>un vent d'est d'une vitesse d'environ 18 km/h.</Answer1>
+            <Answer2>un vent d'ouest d'une vitesse d'environ 10 km/h.</Answer2>
+            <Answer3>un vent d'est d'une vitesse d'environ 10 km/h.</Answer3>
+            <Answer4>un vent d'ouest d'une vitesse d'environ 18 km/h.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1560</ID>
+            <Number>80</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Quelle affirmation les données de vent suivantes, issues du bulletin de vol à voile,
+                permettent-elles de faire en relation avec la direction et la vitesse du vent à 1000 m?
+                1'000 m: 050°/15 kt, 2'000 m: 080°/10 kt, 3'000 m: 230°/10 kt, 4'000 m: 240°/10 kt
+            </Question>
+            <Answer1>Vent du sud-ouest, 28 km/h</Answer1>
+            <Answer2>Vent du nord-est, 15 km/h</Answer2>
+            <Answer3>Vent du sud-ouest, 15 km/h</Answer3>
+            <Answer4>Vent du nord-est, 28 km/h</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1561</ID>
+            <Number>81</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>D’après les données suivantes, issues du bulletin météorologique pour le vol à voile,
+                à quelle altitude se trouve un cisaillement de vents nettement perceptible? 1’000 m: 070°/15
+                nœuds, 2’000 m: 080°/10 nœuds, 3’000 m: 230°/10 nœuds, 4’000 m: 240°/10 nœuds
+            </Question>
+            <Answer1>Entre 1'000 et 2'000 m</Answer1>
+            <Answer2>Entre 2'000 et 3'000 m</Answer2>
+            <Answer3>Entre 3'000 et 4'000 m</Answer3>
+            <Answer4>À toutes les altitudes</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1562</ID>
+            <Number>82</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Lorsqu’en plaine on compare le vent au sol avec le vent à 300 m/sol, le vent au sol
+                sera en général
+            </Question>
+            <Answer1>plus fort et plus turbulent.</Answer1>
+            <Answer2>plus faible et plus turbulent.</Answer2>
+            <Answer3>plus fort et moins turbulent.</Answer3>
+            <Answer4>plus faible et moins turbulent.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1563</ID>
+            <Number>83</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Lorsqu’en plaine on compare le vent au sol avec le vent à 300 m/sol, le vent à 300
+                m/sol sera en général
+            </Question>
+            <Answer1>plus fort et plus turbulent.</Answer1>
+            <Answer2>plus faible et plus turbulent.</Answer2>
+            <Answer3>plus fort et moins turbulent.</Answer3>
+            <Answer4>plus faible et moins turbulent.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1564</ID>
+            <Number>84</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Le vent de montagne souffle</Question>
+            <Answer1>de jour et vers la vallée.</Answer1>
+            <Answer2>de jour et vers le sommet.</Answer2>
+            <Answer3>de nuit et vers la vallée.</Answer3>
+            <Answer4>de nuit et vers le sommet.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1565</ID>
+            <Number>85</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Le vent de vallée souffle</Question>
+            <Answer1>de jour et vers la vallée.</Answer1>
+            <Answer2>de jour et vers le sommet.</Answer2>
+            <Answer3>de nuit et vers la vallée.</Answer3>
+            <Answer4>de nuit et vers le sommet.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1566</ID>
+            <Number>86</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>En cas de vent de vallée, on trouve des ascendances thermiques</Question>
+            <Answer1>surtout au milieu de la vallée.</Answer1>
+            <Answer2>surtout dans la partie supérieure des flancs de la vallée.</Answer2>
+            <Answer3>aussi bien au milieu de la vallée que dans la partie supérieure des flancs de la
+                vallée.
+            </Answer3>
+            <Answer4>ni dans la vallée ni dans la partie supérieure des flancs de la vallée.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1567</ID>
+            <Number>87</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>En cas de vent de montagne, on trouve des ascendances thermiques</Question>
+            <Answer1>surtout au milieu de la vallée.</Answer1>
+            <Answer2>surtout dans la partie supérieure des flancs de la vallée.</Answer2>
+            <Answer3>aussi bien au milieu de la vallée que dans la partie supérieure des flancs de la
+                vallée.
+            </Answer3>
+            <Answer4>ni dans la vallée ni dans la partie supérieure des flancs de la vallée.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1568</ID>
+            <Number>88</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Le vent de vallée se lève parce que l’air</Question>
+            <Answer1>se réchauffe plus vite dans la vallée qu’en montagne, en cours de journée.</Answer1>
+            <Answer2>se refroidit plus vite en montagne que dans la vallée quand l’ensoleillement diminue.
+            </Answer2>
+            <Answer3>se refroidit plus vite dans la vallée qu’en montagne quand l’ensoleillement diminue.
+            </Answer3>
+            <Answer4>se réchauffe plus vite en montagne que dans la vallée, en cours de journée.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1569</ID>
+            <Number>89</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Le vent de montagne se lève parce que</Question>
+            <Answer1>en journée, l’air se réchauffe plus vite dans la vallée qu’en montagne.</Answer1>
+            <Answer2>l'air se refroidit plus vite en montagne que dans la vallée après une diminution de
+                l'ensoleillement.
+            </Answer2>
+            <Answer3>l'air se refroidit plus vite dans la vallée qu'en montagne après une diminution de
+                l'ensoleillement.
+            </Answer3>
+            <Answer4>en journée, l’air se réchauffe plus vite en montagne que dans la vallée.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1570</ID>
+            <Number>90</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>À partir de quelle heure peut-on s’attendre à un vent de vallée dans les Alpes, en
+                été?
+            </Question>
+            <Answer1>environ 8 h</Answer1>
+            <Answer2>environ 11 h</Answer2>
+            <Answer3>environ 18 h</Answer3>
+            <Answer4>environ 22 h</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1571</ID>
+            <Number>91</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>À partir de quelle heure peut-on s’attendre à l’apparition du vent de montagne dans
+                les Alpes, en été?
+            </Question>
+            <Answer1>environ 8 h</Answer1>
+            <Answer2>environ 11 h</Answer2>
+            <Answer3>environ 18 h</Answer3>
+            <Answer4>environ 22 h</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1572</ID>
+            <Number>92</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Dans les Alpes, le vent de vallée est</Question>
+            <Answer1>plus fort de juin à août que de décembre à mars.</Answer1>
+            <Answer2>plus fort d’octobre à février que de mars à juillet.</Answer2>
+            <Answer3>plus fort de décembre à avril que de juillet à septembre.</Answer3>
+            <Answer4>toujours de force constante indépendamment de la saison.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1573</ID>
+            <Number>93</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Quelle affirmation est correcte?</Question>
+            <Answer1>Le vent de vallée souffle faiblement à proximité du sol et augmente progressivement en
+                prenant de l'altitude.
+            </Answer1>
+            <Answer2>Le vent de vallée souffle avec la même force à 50 m du sol qu'à 800 m du sol.</Answer2>
+            <Answer3>Le vent de vallée se renforce en prenant de l'altitude.</Answer3>
+            <Answer4>Le vent de vallée souffle le plus fort à environ 500 m du sol et diminue vers le haut
+                et vers le bas.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1574</ID>
+            <Number>94</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Dans les vallées alpines, dans quelles conditions peut-on s’attendre à un vent de
+                vallée?
+            </Question>
+            <Answer1>Le 30 décembre à 14 h par un ciel sans nuages.</Answer1>
+            <Answer2>Le 30 juillet à 14 h par un ciel couvert.</Answer2>
+            <Answer3>Le 30 août à 15 h par 3/8 à 5/8 de cumulus.</Answer3>
+            <Answer4>Le 30 juin à 20 h par un ciel sans nuage.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1575</ID>
+            <Number>95</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>En météorologie, le terme «turbulence mécanique» désigne le tourbillonnement que
+                provoque(nt)
+            </Question>
+            <Answer1>des bulles d’air chaud qui se détachent du sol et s’élèvent.</Answer1>
+            <Answer2>une masse d’air dont l'écoulement est perturbé par des obstacles au sol (bâtiments,
+                arbres etc.), ce qui entraine des tourbillons.
+            </Answer2>
+            <Answer3>des moyens techniques tels que des aéronefs qui se déplacent dans l'air.</Answer3>
+            <Answer4>deux masses d’air voisines qui se déplacent dans des directions et/ou à des vitesses
+                différentes et se frottent l’une contre l’autre.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1576</ID>
+            <Number>96</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>En météorologie, le terme «turbulence de cisaillement» désigne le tourbillonnement que
+                provoque(nt)
+            </Question>
+            <Answer1>des bulles d’air chaud qui se détachent du sol et s’élèvent.</Answer1>
+            <Answer2>une masse d’air dont l'écoulement est perturbé par des obstacles au sol (bâtiments,
+                arbres etc.), ce qui entraine des tourbillons.
+            </Answer2>
+            <Answer3>un courant d'air coupé en forme de ciseaux par un obstacle.</Answer3>
+            <Answer4>deux masses d’air voisines qui se déplacent dans des directions et/ou à des vitesses
+                différentes et se frottent l’une contre l’autre.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1577</ID>
+            <Number>97</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>En météorologie, le terme «turbulence thermique» désigne le tourbillonnement que
+                provoque(nt)
+            </Question>
+            <Answer1>des bulles d’air chaud qui se détachent du sol et s’élèvent.</Answer1>
+            <Answer2>une masse d’air dont l'écoulement est perturbé par des obstacles au sol (bâtiments,
+                arbres etc.), ce qui entraine des tourbillons.
+            </Answer2>
+            <Answer3>deux masses d'air qui, en se frottant l'une contre l'autre, se réchauffent puis
+                s'élèvent.
+            </Answer3>
+            <Answer4>deux masses d’air voisines qui se déplacent dans des directions et/ou à des vitesses
+                différentes et se frottent l’une contre l’autre.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1578</ID>
+            <Number>98</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>En été à 14 h, après le passage d’un front froid et par un vent météo de nord-ouest,
+                un vent de 25 km/h souffle au fond d’une vallée des Alpes par beau temps. À quel type de
+                turbulences doit-on surtout s’attendre au milieu de la vallée à 500 m/sol?
+            </Question>
+            <Answer1>À des turbulences mécaniques.</Answer1>
+            <Answer2>À aucune turbulence.</Answer2>
+            <Answer3>À des turbulences dues au foehn.</Answer3>
+            <Answer4>À des turbulences de cisaillements.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1579</ID>
+            <Number>99</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>En été à 14 h, un vent de vallée de 25 km/h souffle au fond d’une vallée des Alpes par
+                beau temps. À quel type de turbulences faut-il surtout s’attendre au milieu de la vallée à
+                20 m/sol?
+            </Question>
+            <Answer1>À des turbulences mécaniques.</Answer1>
+            <Answer2>À des turbulences thermiques.</Answer2>
+            <Answer3>À des turbulences de gradient.</Answer3>
+            <Answer4>À des turbulences de cisaillements.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1580</ID>
+            <Number>100</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>En été, à 13 h et par beau temps, à quelle sorte de turbulences doit-on s’attendre
+                dans les vallées des Alpes sur un versant sud à 2’800 m au-dessus du niveau de la mer
+                lorsque souffle un fort vent de vallée?
+            </Question>
+            <Answer1>À des turbulences mécaniques.</Answer1>
+            <Answer2>À des turbulences thermiques.</Answer2>
+            <Answer3>À des turbulences au vent.</Answer3>
+            <Answer4>À des turbulences de cisaillements.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1581</ID>
+            <Number>101</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>En juillet et par beau temps, à quelle heure peut-on en général s’attendre aux plus
+                faibles turbulences dans les vallées alpines où souffle un fort vent de vallée?
+            </Question>
+            <Answer1>Env. 9 h</Answer1>
+            <Answer2>Env. 11 h</Answer2>
+            <Answer3>Env. 13 h</Answer3>
+            <Answer4>Env. 18 h</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1582</ID>
+            <Number>102</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>En juillet et par beau temps, à quelle heure peut-on en général s’attendre aux plus
+                fortes turbulences dans les vallées alpines où souffle un fort vent de vallée?
+            </Question>
+            <Answer1>env. 9 h</Answer1>
+            <Answer2>env. 12 h</Answer2>
+            <Answer3>env. 15 h</Answer3>
+            <Answer4>env. 19 h</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1583</ID>
+            <Number>103</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>En juillet et par beau temps, à quelle heure peut-on en général s’attendre à des
+                turbulences thermiques, mais moins à des turbulences mécaniques ou de cisaillements dans les
+                vallées alpines où souffle un fort vent de vallée?
+            </Question>
+            <Answer1>Env. 9 h</Answer1>
+            <Answer2>Env. 11 h</Answer2>
+            <Answer3>Env. 15 h</Answer3>
+            <Answer4>Env. 18 h</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1584</ID>
+            <Number>104</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>En météorologie, qu'entend-on par masse d'air?</Question>
+            <Answer1>Un volume d'air possédant des caractéristiques homogènes.</Answer1>
+            <Answer2>La masse spécifique par m³ à une température de 15°C sur l'équateur au niveau de la
+                mer.
+            </Answer2>
+            <Answer3>Un endroit à forte concentration d’air au centre d’un anticyclone.</Answer3>
+            <Answer4>Une partie de l'atmosphère de densité atmosphérique uniforme.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1585</ID>
+            <Number>105</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>En rapport avec la formation de fronts, une masse d’air est qualifiée de chaude quand
+                sa température est supérieure à
+            </Question>
+            <Answer1>15°C au niveau de la mer par 1013,2 hPa.</Answer1>
+            <Answer2>celle des masses d'air voisines.</Answer2>
+            <Answer3>la température moyenne de la saison.</Answer3>
+            <Answer4>la température de sa zone d'origine.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1586</ID>
+            <Number>106</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>En météorologie, le terme «front» désigne</Question>
+            <Answer1>la ligne de séparation entre deux masses d'air différentes au niveau de la mer.
+            </Answer1>
+            <Answer2>un alignement de zones de précipitations.</Answer2>
+            <Answer3>une zone de précipitations avec une vitesse des vents accrue.</Answer3>
+            <Answer4>la surface de séparation entre deux masses d'air différentes.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1587</ID>
+            <Number>107</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Quelle affirmation est juste?</Question>
+            <Answer1>Le passage d’un front chaud et d’un front froid s’annonce d’abord à grande altitude,
+                puis au sol.
+            </Answer1>
+            <Answer2>Le passage d’un front chaud et d’un front froid s’annonce d’abord au sol, puis en
+                altitude.
+            </Answer2>
+            <Answer3>Le passage d'un front chaud s'annonce d'abord en altitude puis au sol. Le passage d'un
+                front froid s'annonce d'abord au sol puis en altitude.
+            </Answer3>
+            <Answer4>Le passage d'un front chaud s'annonce d'abord au sol puis en altitude. Le passage d'un
+                front froid s'annonce d'abord en altitude puis au sol.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1588</ID>
+            <Number>108</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Quelle affirmation est juste?</Question>
+            <Answer1>Un front chaud se déplace plus vite qu’un front froid.</Answer1>
+            <Answer2>Un front chaud et un front froid se déplacent à peu près à la même vitesse.</Answer2>
+            <Answer3>Un front froid se déplace plus vite qu’un front chaud.</Answer3>
+            <Answer4>En été, un front froid se déplace plus vite qu'un front chaud, en hiver, le front chaud
+                se déplace plus vite.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1589</ID>
+            <Number>109</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Quelle est la suite chronologique typique des nuages annonçant l’arrivée d’un front
+                chaud?
+            </Question>
+            <Answer1>Cumulus, cumulus congestus, cumulus calvus, cumulonimbus</Answer1>
+            <Answer2>Altocumulus, stratocumulus, altostratus, nimbostratus</Answer2>
+            <Answer3>Cirrus, cirrostratus, altostratus, nimbostratus</Answer3>
+            <Answer4>Lenticulaires, cumulus congestus, cirrocumulus, altocumulus</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1590</ID>
+            <Number>110</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Quel temps peut-il faire une heure avant l’arrivée d’un front chaud à l’endroit où se
+                trouve un observateur?
+            </Question>
+            <Answer1>Ciel bleu, vent nul, peu de turbulences, vent ascendant constant au décollage, bonnes
+                ascendances larges et calmes, cumulus congestus et cumulonimbus à l’horizon.
+            </Answer1>
+            <Answer2>Ciel couvert à 5/8 de cumulus, vent forcissant par rafales, thermiques durs accompagnés
+                de puissants courants descendants à l’extérieur.
+            </Answer2>
+            <Answer3>Mauvaise visibilité, base des nuages basse, pluie, vent constant.</Answer3>
+            <Answer4>Des nuages enveloppent les montagnes à l’horizon, cumulus et lenticulaires dans la
+                partie bleue du ciel, vent variable au sol, vent forcissant de sud-ouest au décollage.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1592</ID>
+            <Number>111</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Quels signes indiquent un foehn du sud du côté nord des Alpes?</Question>
+            <Answer1>Ciel bleu, vent nul, peu de turbulences, vent ascendant constant au décollage, bonnes
+                ascendances larges et calmes, cumulus congestus et cumulonimbus à l’horizon.
+            </Answer1>
+            <Answer2>Ciel couvert à 5/8 de cumulus, vent forcissant par rafales, thermiques durs accompagnés
+                de puissants courants descendants à l’extérieur.
+            </Answer2>
+            <Answer3>Mauvaise visibilité, base des nuages basse, pluie, vent constant.</Answer3>
+            <Answer4>Des nuages enveloppent les montagnes à l’horizon, au sud, cumulus et lenticulaires dans
+                la partie bleue du ciel, vent variable au sol, vent forcissant de sud-ouest au décollage.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1593</ID>
+            <Number>112</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Quelles sont les conditions les plus favorables à une situation de foehn du sud dans
+                les vallées alpines?
+            </Question>
+            <Answer1>La Suisse se trouve derrière un front froid, de l’air froid modérément humide arrive du
+                nord-ouest vers les Alpes.
+            </Answer1>
+            <Answer2>La Suisse se trouve dans un secteur chaud, un front froid atteint le Jura.</Answer2>
+            <Answer3>Les cirrostratus d’un front chaud commencent à couvrir le ciel au-dessus de la
+                Suisse.
+            </Answer3>
+            <Answer4>Au-dessus d’un courant de bise, un courant d’altitude du sud-ouest amène de l’air chaud
+                vers les Alpes.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1594</ID>
+            <Number>113</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Quelles conditions sont les plus favorables à une situation de foehn du nord dans le
+                Tessin?
+            </Question>
+            <Answer1>La Suisse se trouve derrière un front froid, de l’air froid modérément humide arrive du
+                nord-ouest vers les Alpes.
+            </Answer1>
+            <Answer2>La Suisse se trouve dans un secteur chaud, un front froid atteint le Jura.</Answer2>
+            <Answer3>La couverture de cirrostratus d’un front chaud en approche atteint la Suisse.</Answer3>
+            <Answer4>Au-dessus d’un courant de bise, un courant d’altitude du sud-ouest amène de l’air chaud
+                vers les Alpes.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1595</ID>
+            <Number>114</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Quelle condition favorise la formation d'une situation de foehn dans les vallées
+                alpines?
+            </Question>
+            <Answer1>Un anticyclone prononcé dont le centre se trouve au-dessus du massif alpin.</Answer1>
+            <Answer2>Une faible différence de pression entre le côté nord et le côté sud des Alpes.
+            </Answer2>
+            <Answer3>Une importante différence de pression entre le côté nord et le côté sud des Alpes.
+            </Answer3>
+            <Answer4>Une dépression prononcée dont le centre se trouve au-dessus du massif alpin.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1596</ID>
+            <Number>115</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>On trouve un ciel de traîne</Question>
+            <Answer1>entre un front chaud et un front froid.</Answer1>
+            <Answer2>sur le côté à l'abri du vent des Alpes par foehn du nord et du sud.</Answer2>
+            <Answer3>après le passage d'un front froid.</Answer3>
+            <Answer4>après le passage d'une zone de précipitations.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1597</ID>
+            <Number>116</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Une occlusion se forme quand</Question>
+            <Answer1>le front chaud rattrape le front froid qui le précède en altitude.</Answer1>
+            <Answer2>le front froid rattrape le front chaud qui le précède en altitude.</Answer2>
+            <Answer3>le front chaud rattrape le front froid qui le précède au niveau du sol.</Answer3>
+            <Answer4>le front froid rattrape le front chaud qui le précède au niveau du sol.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1598</ID>
+            <Number>117</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Du point de vue météorologique, une occlusion présente</Question>
+            <Answer1>les caractéristiques d'un front chaud.</Answer1>
+            <Answer2>les caractéristiques d'un front froid.</Answer2>
+            <Answer3>des caractéristiques plus inoffensives qu'un front chaud ou froid car les deux se
+                neutralisent.
+            </Answer3>
+            <Answer4>les caractéristiques d’un front chaud ou froid selon la température de l’air froid en
+                approche.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1599</ID>
+            <Number>118</Number>
+            <ImageID>35</ImageID>
+            <Answer>2</Answer>
+            <Question>Que représente le schéma suivant?</Question>
+            <Answer1>Un front chaud</Answer1>
+            <Answer2>Un front froid</Answer2>
+            <Answer3>Une occlusion à caractère de front chaud</Answer3>
+            <Answer4>Une occlusion à caractère de front froid</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1600</ID>
+            <Number>119</Number>
+            <ImageID>11</ImageID>
+            <Answer>3</Answer>
+            <Question>Que représente le schéma suivant?</Question>
+            <Answer1>Un front chaud</Answer1>
+            <Answer2>Un front froid</Answer2>
+            <Answer3>Une occlusion à caractère de front chaud</Answer3>
+            <Answer4>Une occlusion à caractère de front froid</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1601</ID>
+            <Number>120</Number>
+            <ImageID>12</ImageID>
+            <Answer>1</Answer>
+            <Question>Que représente le schéma suivant?</Question>
+            <Answer1>Un front chaud</Answer1>
+            <Answer2>Un front froid</Answer2>
+            <Answer3>Une occlusion à caractère de front chaud</Answer3>
+            <Answer4>Une occlusion à caractère de front froid</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1602</ID>
+            <Number>121</Number>
+            <ImageID>13</ImageID>
+            <Answer>4</Answer>
+            <Question>Que représente le schéma suivant?</Question>
+            <Answer1>Un front chaud</Answer1>
+            <Answer2>Un front froid</Answer2>
+            <Answer3>Une occlusion à caractère de front chaud</Answer3>
+            <Answer4>Une occlusion à caractère de front froid</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1603</ID>
+            <Number>122</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>La formation de cumulonimbus et donc d’orages devant un front est la plus
+                vraisemblable
+            </Question>
+            <Answer1>lors de fronts froids en janvier.</Answer1>
+            <Answer2>lors de fronts chauds en janvier.</Answer2>
+            <Answer3>lors de fronts froids en août.</Answer3>
+            <Answer4>lors de fronts chauds en août.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1604</ID>
+            <Number>123</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>La Suisse se trouve sous l’emprise d’une chaleur étouffante. Les prévisions météo
+                annoncent l’arrivée d’air froid polaire du nord-ouest en cours de journée. À quel temps
+                doit-on s’attendre pour la journée?
+            </Question>
+            <Answer1>À un temps particulièrement propice au vol thermique et au vol de distance à cause de
+                l’air froid qui se réchauffe très vite au sol.
+            </Answer1>
+            <Answer2>À une advection d’air froid qui va stabiliser l’atmosphère et rendre le vol thermique
+                impossible pendant un certain temps.
+            </Answer2>
+            <Answer3>À des orages frontaux porteurs de grêle avec vents tempétueux soufflant en rafales.
+            </Answer3>
+            <Answer4>À un refroidissement continu de l’air chaud humide et à l’apparition lente de
+                précipitations.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1605</ID>
+            <Number>124</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>À quel moment de la journée se présentent les conditions les plus favorables à la
+                formation d’orages thermiques?
+            </Question>
+            <Answer1>Le matin.</Answer1>
+            <Answer2>En fin d’après-midi.</Answer2>
+            <Answer3>En début d’après-midi.</Answer3>
+            <Answer4>L'heure n'a pas d'influence sur la formation des orages thermiques.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1606</ID>
+            <Number>125</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>À quelle heure de la journée se présentent les conditions les plus favorables à la
+                formation d’orages frontaux?
+            </Question>
+            <Answer1>10 h</Answer1>
+            <Answer2>15 h</Answer2>
+            <Answer3>20 h</Answer3>
+            <Answer4>L’heure n’a pas d’influence sur la formation des orages frontaux.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1607</ID>
+            <Number>126</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>À quel vent doit-on s’attendre sur le Plateau suisse quand la Suisse se situe à la
+                périphérie d’un anticyclone prononcé dont le centre se trouve au-dessus de l’Allemagne du
+                nord?
+            </Question>
+            <Answer1>Foehn du sud</Answer1>
+            <Answer2>Vent d'ouest</Answer2>
+            <Answer3>Bise</Answer3>
+            <Answer4>Vent du nord-ouest</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1608</ID>
+            <Number>127</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>À quel vent doit-on s’attendre dans les montagnes suisses quand l’anticyclone des
+                Açores s’étend vers l’Europe centrale?
+            </Question>
+            <Answer1>Foehn du sud</Answer1>
+            <Answer2>Vent d'ouest</Answer2>
+            <Answer3>Bise</Answer3>
+            <Answer4>Vent du nord-ouest</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1609</ID>
+            <Number>128</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>À quel vent doit-on s’attendre dans les vallées du Tessin quand l’anticyclone des
+                Açores s’étend vers l’Europe centrale?
+            </Question>
+            <Answer1>Vent du sud</Answer1>
+            <Answer2>Vent d'ouest</Answer2>
+            <Answer3>Bise</Answer3>
+            <Answer4>Foehn du nord</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1610</ID>
+            <Number>129</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Dans les Alpes, quelle situation météorologique est la plus favorable à la formation
+                de thermiques qui atteindront une altitude élevée?
+            </Question>
+            <Answer1>Un anticyclone prononcé dont le centre se situe sur le nord de l’Allemagne.</Answer1>
+            <Answer2>Un anticyclone peu prononcé dont le centre se situe au-dessus des Alpes.</Answer2>
+            <Answer3>L'anticyclone des Açores s'étend en direction de l'Europe centrale.</Answer3>
+            <Answer4>Une dépression prononcée dont le centre se situe au-dessus du golfe de Gênes.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1611</ID>
+            <Number>130</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Qu’est-ce qui provoque en général la formation d’une inversion au sol?</Question>
+            <Answer1>Un courant d'air descendant soumis à un réchauffement adiabatique sec devant et au
+                centre d'un anticyclone.
+            </Answer1>
+            <Answer2>Le rayonnement nocturne du sol par ciel clair.</Answer2>
+            <Answer3>L'arrivée de masses d'air continentales dans les couches d'air proches du sol.
+            </Answer3>
+            <Answer4>Le réchauffement des couches d'air proches du sol au cours de la journée.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1612</ID>
+            <Number>131</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Qu'est-ce qui entraîne la disparition d'une inversion au sol?</Question>
+            <Answer1>Un courant d'air chaud descendant à l'avant et au centre d'un anticyclone.</Answer1>
+            <Answer2>Le rayonnement nocturne du sol par ciel clair.</Answer2>
+            <Answer3>L'arrivée de masses d'air chaudes dans les couches supérieures de l'atmosphère.
+            </Answer3>
+            <Answer4>Le réchauffement des couches d'air proches du sol au cours de la journée.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1613</ID>
+            <Number>132</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Quelles sont les conditions les plus favorables à l’apparition de bons courants
+                thermiques au-dessus d’une parcelle de terrain donnée?
+            </Question>
+            <Answer1>Rayonnement solaire puissant, forte réflexion du rayonnement incident.</Answer1>
+            <Answer2>Rayonnement solaire puissant, faible réflexion du rayonnement incident.</Answer2>
+            <Answer3>Faible angle d'incidence du soleil, faible réflexion du rayonnement incident.</Answer3>
+            <Answer4>Faible angle d'incidence du soleil, forte réflexion du rayonnement incident.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1614</ID>
+            <Number>133</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Quelles sont les conditions les plus favorables à l’apparition de bons courants
+                thermiques au-dessus d’une parcelle de terrain donnée?
+            </Question>
+            <Answer1>Elle est exposée au vent et humide.</Answer1>
+            <Answer2>Elle est exposée au vent et sèche.</Answer2>
+            <Answer3>Elle est protégée du vent et humide.</Answer3>
+            <Answer4>Elle est protégée du vent et sèche.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1615</ID>
+            <Number>134</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Au cours de quel mois les ascendances thermiques sont-elles les plus prononcées dans
+                les Préalpes?
+            </Question>
+            <Answer1>Janvier</Answer1>
+            <Answer2>Mai</Answer2>
+            <Answer3>Août</Answer3>
+            <Answer4>Octobre</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1616</ID>
+            <Number>135</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Au cours de quel mois les ascendances thermiques montent-elles le plus haut dans les
+                Alpes?
+            </Question>
+            <Answer1>Janvier</Answer1>
+            <Answer2>Mai</Answer2>
+            <Answer3>Août</Answer3>
+            <Answer4>Octobre</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1617</ID>
+            <Number>136</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Le terme «thermique sous le vent» désigne</Question>
+            <Answer1>le courant descendant, côté sous le vent, des masses d’air thermiques ascendantes.
+            </Answer1>
+            <Answer2>des ascendances thermiques qui se forment côté sous le vent d’une montagne.</Answer2>
+            <Answer3>les ascendances provoquées par un rotor côté sous le vent d’une montagne.</Answer3>
+            <Answer4>des ascendances thermiques sous le vent d'autres ascendances thermiques.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1618</ID>
+            <Number>137</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Les thermiques sous le vent se déclenchent principalement</Question>
+            <Answer1>sur des pentes orientées nord par vent du nord.</Answer1>
+            <Answer2>sur des pentes orientées nord par vent du sud.</Answer2>
+            <Answer3>sur des pentes orientées sud par vent du sud.</Answer3>
+            <Answer4>sur des pentes orientées sud par vent du nord.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1619</ID>
+            <Number>138</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Le terme «thermiques bleus» désigne</Question>
+            <Answer1>des masses d'air thermiques ascendantes dont la teneur en humidité ne permet pas la
+                formation de nuages.
+            </Answer1>
+            <Answer2>des masses d'air thermiques ascendantes dont la teneur en humidité est si importante
+                que des nuages se forment et provoquent des précipitations.
+            </Answer2>
+            <Answer3>les masses d'air qui s'élèvent de manière thermique pendant la nuit au-dessus des eaux
+                stagnantes.
+            </Answer3>
+            <Answer4>des masses d'air thermiques ascendantes qui sont soulevées par l'arrivée d'air froid
+                continental.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1620</ID>
+            <Number>139</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>On doit s’attendre à des thermiques bleus quand</Question>
+            <Answer1>les masses d'air thermiques ascendantes ne proviennent pas du sol mais de couches d'air
+                se trouvant à une altitude plus élevée.
+            </Answer1>
+            <Answer2>la différence entre la température des masses d'air ascendantes et le point de rosée
+                est si importante que le point de rosée n'est pas atteint.
+            </Answer2>
+            <Answer3>le sol se refroidit tellement la nuit qu'il est plus froid que les eaux stagnantes
+                avoisinantes.
+            </Answer3>
+            <Answer4>les couches de nuages sont si stables qu'aucune masse d'air thermique ne peut monter.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1621</ID>
+            <Number>140</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Le terme «restitution» désigne</Question>
+            <Answer1>les masses d'air qui descendent durant le jour au-dessus de surfaces froides, comme les
+                glaciers et les lacs.
+            </Answer1>
+            <Answer2>les masses d'air thermiques ascendantes au milieu de la vallée suite au déclenchement
+                du vent descendant des montagnes.
+            </Answer2>
+            <Answer3>les masses d'air descendantes à côté des masses d'air ascendantes.</Answer3>
+            <Answer4>les masses d'air descendant sous l'influence de la température.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1622</ID>
+            <Number>141</Number>
+            <ImageID>14</ImageID>
+            <Answer>2</Answer>
+            <Question>Sur la carte météo, ce symbole représente:</Question>
+            <Answer1>une isobare</Answer1>
+            <Answer2>un front froid</Answer2>
+            <Answer3>un front chaud</Answer3>
+            <Answer4>une occlusion</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1623</ID>
+            <Number>142</Number>
+            <ImageID>15</ImageID>
+            <Answer>3</Answer>
+            <Question>Sur la carte météo, ce symbole représente:</Question>
+            <Answer1>une isobare</Answer1>
+            <Answer2>un front froid</Answer2>
+            <Answer3>un front chaud</Answer3>
+            <Answer4>une occlusion</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1624</ID>
+            <Number>143</Number>
+            <ImageID>16</ImageID>
+            <Answer>1</Answer>
+            <Question>Sur la carte météo, ce symbole représente:</Question>
+            <Answer1>une isobare</Answer1>
+            <Answer2>un front froid</Answer2>
+            <Answer3>un front chaud</Answer3>
+            <Answer4>une occlusion</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1625</ID>
+            <Number>144</Number>
+            <ImageID>17</ImageID>
+            <Answer>4</Answer>
+            <Question>Sur la carte météo, ce symbole représente:</Question>
+            <Answer1>une isobare</Answer1>
+            <Answer2>un front froid</Answer2>
+            <Answer3>un front chaud</Answer3>
+            <Answer4>une occlusion</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1626</ID>
+            <Number>145</Number>
+            <ImageID>18</ImageID>
+            <Answer>4</Answer>
+            <Question>Où se situe un centre de basse pression?</Question>
+            <Answer1>Près de Tunis</Answer1>
+            <Answer2>Au-dessus du golfe de Gascogne (Golf von Biskaya)</Answer2>
+            <Answer3>Près de Stockholm</Answer3>
+            <Answer4>Près de Lulea</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1627</ID>
+            <Number>146</Number>
+            <ImageID>18</ImageID>
+            <Answer>2</Answer>
+            <Question>Où se trouve un centre de haute pression?</Question>
+            <Answer1>Près de Tunis</Answer1>
+            <Answer2>Au-dessus du golfe de Gascogne (Golf von Biskaya)</Answer2>
+            <Answer3>Près de Stockholm</Answer3>
+            <Answer4>Près de Lulea</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1628</ID>
+            <Number>147</Number>
+            <ImageID>18</ImageID>
+            <Answer>1</Answer>
+            <Question>Où les différences de pression sont-elles les plus faibles?</Question>
+            <Answer1>Près de Tunis</Answer1>
+            <Answer2>Au-dessus du golfe de Gascogne (Golf von Biskaya)</Answer2>
+            <Answer3>Près de Stockholm</Answer3>
+            <Answer4>Près de Lulea</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1629</ID>
+            <Number>148</Number>
+            <ImageID>18</ImageID>
+            <Answer>3</Answer>
+            <Question>Où les différences de pression sont-elles les plus fortes?</Question>
+            <Answer1>Près de Tunis</Answer1>
+            <Answer2>Au-dessus du golfe de Gascogne (Golf von Biskaya)</Answer2>
+            <Answer3>Près de Stockholm</Answer3>
+            <Answer4>Près de Lulea</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1630</ID>
+            <Number>149</Number>
+            <ImageID>18</ImageID>
+            <Answer>3</Answer>
+            <Question>Où la vitesse du vent est-elle la plus élevée?</Question>
+            <Answer1>En Afrique du Nord</Answer1>
+            <Answer2>En Suisse</Answer2>
+            <Answer3>Dans le sud de la Scandinavie</Answer3>
+            <Answer4>En Islande</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1631</ID>
+            <Number>150</Number>
+            <ImageID>18</ImageID>
+            <Answer>1</Answer>
+            <Question>Où le vent est-il le plus faible?</Question>
+            <Answer1>En Afrique du Nord</Answer1>
+            <Answer2>En Suisse</Answer2>
+            <Answer3>Dans le sud de la Scandinavie</Answer3>
+            <Answer4>En Islande</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1632</ID>
+            <Number>151</Number>
+            <ImageID>19</ImageID>
+            <Answer>3</Answer>
+            <Question>Quelle est la direction du vent à Alger?</Question>
+            <Answer1>100°</Answer1>
+            <Answer2>190°</Answer2>
+            <Answer3>280°</Answer3>
+            <Answer4>320°</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1633</ID>
+            <Number>152</Number>
+            <ImageID>19</ImageID>
+            <Answer>4</Answer>
+            <Question>Quelle est la direction du vent à Londres (London)?</Question>
+            <Answer1>130°</Answer1>
+            <Answer2>190°</Answer2>
+            <Answer3>270°</Answer3>
+            <Answer4>310°</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1634</ID>
+            <Number>153</Number>
+            <ImageID>19</ImageID>
+            <Answer>1</Answer>
+            <Question>Quelle est la direction du vent à Athènes (Athen)?</Question>
+            <Answer1>130°</Answer1>
+            <Answer2>190°</Answer2>
+            <Answer3>270°</Answer3>
+            <Answer4>310°</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1635</ID>
+            <Number>154</Number>
+            <ImageID>19</ImageID>
+            <Answer>2</Answer>
+            <Question>Quelle est la direction du vent à Zurich?</Question>
+            <Answer1>100°</Answer1>
+            <Answer2>210°</Answer2>
+            <Answer3>280°</Answer3>
+            <Answer4>030°</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1636</ID>
+            <Number>155</Number>
+            <ImageID>19</ImageID>
+            <Answer>4</Answer>
+            <Question>Quelle est la direction du vent à Lisbonne (Lissabon)?</Question>
+            <Answer1>100°</Answer1>
+            <Answer2>190°</Answer2>
+            <Answer3>250°</Answer3>
+            <Answer4>320°</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1637</ID>
+            <Number>156</Number>
+            <ImageID>19</ImageID>
+            <Answer>2</Answer>
+            <Question>Quelles villes se situent dans le secteur chaud?</Question>
+            <Answer1>Lulea et Saint-Petersbourg (St.Petersburg)</Answer1>
+            <Answer2>Zurich et Stockholm</Answer2>
+            <Answer3>Lisbonne (Lissabon) et Athènes (Athen)</Answer3>
+            <Answer4>Paris et Londres (London)</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1638</ID>
+            <Number>157</Number>
+            <ImageID>19</ImageID>
+            <Answer>4</Answer>
+            <Question>Quelles villes se situent dans la zone d’influence de la traîne?</Question>
+            <Answer1>Lulea et Saint-Petersbourg (St.Petersburg)</Answer1>
+            <Answer2>Zurich et Stockholm</Answer2>
+            <Answer3>Lisbonne (Lissabon) et Athènes (Athen)</Answer3>
+            <Answer4>Paris et Londres (London)</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1639</ID>
+            <Number>158</Number>
+            <ImageID>19</ImageID>
+            <Answer>1</Answer>
+            <Question>Quelles villes ressentent déjà l’arrivée du front chaud?</Question>
+            <Answer1>Lulea et Saint-Petersbourg (St.Petersburg)</Answer1>
+            <Answer2>Zurich et Stockholm</Answer2>
+            <Answer3>Lisbonne (Lissabon) et Athènes (Athen)</Answer3>
+            <Answer4>Paris et Londres (London)</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1640</ID>
+            <Number>159</Number>
+            <ImageID>19</ImageID>
+            <Answer>3</Answer>
+            <Question>Quelles villes subissent l’influence d’une haute pression?</Question>
+            <Answer1>Lulea et Saint-Petersbourg (St.Petersburg)</Answer1>
+            <Answer2>Zurich et Stockholm</Answer2>
+            <Answer3>Lisbonne (Lissabon) et Athènes (Athen)</Answer3>
+            <Answer4>Paris et Londres (London)</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1641</ID>
+            <Number>160</Number>
+            <ImageID>19</ImageID>
+            <Answer>2</Answer>
+            <Question>À Lulea, quelle est la nébulosité la plus vraisemblable?</Question>
+            <Answer1>3/8 à 5/8 cumulus</Answer1>
+            <Answer2>5/8 à 7/8 cirrostratus</Answer2>
+            <Answer3>8/8 nimbostratus</Answer3>
+            <Answer4>5/8 à 7/8 cumulonimbus, nuages lenticulaires épars à l'est</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1642</ID>
+            <Number>161</Number>
+            <ImageID>19</ImageID>
+            <Answer>1</Answer>
+            <Question>À Paris, quelle est la nébulosité la plus vraisemblable?</Question>
+            <Answer1>3/8 à 5/8 cumulus</Answer1>
+            <Answer2>5/8 à 7/8 cirrostratus</Answer2>
+            <Answer3>8/8 nimbostratus</Answer3>
+            <Answer4>5/8 à 7/8 cumulonimbus, nuages lenticulaires épars à l'est</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1643</ID>
+            <Number>162</Number>
+            <ImageID>19</ImageID>
+            <Answer>4</Answer>
+            <Question>Au nord-est de la Suisse, quelle est la nébulosité la plus vraisemblable?</Question>
+            <Answer1>5/8 à 7/8 cirrocumulus</Answer1>
+            <Answer2>5/8 à 7/8 cirrostratus</Answer2>
+            <Answer3>8/8 nimbostratus</Answer3>
+            <Answer4>5/8 à 7/8 cumulo-nimbus, nuages lenticulaires épars à l'est</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1644</ID>
+            <Number>163</Number>
+            <ImageID>19</ImageID>
+            <Answer>3</Answer>
+            <Question>À Saint-Petersbourg (St.Petersburg), quelle est la nébulosité la plus vraisemblable?
+            </Question>
+            <Answer1>3/8 à 5/8 cumulus</Answer1>
+            <Answer2>5/8 à 7/8 cirrostratus</Answer2>
+            <Answer3>8/8 nimbostratus</Answer3>
+            <Answer4>5/8 à 7/8 cumulonimbus, nuages lenticulaires épars à l'est</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1645</ID>
+            <Number>164</Number>
+            <ImageID>19</ImageID>
+            <Answer>4</Answer>
+            <Question>La situation météorologique générale représentée sur la carte suivante prévoit pour la
+                Suisse:
+            </Question>
+            <Answer1>Bise avec un vent soufflant jusqu'à 50 km/h dans la région du lac Léman.</Answer1>
+            <Answer2>Congestion nuageuse sur la face nord des Alpes, dans le Tessin temps ensoleillé sous
+                l'influence du foehn du nord.
+            </Answer2>
+            <Answer3>Soleil et vents faibles de directions variables sur la majeure partie de la Suisse.
+            </Answer3>
+            <Answer4>A l'ouest et au sud, nuages en développement, à l'est temps pour la plupart ensoleillé
+                sous l'influence du foehn du sud.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+    </Questions>
+</Root>

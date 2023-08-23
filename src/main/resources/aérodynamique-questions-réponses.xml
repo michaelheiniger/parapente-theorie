@@ -1,0 +1,2229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Questions>
+        <Question>
+            <ID>1324</ID>
+            <Number>1</Number>
+            <ImageID>1</ImageID>
+            <Answer>3</Answer>
+            <Question>Les forces F1 et F2 agissent sur un corps; elles ont le même point d'application.
+                Quelle est la résultante R des deux forces?
+            </Question>
+            <Answer1>R1</Answer1>
+            <Answer2>R2</Answer2>
+            <Answer3>R3</Answer3>
+            <Answer4>R4</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1325</ID>
+            <Number>2</Number>
+            <ImageID>1</ImageID>
+            <Answer>4</Answer>
+            <Question>Les forces F1 et F3 agissent sur un corps; elles ont le même point d'application.
+                Quelle est la résultante R des deux forces?
+            </Question>
+            <Answer1>R1</Answer1>
+            <Answer2>R2</Answer2>
+            <Answer3>R3</Answer3>
+            <Answer4>R4</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1326</ID>
+            <Number>3</Number>
+            <ImageID>1</ImageID>
+            <Answer>2</Answer>
+            <Question>Les forces F1 et F4 agissent sur un corps; elles ont le même point d'application.
+                Quelle est la résultante R des deux forces?
+            </Question>
+            <Answer1>R1</Answer1>
+            <Answer2>R2</Answer2>
+            <Answer3>R3</Answer3>
+            <Answer4>R4</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1327</ID>
+            <Number>4</Number>
+            <ImageID>1</ImageID>
+            <Answer>1</Answer>
+            <Question>Les forces F1 et F5 agissent sur un corps; elles ont le même point d'application.
+                Quelle est la résultante R des deux forces?
+            </Question>
+            <Answer1>R1</Answer1>
+            <Answer2>R2</Answer2>
+            <Answer3>R3</Answer3>
+            <Answer4>R4</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1328</ID>
+            <Number>5</Number>
+            <ImageID>1</ImageID>
+            <Answer>4</Answer>
+            <Question>Les forces F4 et F5 agissent sur un corps; elles ont le même point d'application.
+                Quelle est la résultante R des deux forces?
+            </Question>
+            <Answer1>R1</Answer1>
+            <Answer2>R2</Answer2>
+            <Answer3>R3</Answer3>
+            <Answer4>R4</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1329</ID>
+            <Number>6</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Quel élément influe de manière notable sur la traînée d’un corps?</Question>
+            <Answer1>Le poids du corps.</Answer1>
+            <Answer2>La grandeur du corps.</Answer2>
+            <Answer3>Le matériau composant le corps.</Answer3>
+            <Answer4>La masse du corps.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1330</ID>
+            <Number>7</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Lorsqu’on double la surface de sa partie frontale exposée perpendiculairement à
+                l’écoulement de l’air, alors la traînée d’un corps
+            </Question>
+            <Answer1>est divisée par deux.</Answer1>
+            <Answer2>ne change pas.</Answer2>
+            <Answer3>double.</Answer3>
+            <Answer4>est multipliée par quatre.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1331</ID>
+            <Number>8</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Lorsqu’on quadruple la surface de sa partie frontale exposée perpendiculairement à
+                l’écoulement de l’air, alors la traînée d’un corps
+            </Question>
+            <Answer1>est divisée par quatre.</Answer1>
+            <Answer2>ne change pas.</Answer2>
+            <Answer3>est multipliée par quatre.</Answer3>
+            <Answer4>est multipliée par seize.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1332</ID>
+            <Number>9</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Lorsqu’on divise par deux la surface de sa partie frontale exposée perpendiculairement
+                à l’écoulement de l’air, alors la traînée d’un corps
+            </Question>
+            <Answer1>est divisée par deux.</Answer1>
+            <Answer2>ne change pas.</Answer2>
+            <Answer3>double.</Answer3>
+            <Answer4>est multipliée par quatre.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1333</ID>
+            <Number>10</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Un corps avec une surface frontale de 2 m² exposé perpendiculairement à un flux d’air
+                de 30 km/h engendre une traînée d’env. 300 N (env. 30 kp) au niveau de la mer. Quelle
+                traînée engendre un corps de la même forme mais d’une surface frontale de 4 m² dans les
+                mêmes conditions?
+            </Question>
+            <Answer1>env. 150 N</Answer1>
+            <Answer2>env. 300 N</Answer2>
+            <Answer3>env. 600 N</Answer3>
+            <Answer4>env. 900 N</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1334</ID>
+            <Number>11</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Un corps avec une surface frontale de 2 m² exposé perpendiculairement à un flux d’air
+                de 30 km/h engendre une traînée d’env. 300 N (env. 30 kp) au niveau de la mer. Quelle
+                traînée engendre un corps de la même forme mais d’une surface frontale de 1 m² dans les
+                mêmes conditions?
+            </Question>
+            <Answer1>env. 150 N</Answer1>
+            <Answer2>env. 300 N</Answer2>
+            <Answer3>env. 600 N</Answer3>
+            <Answer4>env. 900 N</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1335</ID>
+            <Number>12</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Un corps avec une surface frontale de 8 m² exposé perpendiculairement à un flux d’air
+                de 30 km/h engendre une traînée d’env. 1'200 N (env. 120 kp) au niveau de la mer. Quelle
+                traînée engendre un corps de la même forme mais d’une surface frontale de 2 m² dans les
+                mêmes conditions?
+            </Question>
+            <Answer1>env. 150 N</Answer1>
+            <Answer2>env. 300 N</Answer2>
+            <Answer3>env. 600 N</Answer3>
+            <Answer4>env. 900 N</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1336</ID>
+            <Number>13</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Un corps avec une surface frontale de 0,5 m² exposé perpendiculairement à un flux
+                d’air de 30 km/h engendre une traînée d’env. 150 N (env. 15 kp) au niveau de la mer. Quelle
+                traînée engendre un corps de la même forme mais d’une surface frontale de 3 m² dans les
+                mêmes conditions?
+            </Question>
+            <Answer1>env. 150 N</Answer1>
+            <Answer2>env. 300 N</Answer2>
+            <Answer3>env. 600 N</Answer3>
+            <Answer4>env. 900 N</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1337</ID>
+            <Number>14</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Quel élément influe de manière notable sur la traînée d’un corps?</Question>
+            <Answer1>Le poids du corps.</Answer1>
+            <Answer2>L'humidité relative de l'air.</Answer2>
+            <Answer3>Le matériau composant le corps.</Answer3>
+            <Answer4>La vitesse du flux.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1338</ID>
+            <Number>15</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Lorsque la vitesse du flux d’air auquel est exposé un corps double, alors:</Question>
+            <Answer1>sa traînée double.</Answer1>
+            <Answer2>sa traînée est multipliée par quatre.</Answer2>
+            <Answer3>sa traînée est multipliée par huit.</Answer3>
+            <Answer4>sa traînée est multipliée par seize.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1339</ID>
+            <Number>16</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Lorsque la vitesse du flux d’air auquel est exposé un corps triple, alors:</Question>
+            <Answer1>sa traînée est multipliée par trois.</Answer1>
+            <Answer2>sa traînée est multipliée par six.</Answer2>
+            <Answer3>sa traînée est multipliée par neuf.</Answer3>
+            <Answer4>sa traînée est multipliée par douze.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1340</ID>
+            <Number>17</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Lorsque la vitesse du flux d'air auquel est exposé un corps quadruple, alors:
+            </Question>
+            <Answer1>sa traînée double.</Answer1>
+            <Answer2>sa traînée est multipliée par quatre.</Answer2>
+            <Answer3>sa traînée est multipliée par huit.</Answer3>
+            <Answer4>sa traînée est multipliée par seize.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1341</ID>
+            <Number>18</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Lorsque la vitesse du flux d'air auquel est exposé un corps est divisée par deux,
+                alors:
+            </Question>
+            <Answer1>sa traînée double.</Answer1>
+            <Answer2>sa traînée est multipliée par quatre.</Answer2>
+            <Answer3>sa traînée est divisée par deux.</Answer3>
+            <Answer4>sa traînée est divisée par quatre.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1342</ID>
+            <Number>19</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Un corps avec une surface frontale de 2 m² exposé perpendiculairement à un flux d’air
+                de 30 km/h engendre une traînée d’env. 300 N (env. 30 kp) au niveau de la mer. Quelle
+                traînée engendre le même corps exposé à un flux d’air de 60 km/h?
+            </Question>
+            <Answer1>env. 300 N</Answer1>
+            <Answer2>env. 600 N</Answer2>
+            <Answer3>env. 900 N</Answer3>
+            <Answer4>env. 1'200 N</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>10</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1343</ID>
+            <Number>20</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Un corps avec une surface frontale de 0,75 m² exposé perpendiculairement à un flux
+                d’air de 30 km/h engendre une traînée d’env. 100 N (env. 10 kp) au niveau de la mer. Quelle
+                traînée engendre le même corps exposé à un flux d’air de 90 km/h?
+            </Question>
+            <Answer1>env. 300 N</Answer1>
+            <Answer2>env. 600 N</Answer2>
+            <Answer3>env. 900 N</Answer3>
+            <Answer4>env.1'200 N</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1344</ID>
+            <Number>21</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Un corps avec une surface frontale de 2 m² exposé perpendiculairement à un flux d’air
+                de 80 km/h engendre une traînée d’env. 1200 N (env. 120 kp) au niveau de la mer. Quelle
+                traînée engendre le même corps exposé à un flux d’air de 40 km/h?
+            </Question>
+            <Answer1>env. 300 N</Answer1>
+            <Answer2>env. 600 N</Answer2>
+            <Answer3>env. 900 N</Answer3>
+            <Answer4>env.1'200 N</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1345</ID>
+            <Number>22</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Un corps avec une surface frontale de 0,75 m² exposé perpendiculairement à un flux
+                d’air de 20 km/h engendre une traînée d’env. 100 N (env. 10 kp) au niveau de la mer. Quelle
+                traînée engendre le même corps exposé à un flux d’air de 60 km/h?
+            </Question>
+            <Answer1>env. 300 N</Answer1>
+            <Answer2>env. 600 N</Answer2>
+            <Answer3>env. 900 N</Answer3>
+            <Answer4>env.1'200 N</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1346</ID>
+            <Number>23</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Quel élément influe de manière notable sur la traînée d’un corps?</Question>
+            <Answer1>L'humidité absolue de l'air.</Answer1>
+            <Answer2>Le gradient de pression.</Answer2>
+            <Answer3>La densité de l'air.</Answer3>
+            <Answer4>La différence entre température et point de rosée.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1347</ID>
+            <Number>24</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Lorsque la densité du flux d'air auquel est exposé un corps double, alors:</Question>
+            <Answer1>la traînée est divisée par deux.</Answer1>
+            <Answer2>ce facteur n'a aucune influence sur la traînée.</Answer2>
+            <Answer3>la traînée double.</Answer3>
+            <Answer4>la traînée est multipliée par quatre.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1348</ID>
+            <Number>25</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Lorsque la densité du flux d'air auquel est exposé un corps est divisée par deux,
+                alors:
+            </Question>
+            <Answer1>la traînée est divisée par deux.</Answer1>
+            <Answer2>ce facteur n'a aucune influence sur la traînée.</Answer2>
+            <Answer3>la traînée double.</Answer3>
+            <Answer4>la traînée est multipliée par quatre.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1349</ID>
+            <Number>26</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Lorsqu’un corps exposé à un flux d'air s'éloigne de la surface terrestre, alors:
+            </Question>
+            <Answer1>sa traînée augmente.</Answer1>
+            <Answer2>ce facteur n'a aucune influence sur sa traînée.</Answer2>
+            <Answer3>sa traînée diminue jusqu'à la tropopause et augmente ensuite à cause du changement de
+                température.
+            </Answer3>
+            <Answer4>sa traînée diminue.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>10</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1350</ID>
+            <Number>27</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Lorsqu’un corps exposé à un flux d'air s'éloigne de la surface terrestre, alors
+            </Question>
+            <Answer1>sa traînée diminue de manière linéaire.</Answer1>
+            <Answer2>sa traînée diminue plus vite dans les basses couches qu'en haute altitude.</Answer2>
+            <Answer3>sa traînée diminue plus vite en haute altitude que dans les basses couches.</Answer3>
+            <Answer4>Sa traînée diminue dans les basses couches et augmente en haute altitude.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1351</ID>
+            <Number>28</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Un corps exposé à un flux d’air à une altitude de 4’400 m au-dessus du niveau de la
+                mer aura
+            </Question>
+            <Answer1>env. 90 % de la traînée au niveau de la mer.</Answer1>
+            <Answer2>env. 81 % de la traînée au niveau de la mer.</Answer2>
+            <Answer3>env. 72 % de la traînée au niveau de la mer.</Answer3>
+            <Answer4>env. 64 % de la traînée au niveau de la mer.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1352</ID>
+            <Number>29</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Un corps exposé à un flux d’air à une altitude de 3’300 m au-dessus du niveau de la
+                mer aura
+            </Question>
+            <Answer1>env. 90 % de la traînée au niveau de la mer.</Answer1>
+            <Answer2>env. 81 % de la traînée au niveau de la mer.</Answer2>
+            <Answer3>env. 72 % de la traînée au niveau de la mer.</Answer3>
+            <Answer4>env. 64 % de la traînée au niveau de la mer.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1353</ID>
+            <Number>30</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Un corps exposé à un flux d’air à une altitude de 2’200 m au-dessus du niveau de la
+                mer aura
+            </Question>
+            <Answer1>env. 90 % de la traînée au niveau de la mer.</Answer1>
+            <Answer2>env. 81 % de la traînée au niveau de la mer.</Answer2>
+            <Answer3>env. 72 % de la traînée au niveau de la mer.</Answer3>
+            <Answer4>env. 64 % de la traînée au niveau de la mer.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1354</ID>
+            <Number>31</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Un corps exposé à un flux d’air à une altitude de 1'100 m au-dessus du niveau de la
+                mer aura
+            </Question>
+            <Answer1>env. 90 % de la traînée au niveau de la mer.</Answer1>
+            <Answer2>env. 81 % de la traînée au niveau de la mer.</Answer2>
+            <Answer3>env. 72 % de la traînée au niveau de la mer.</Answer3>
+            <Answer4>env. 64 % de la traînée au niveau de la mer.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1355</ID>
+            <Number>32</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Quel éléments influe de manière notable sur la traînée d’un corps?</Question>
+            <Answer1>La forme du corps.</Answer1>
+            <Answer2>Le poids du corps.</Answer2>
+            <Answer3>La masse du corps.</Answer3>
+            <Answer4>Le matériau composant le corps.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1356</ID>
+            <Number>33</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Quel coefficient donne une information relative à la trainée d’un corps?</Question>
+            <Answer1>Le coefficient CA</Answer1>
+            <Answer2>Le coefficient CB</Answer2>
+            <Answer3>Le coefficient CX</Answer3>
+            <Answer4>Le coefficient CY</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1357</ID>
+            <Number>34</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Par rapport à un corps d’un coefficient CX de 1 et dans les mêmes conditions, un corps
+                d’un coefficient CX de 1,3 génère
+            </Question>
+            <Answer1>env. 3 fois plus de traînée.</Answer1>
+            <Answer2>env. 3 fois moins de traînée.</Answer2>
+            <Answer3>une traînée env. 30 % supérieure.</Answer3>
+            <Answer4>une traînée env. 30 % inférieure.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1358</ID>
+            <Number>35</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Par rapport à un corps d’un coefficient CX de 1 et dans les mêmes conditions, un corps
+                d’un coefficient CX de 0,33 génère
+            </Question>
+            <Answer1>env. 3 fois plus de traînée.</Answer1>
+            <Answer2>env. 3 fois moins de traînée.</Answer2>
+            <Answer3>une traînée env. 30 % supérieure.</Answer3>
+            <Answer4>une traînée env. 30 % inférieure.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1359</ID>
+            <Number>36</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Par rapport à un corps d’un coefficient CX de 1 et dans les mêmes conditions, un corps
+                d’un coefficient CX de 0,05 génère
+            </Question>
+            <Answer1>env. 5 fois plus de traînée.</Answer1>
+            <Answer2>env. 50 fois moins de traînée.</Answer2>
+            <Answer3>env. 2 fois moins de traînée.</Answer3>
+            <Answer4>env. 20 fois moins de traînée.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1360</ID>
+            <Number>37</Number>
+            <ImageID>2</ImageID>
+            <Answer>3</Answer>
+            <Question>Les quatre corps représentés ici ont des coefficients de traînée d’environ 0,08,
+                d’environ 0,17, d’environ 1 et d’environ 1,3. Lequel a un Cx de 0,08?
+            </Question>
+            <Answer1>1</Answer1>
+            <Answer2>2</Answer2>
+            <Answer3>3</Answer3>
+            <Answer4>4</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1361</ID>
+            <Number>38</Number>
+            <ImageID>2</ImageID>
+            <Answer>4</Answer>
+            <Question>Les quatre corps représentés ici ont des coefficients de traînée d’environ 0,08,
+                d’environ 0,17, d’environ 1 et d’environ 1,3. Lequel a un Cx de 0,17?
+            </Question>
+            <Answer1>1</Answer1>
+            <Answer2>2</Answer2>
+            <Answer3>3</Answer3>
+            <Answer4>4</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1362</ID>
+            <Number>39</Number>
+            <ImageID>2</ImageID>
+            <Answer>1</Answer>
+            <Question>Les quatre corps représentés ici ont des coefficients de traînée d’environ 0,08,
+                d’environ 0,17, d’environ 1 et d’environ 1,3. Lequel a un Cx de 1?
+            </Question>
+            <Answer1>1</Answer1>
+            <Answer2>2</Answer2>
+            <Answer3>3</Answer3>
+            <Answer4>4</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1363</ID>
+            <Number>40</Number>
+            <ImageID>2</ImageID>
+            <Answer>2</Answer>
+            <Question>Les quatre corps représentés ici ont des coefficients de traînée d’environ 0,08,
+                d’environ 0,17, d’environ 1 et d’environ 1,3. Lequel a un Cx de 1,3?
+            </Question>
+            <Answer1>1</Answer1>
+            <Answer2>2</Answer2>
+            <Answer3>3</Answer3>
+            <Answer4>4</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1364</ID>
+            <Number>41</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Quel élément influe de manière notable sur la traînée d’un corps de forme
+                aérodynamique?
+            </Question>
+            <Answer1>La densité moléculaire du corps.</Answer1>
+            <Answer2>La masse du corps.</Answer2>
+            <Answer3>Le poids spécifique du corps.</Answer3>
+            <Answer4>Les caractéristiques de la surface du corps.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1365</ID>
+            <Number>42</Number>
+            <ImageID>3</ImageID>
+            <Answer>2</Answer>
+            <Question>Quel chiffre indique la corde médiane du profil sur le croquis de profil suivant?
+            </Question>
+            <Answer1>1</Answer1>
+            <Answer2>2</Answer2>
+            <Answer3>3</Answer3>
+            <Answer4>4</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>10</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1366</ID>
+            <Number>43</Number>
+            <ImageID>3</ImageID>
+            <Answer>3</Answer>
+            <Question>Quel chiffre indique l'épaisseur du profil sur le croquis de profil suivant?
+            </Question>
+            <Answer1>1</Answer1>
+            <Answer2>2</Answer2>
+            <Answer3>3</Answer3>
+            <Answer4>4</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1367</ID>
+            <Number>44</Number>
+            <ImageID>3</ImageID>
+            <Answer>1</Answer>
+            <Question>Quel chiffre indique la profondeur du profil sur le croquis de profil suivant?
+            </Question>
+            <Answer1>1</Answer1>
+            <Answer2>2</Answer2>
+            <Answer3>3</Answer3>
+            <Answer4>4</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1368</ID>
+            <Number>45</Number>
+            <ImageID>4</ImageID>
+            <Answer>2</Answer>
+            <Question>Sur le croquis de profil ci-dessous, quel chiffre indique le nez du profil (le bord
+                d’attaque)?
+            </Question>
+            <Answer1>1</Answer1>
+            <Answer2>2</Answer2>
+            <Answer3>3</Answer3>
+            <Answer4>4</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1369</ID>
+            <Number>46</Number>
+            <ImageID>4</ImageID>
+            <Answer>3</Answer>
+            <Question>Sur le croquis de profil ci-dessous, quel chiffre indique le bord arrière (le bord de
+                fuite)?
+            </Question>
+            <Answer1>1</Answer1>
+            <Answer2>2</Answer2>
+            <Answer3>3</Answer3>
+            <Answer4>4</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1370</ID>
+            <Number>47</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Le profil d’une aile</Question>
+            <Answer1>est pratiquement identique sur tous les aéronefs non-motorisés.</Answer1>
+            <Answer2>est choisi pour chaque aile en fonction des caractéristiques souhaitées.</Answer2>
+            <Answer3>influence peu les performances d’une aile, qui dépendent surtout du poids total.
+            </Answer3>
+            <Answer4>est uniquement déterminé par l’angle d’incidence.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1371</ID>
+            <Number>48</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Les surfaces portantes d’aéronefs qui volent lentement, comme les planeurs de pente,
+                ont en général
+            </Question>
+            <Answer1>des profils relativement épais et symétriques.</Answer1>
+            <Answer2>des profils minces et asymétriques.</Answer2>
+            <Answer3>des profils minces et symétriques.</Answer3>
+            <Answer4>des profils relativement épais et asymétriques.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>10</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1372</ID>
+            <Number>49</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Le terme «angle d’incidence» désigne l’angle entre</Question>
+            <Answer1>la corde de profil et l'horizontale.</Answer1>
+            <Answer2>la corde de profil et la direction du vent relatif.</Answer2>
+            <Answer3>L'intrados et l'extrados au niveau du bord de fuite.</Answer3>
+            <Answer4>L'horizontale et la direction du vent relatif.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1373</ID>
+            <Number>50</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Le fait qu’une aile génère ou non de la portance dépend essentiellement:</Question>
+            <Answer1>de l’angle d’incidence.</Answer1>
+            <Answer2>de sa surface.</Answer2>
+            <Answer3>de son coefficient de traînée.</Answer3>
+            <Answer4>de son poids.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1374</ID>
+            <Number>51</Number>
+            <ImageID>5</ImageID>
+            <Answer>1</Answer>
+            <Question>Lequel des profils suivants exposés au vent relatif a la plus grande incidence?
+            </Question>
+            <Answer1>1</Answer1>
+            <Answer2>2</Answer2>
+            <Answer3>3</Answer3>
+            <Answer4>4</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>10</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1375</ID>
+            <Number>52</Number>
+            <ImageID>5</ImageID>
+            <Answer>2</Answer>
+            <Question>Lequel des profils suivants exposés au vent relatif a un angle d'incidence négatif de
+                -10°?
+            </Question>
+            <Answer1>1</Answer1>
+            <Answer2>2</Answer2>
+            <Answer3>3</Answer3>
+            <Answer4>4</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>10</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1376</ID>
+            <Number>53</Number>
+            <ImageID>5</ImageID>
+            <Answer>4</Answer>
+            <Question>Lequel des profils suivants a un angle d’incidence de 0° par rapport au vent
+                relatif?
+            </Question>
+            <Answer1>1</Answer1>
+            <Answer2>2</Answer2>
+            <Answer3>3</Answer3>
+            <Answer4>4</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1377</ID>
+            <Number>54</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Quelle est plus ou moins la répartition de la portance sur une aile qui, exposée au
+                vent relatif, a une incidence positive de 10°?
+            </Question>
+            <Answer1>1/2 extrados, 1/2 intrados</Answer1>
+            <Answer2>1/3 extrados, 2/3 intrados</Answer2>
+            <Answer3>2/3 extrados, 1/3 intrados</Answer3>
+            <Answer4>1/4 extrados, 3/4 intrados</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>10</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1378</ID>
+            <Number>55</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Parmi les propositions suivantes concernant la répartition de la portance pour une
+                aile à profil convexe avec un angle d’incidence de 10° par rapport à l’écoulement de l’air,
+                laquelle est correcte?
+            </Question>
+            <Answer1>2/3 de la portance se développent sur le premier tiers de l'aile.</Answer1>
+            <Answer2>1/2 de la portance se développe sur le premier tiers de l'aile.</Answer2>
+            <Answer3>1/3 de la portance se développe sur le premier tiers de l'aile.</Answer3>
+            <Answer4>2/3 de la portance se développent sur le second tiers de l'aile.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>10</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1379</ID>
+            <Number>56</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Quels sont les quatre facteurs dont dépend la valeur de la portance agissant sur une
+                aile?
+            </Question>
+            <Answer1>Surface de l'aile, coefficient de portance, coefficient de traînée, densité de l'air
+            </Answer1>
+            <Answer2>Coefficient de portance, densité de l'air, vitesse d'écoulement de l'air, poids
+            </Answer2>
+            <Answer3>Densité de l’air, vitesse d’écoulement de l’air, coefficient de portance, coefficient
+                de traînée
+            </Answer3>
+            <Answer4>Surface de l’aile, coefficient de portance, densité de l’air, vitesse d’écoulement de
+                l’air
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>10</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1380</ID>
+            <Number>57</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Lorsque l'angle d'incidence d'un planeur de pente volant à la vitesse de sa finesse
+                maximale est réduit de 2°,
+            </Question>
+            <Answer1>la vitesse de vol diminue.</Answer1>
+            <Answer2>la vitesse de vol reste inchangée.</Answer2>
+            <Answer3>la vitesse de vol augmente.</Answer3>
+            <Answer4>la vitesse de vol augmente brièvement avant de revenir à sa valeur initiale.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1381</ID>
+            <Number>58</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Lorsque l’angle d’incidence d’un planeur de pente volant à la vitesse de sa finesse
+                maximale est réduit de 2°,
+            </Question>
+            <Answer1>le coefficient Cz (coefficient de portance) de l’aile augmente.</Answer1>
+            <Answer2>le coefficient Cz (coefficient de portance) de l’aile ne change pas.</Answer2>
+            <Answer3>le coefficient Cz (coefficient de portance) de l’aile diminue.</Answer3>
+            <Answer4>le coefficient Cz (coefficient de portance) de l’aile augmente brièvement avant de
+                revenir à sa valeur initiale.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>10</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1382</ID>
+            <Number>59</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Lorsque l’angle d’incidence d’un planeur de pente volant à la vitesse de sa finesse
+                maximale augmente de 2°,
+            </Question>
+            <Answer1>la vitesse de vol diminue.</Answer1>
+            <Answer2>la vitesse de vol reste inchangée.</Answer2>
+            <Answer3>la vitesse de vol augmente.</Answer3>
+            <Answer4>la vitesse de vol augmente brièvement avant de revenir à sa valeur initiale.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>10</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1383</ID>
+            <Number>60</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Lorsque l’angle d’incidence d’un planeur de pente volant à la vitesse de sa finesse
+                maximale augmente de 2°,
+            </Question>
+            <Answer1>le coefficient Cz (coefficient de portance) de l’aile augmente.</Answer1>
+            <Answer2>le coefficient Cz (coefficient de portance) de l’aile reste inchangé.</Answer2>
+            <Answer3>le coefficient Cz (coefficient de portance) de l’aile diminue.</Answer3>
+            <Answer4>le coefficient Cz (coefficient de portance) de l’aile augmente brièvement avant de
+                revenir à sa valeur initiale.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>10</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1384</ID>
+            <Number>61</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Le rapport entre portance et traînée d'une aile donnée dépend avant tout:</Question>
+            <Answer1>de la surface de l'aile.</Answer1>
+            <Answer2>de la densité de l'air.</Answer2>
+            <Answer3>de l’angle d’incidence.</Answer3>
+            <Answer4>de la vitesse d'écoulement de l'air.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1385</ID>
+            <Number>62</Number>
+            <ImageID>34</ImageID>
+            <Answer>1</Answer>
+            <Question>Sur le croquis suivant, quel est le point de stagnation avant?</Question>
+            <Answer1>1</Answer1>
+            <Answer2>2</Answer2>
+            <Answer3>3</Answer3>
+            <Answer4>4</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1386</ID>
+            <Number>63</Number>
+            <ImageID>34</ImageID>
+            <Answer>3</Answer>
+            <Question>Sur le croquis suivant, quel est le centre de poussée?</Question>
+            <Answer1>1</Answer1>
+            <Answer2>2</Answer2>
+            <Answer3>3</Answer3>
+            <Answer4>4</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1387</ID>
+            <Number>64</Number>
+            <ImageID>34</ImageID>
+            <Answer>4</Answer>
+            <Question>Sur le croquis suivant, quel est le point de décollement?</Question>
+            <Answer1>1</Answer1>
+            <Answer2>2</Answer2>
+            <Answer3>3</Answer3>
+            <Answer4>4</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1388</ID>
+            <Number>65</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Le terme «point de décollement» signifie:</Question>
+            <Answer1>a) le point au niveau duquel l’écoulement d’air de l’extrados rejoint celui de
+                l’intrados.
+            </Answer1>
+            <Answer2>b) le point d’application de la force aérodynamique résultante.</Answer2>
+            <Answer3>c) le point au niveau duquel le vent relatif se divise pour s’écouler sur l’extrados et
+                l’intrados.
+            </Answer3>
+            <Answer4>d) le point au niveau duquel l’écoulement d’air se détache de l’aile.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1389</ID>
+            <Number>66</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Lorsqu’un planeur de pente est utilisé à charge maximale, le décrochage se produit
+            </Question>
+            <Answer1>à une vitesse plus élevée qu’à charge minimale.</Answer1>
+            <Answer2>toujours à la même vitesse et avec le même angle d’incidence, indépendamment de la
+                charge.
+            </Answer2>
+            <Answer3>jamais.</Answer3>
+            <Answer4>à une vitesse plus faible qu’à charge minimale.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>10</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1390</ID>
+            <Number>67</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Lorsqu’un planeur de pente est utilisé à charge minimale, le décrochage se produit
+            </Question>
+            <Answer1>à une vitesse plus élevée qu’à charge maximale.</Answer1>
+            <Answer2>toujours à la même vitesse et avec le même angle d’incidence, indépendamment de la
+                charge.
+            </Answer2>
+            <Answer3>avec un angle d’incidence plus faible.</Answer3>
+            <Answer4>à une vitesse plus faible qu’à charge maximale.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1391</ID>
+            <Number>68</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Le terme «point de stagnation» ou «point d’arrêt» signifie</Question>
+            <Answer1>le passage d'une couche limite laminaire à une couche limite turbulente.</Answer1>
+            <Answer2>le point d'application de la force aérodynamique résultante.</Answer2>
+            <Answer3>le point où le vent relatif se divise pour s'écouler sur l'extrados et l'intrados .
+            </Answer3>
+            <Answer4>le point à la hauteur duquel la couche limite, et avec elle le flux d’air, se détache
+                de l’aile.
+            </Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1392</ID>
+            <Number>69</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Lorsque l’angle d’incidence positif d’une aile exposée à un flux d’air augmente, le
+                point de stagnation se déplace:
+            </Question>
+            <Answer1>sur l’extrados en direction du bord arrière (bord de fuite).</Answer1>
+            <Answer2>sur l’intrados en direction du bord arrière (bord de fuite).</Answer2>
+            <Answer3>sur l’extrados en direction du nez du profil (bord d’attaque).</Answer3>
+            <Answer4>sur l’intrados en direction du nez du profil (bord d’attaque).</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1393</ID>
+            <Number>70</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Lorsque l’angle d’incidence positif d’une aile exposée à un flux d’air diminue, le
+                point de stagnation se déplace:
+            </Question>
+            <Answer1>en aucun cas.</Answer1>
+            <Answer2>sur l’intrados en direction du bord arrière (bord de fuite).</Answer2>
+            <Answer3>sur l’extrados en direction du nez du profil (bord d’attaque).</Answer3>
+            <Answer4>sur l’intrados en direction du nez du profil (bord d’attaque).</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>10</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1394</ID>
+            <Number>71</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Le terme «centre de poussée» désigne</Question>
+            <Answer1>le passage de la couche limite laminaire à la couche limite turbulente.</Answer1>
+            <Answer2>le point d’application de la résultante des forces aérodynamiques sur la corde du
+                profil.
+            </Answer2>
+            <Answer3>le point au niveau duquel le vent relatif se divise pour s’écouler sur l’extrados et
+                l’intrados.
+            </Answer3>
+            <Answer4>le point central de la masse constituée du pilote et de l’aile.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1395</ID>
+            <Number>72</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Le terme «envergure» désigne:</Question>
+            <Answer1>l’écart moyen entre le bord d’attaque et le bord de fuite.</Answer1>
+            <Answer2>l’écart entre les extrémités droite et gauche de l’aile.</Answer2>
+            <Answer3>les écarts d’incidence des différentes sections de l’aile.</Answer3>
+            <Answer4>le rapport entre le poids en vol et la surface totale de l’aile.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1396</ID>
+            <Number>73</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Le terme «profondeur moyenne de l’aile» désigne:</Question>
+            <Answer1>l’écart moyen entre le bord d’attaque et le bord de fuite.</Answer1>
+            <Answer2>l’écart entre les deux bouts de l’aile.</Answer2>
+            <Answer3>les écarts d’incidence entre les différentes sections de l’aile.</Answer3>
+            <Answer4>le rapport entre le poids en vol et la surface totale de l’aile.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1397</ID>
+            <Number>74</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Le terme «charge alaire» désigne:</Question>
+            <Answer1>l’écart moyen entre le bord d’attaque et le bord de fuite.</Answer1>
+            <Answer2>l’écart entre les deux bouts de l’aile.</Answer2>
+            <Answer3>les écarts d’incidence entre les différentes sections de l’aile.</Answer3>
+            <Answer4>le rapport entre le poids en vol et la surface totale de l’aile.</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1398</ID>
+            <Number>75</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>La charge alaire d'un planeur de pente se calcule de la façon suivante:</Question>
+            <Answer1>Charge : Surface</Answer1>
+            <Answer2>(Pression de l'air : 2) · (Vitesse)²</Answer2>
+            <Answer3>Poids total : Surface</Answer3>
+            <Answer4>(Charge + Poids total de l'aile) : (Envergure)²</Answer4>
+            <CorrectAnswered>10</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1399</ID>
+            <Number>76</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Le terme «allongement» désigne le rapport entre</Question>
+            <Answer1>l'épaisseur du profil et la profondeur moyenne de l'aile.</Answer1>
+            <Answer2>l'envergure et la profondeur moyenne de l'aile.</Answer2>
+            <Answer3>l'envergure au carré et la profondeur moyenne de l'aile au carré.</Answer3>
+            <Answer4>la plus grande et la plus faible profondeur d'aile.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>10</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1400</ID>
+            <Number>77</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>L'allongement se calcule de la façon suivante:</Question>
+            <Answer1>envergure au carré divisée par la surface</Answer1>
+            <Answer2>(profondeur moyenne de l'aile)² divisée par la surface</Answer2>
+            <Answer3>envergure multipliée par la profondeur moyenne de l'aile</Answer3>
+            <Answer4>profondeur moyennen de l'aile multipliée par la surface</Answer4>
+            <CorrectAnswered>1</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1401</ID>
+            <Number>78</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Les ailes avec un allongement important ont</Question>
+            <Answer1>une grande envergure et une grande profondeur moyenne.</Answer1>
+            <Answer2>une petite envergure et une grande profondeur moyenne.</Answer2>
+            <Answer3>une petite envergure et une petite profondeur moyenne.</Answer3>
+            <Answer4>une grande envergure et une petite profondeur moyenne.</Answer4>
+            <CorrectAnswered>9</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1402</ID>
+            <Number>79</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Les ailes à faible allongement ont</Question>
+            <Answer1>une grande envergure et une grande profondeur moyenne.</Answer1>
+            <Answer2>une petite envergure et une grande profondeur moyenne.</Answer2>
+            <Answer3>une petite envergure et une petite profondeur moyenne.</Answer3>
+            <Answer4>une grande envergure et une petite profondeur moyenne.</Answer4>
+            <CorrectAnswered>9</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1403</ID>
+            <Number>80</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Une aile a un allongement de 5. Laquelle des propositions suivantes est exacte?
+            </Question>
+            <Answer1>La surface de l'aile est 5 fois plus grande que son envergure.</Answer1>
+            <Answer2>L'envergure de l'aile est 5 fois plus grande que sa profondeur moyenne.</Answer2>
+            <Answer3>La profondeur moyenne de l'aile est 5 fois plus grande que son envergure.</Answer3>
+            <Answer4>L'envergure de l'aile est 5 fois plus grande que sa surface.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>9</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1404</ID>
+            <Number>81</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Une aile a un allongement de 5. Laquelle des propositions suivantes est exacte?
+            </Question>
+            <Answer1>La surface de l'aile est 5 fois plus petite que son envergure.</Answer1>
+            <Answer2>L'envergure de l'aile est 5 fois plus petite que sa profondeur moyenne</Answer2>
+            <Answer3>La profondeur moyenne de l'aile est 5 fois plus petite que son envergure.</Answer3>
+            <Answer4>L'envergure de l'aile est 5 fois plus petite que sa surface.</Answer4>
+            <CorrectAnswered>9</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1405</ID>
+            <Number>82</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Quelle est la valeur de l’allongement d’une aile aux caractéristiques suivantes?
+                Envergure: 10 m Charge minimale: 70 kg Poids: 5 kg Surface: 25 m² Charge maximale: 95 kg
+            </Question>
+            <Answer1>2,5</Answer1>
+            <Answer2>3,5</Answer2>
+            <Answer3>4,0</Answer3>
+            <Answer4>4,5</Answer4>
+            <CorrectAnswered>9</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1406</ID>
+            <Number>83</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Quelle est la valeur de la profondeur (moyenne) d’une aile aux caractéristiques
+                suivantes? Envergure: 10 m Charge minimale: 70 kg Poids: 5 kg Surface: 25 m² Charge
+                maximale: 95 kg
+            </Question>
+            <Answer1>2,5 m</Answer1>
+            <Answer2>3,5 m</Answer2>
+            <Answer3>4,0 m</Answer3>
+            <Answer4>4,5 m</Answer4>
+            <CorrectAnswered>9</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1407</ID>
+            <Number>84</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Quelle est la valeur de la charge alaire d’une aile aux caractéristiques suivantes à
+                charge maximale? Envergure: 10 m Charge minimale: 70 kg Poids: 5 kg Surface: 25 m² Charge
+                maximale: 95 kg
+            </Question>
+            <Answer1>3,0 kg/m²</Answer1>
+            <Answer2>3,5 kg/m²</Answer2>
+            <Answer3>4,0 kg/m²</Answer3>
+            <Answer4>4,5 kg/m²</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>9</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1408</ID>
+            <Number>85</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Quelle est la valeur de la charge alaire d’une aile aux caractéristiques suivantes à
+                charge minimale? Envergure: 10 m Charge minimale: 70 kg Poids: 5 kg Surface: 25 m² Charge
+                maximale: 95 kg
+            </Question>
+            <Answer1>3,0 kg/m²</Answer1>
+            <Answer2>3,5 kg/m²</Answer2>
+            <Answer3>4,0 kg/m²</Answer3>
+            <Answer4>4,5 kg/m²</Answer4>
+            <CorrectAnswered>9</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1409</ID>
+            <Number>86</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Quelle est la valeur de l’allongement d’une aile aux caractéristiques suivantes?
+                Envergure: 10 m Charge minimale: 60 kg Poids: 30 kg Surface: 12,5 m² Charge maximale: 80 kg
+            </Question>
+            <Answer1>4</Answer1>
+            <Answer2>6</Answer2>
+            <Answer3>8</Answer3>
+            <Answer4>10</Answer4>
+            <CorrectAnswered>9</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1410</ID>
+            <Number>87</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Quelle est la valeur de la profondeur moyenne d’une aile aux caractéristiques
+                suivantes? Envergure: 10 m Charge minimale: 65 kg Poids: 35 kg Surface: 12,5 m² Charge
+                maximale: 90 kg
+            </Question>
+            <Answer1>0,75 m</Answer1>
+            <Answer2>1,25 m</Answer2>
+            <Answer3>1,75 m</Answer3>
+            <Answer4>2,50 m</Answer4>
+            <CorrectAnswered>9</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1411</ID>
+            <Number>88</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Quelle est la valeur de la charge alaire d’une aile aux caractéristiques suivantes à
+                charge maximale? Envergure: 10 m Charge minimale: 65 kg Poids: 35 kg Surface: 12,5 m² Charge
+                maximale: 90 kg
+            </Question>
+            <Answer1>6 kg/m²</Answer1>
+            <Answer2>8 kg/m²</Answer2>
+            <Answer3>10 kg/m²</Answer3>
+            <Answer4>12 kg/m²</Answer4>
+            <CorrectAnswered>9</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1412</ID>
+            <Number>89</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Quelle est la valeur de la charge alaire d’une aile aux caractéristiques suivantes à
+                charge minimale? Envergure: 10 m Charge minimale: 65 kg Poids: 35 kg Surface: 12,5 m² Charge
+                maximale: 90 kg
+            </Question>
+            <Answer1>6 kg/m²</Answer1>
+            <Answer2>8 kg/m²</Answer2>
+            <Answer3>10 kg/m²</Answer3>
+            <Answer4>12 kg/m²</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>9</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1413</ID>
+            <Number>90</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Quel est l’allongement courant d’un parapente intermédiaire moderne?</Question>
+            <Answer1>Env. 3-4</Answer1>
+            <Answer2>Env. 5-6</Answer2>
+            <Answer3>Env. 8-10</Answer3>
+            <Answer4>Env. 12-14</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>9</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1414</ID>
+            <Number>91</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Quel est l’allongement courant d’un delta intermédiaire moderne?</Question>
+            <Answer1>Env. 3</Answer1>
+            <Answer2>Env. 7</Answer2>
+            <Answer3>Env. 12</Answer3>
+            <Answer4>Env. 20</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>9</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1415</ID>
+            <Number>92</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Lequel des planeurs de pente suivants a le plus grand allongement?</Question>
+            <Answer1>surface: 32 m², envergure: 8 m</Answer1>
+            <Answer2>surface: 25 m², envergure: 10 m</Answer2>
+            <Answer3>surface: 20 m², envergure: 10 m</Answer3>
+            <Answer4>surface: 24 m², envergure: 12 m</Answer4>
+            <CorrectAnswered>9</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1416</ID>
+            <Number>93</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Lequel des planeurs de pente suivants a le plus petit allongement?</Question>
+            <Answer1>surface: 32 m², envergure: 8 m</Answer1>
+            <Answer2>surface: 25 m², envergure: 10 m</Answer2>
+            <Answer3>surface: 20 m², envergure: 10 m</Answer3>
+            <Answer4>surface: 24 m², envergure: 12 m</Answer4>
+            <CorrectAnswered>9</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1417</ID>
+            <Number>94</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Lequel des planeurs de pente suivants a le plus grand allongement?</Question>
+            <Answer1>surface: 16 m², envergure: 12 m</Answer1>
+            <Answer2>surface: 20 m², envergure: 10 m</Answer2>
+            <Answer3>surface: 12 m², envergure: 12 m</Answer3>
+            <Answer4>surface: 12,5 m², envergure: 10 m</Answer4>
+            <CorrectAnswered>9</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1418</ID>
+            <Number>95</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Lequel des planeurs de pente suivants a le plus petit allongement?</Question>
+            <Answer1>surface: 16 m², envergure: 12 m</Answer1>
+            <Answer2>surface: 20 m², envergure: 10 m</Answer2>
+            <Answer3>surface: 12 m², envergure: 12 m</Answer3>
+            <Answer4>surface: 12,5 m², envergure: 10 m</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>9</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1419</ID>
+            <Number>96</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>En vol, les vortex se produisent lorsque</Question>
+            <Answer1>la couche limite derrière le point de transition devient turbulente.</Answer1>
+            <Answer2>il y a une différence de pression entre l'intrados et l'extrados.</Answer2>
+            <Answer3>les bouts d'aile des planeurs de pente sont mal façonnés.</Answer3>
+            <Answer4>câbles et suspentes engendrent des tourbillons qui sont déviés vers le haut.</Answer4>
+            <CorrectAnswered>9</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1420</ID>
+            <Number>97</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Où faut-il s'attendre à des turbulences à proximité d'un planeur de pente en vol?
+            </Question>
+            <Answer1>En bout d'aile devant le bord d'attaque.</Answer1>
+            <Answer2>A environ une envergure au-dessus du point de poussée.</Answer2>
+            <Answer3>Au milieu de l'aile devant le bord d'attaque.</Answer3>
+            <Answer4>Derrière le bord de fuite.</Answer4>
+            <CorrectAnswered>9</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1421</ID>
+            <Number>98</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Lorsque la traînée d’un planeur de pente augmente,</Question>
+            <Answer1>ce facteur n'a aucune influence sur l'angle de planer.</Answer1>
+            <Answer2>l'angle de planer diminue.</Answer2>
+            <Answer3>l'angle de planer augmente.</Answer3>
+            <Answer4>l'angle de planer diminue jusqu'à un certain point et augmente brusquement ensuite.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>9</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1422</ID>
+            <Number>99</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Quand on diminue la traînée d’un planeur de pente,</Question>
+            <Answer1>ça n’a aucune influence sur la finesse.</Answer1>
+            <Answer2>la finesse diminue.</Answer2>
+            <Answer3>la finesse augmente.</Answer3>
+            <Answer4>la finesse diminue jusqu’à un certain point et augmente ensuite brusquement.</Answer4>
+            <CorrectAnswered>9</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1423</ID>
+            <Number>100</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Par rapport à la surface effective, la surface projetée est</Question>
+            <Answer1>plus petite ou identique.</Answer1>
+            <Answer2>plus petite pour un delta et plus grande pour un parapente.</Answer2>
+            <Answer3>plus grande pour un delta et plus petite pour un parapente.</Answer3>
+            <Answer4>plus grande.</Answer4>
+            <CorrectAnswered>9</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1424</ID>
+            <Number>101</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>La résultante aérodynamique se compose</Question>
+            <Answer1>de la portance et de la traînée.</Answer1>
+            <Answer2>du poids, de la portance et de la traînée.</Answer2>
+            <Answer3>du poids et de la traînée.</Answer3>
+            <Answer4>du poids et de la portance.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>1</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1425</ID>
+            <Number>102</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>En vol plané stable, la résultante aérodynamique d’une aile a la même valeur que
+            </Question>
+            <Answer1>la portance.</Answer1>
+            <Answer2>le poids total.</Answer2>
+            <Answer3>la portance, la traînée et le poids total.</Answer3>
+            <Answer4>la traînée.</Answer4>
+            <CorrectAnswered>8</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1426</ID>
+            <Number>103</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Dans les deux situations de vol plané stable suivantes, vol trimmé et vol accéléré, la
+                résultante aérodynamique
+            </Question>
+            <Answer1>est plus grande en vol trimmé.</Answer1>
+            <Answer2>est plus petite en vol trimmé.</Answer2>
+            <Answer3>ne reste la même qu’en cas de finesse identique.</Answer3>
+            <Answer4>reste la même.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>8</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1427</ID>
+            <Number>104</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Quelle force agit à l’opposé du poids total, en vol plané stable?</Question>
+            <Answer1>La portance</Answer1>
+            <Answer2>La traînée induite</Answer2>
+            <Answer3>La force aérodynamique résultante</Answer3>
+            <Answer4>La traînée</Answer4>
+            <CorrectAnswered>8</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1428</ID>
+            <Number>105</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Quelle force agit perpendiculairement à la portance, en vol plané stable?</Question>
+            <Answer1>La portance</Answer1>
+            <Answer2>La traînée</Answer2>
+            <Answer3>La force aérodynamique résultante</Answer3>
+            <Answer4>Le poids total</Answer4>
+            <CorrectAnswered>8</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1429</ID>
+            <Number>106</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>La traînée est une composante:</Question>
+            <Answer1>du poids parallèle à la trajectoire de vol et induit le mouvement en avant du planeur
+                de pente.
+            </Answer1>
+            <Answer2>de la résultante aérodynamique et agit dans le sens de l'écoulement d'air.</Answer2>
+            <Answer3>du poids et agit contre la direction de vol.</Answer3>
+            <Answer4>de la portance et agit toujours verticalement.</Answer4>
+            <CorrectAnswered>8</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1430</ID>
+            <Number>107</Number>
+            <ImageID>74</ImageID>
+            <Answer>4</Answer>
+            <Question>Quels chiffres indiquent l’angle de planer et la traînée? (Équilibre des forces en vol
+                plané stable)
+            </Question>
+            <Answer1>4 et 5</Answer1>
+            <Answer2>4 et 3</Answer2>
+            <Answer3>1 et 5</Answer3>
+            <Answer4>1 et 3</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>8</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1431</ID>
+            <Number>108</Number>
+            <ImageID>74</ImageID>
+            <Answer>4</Answer>
+            <Question>Quels chiffres indiquent la portance et la traînée?</Question>
+            <Answer1>2 et 3</Answer1>
+            <Answer2>5 et 6</Answer2>
+            <Answer3>3 et 6</Answer3>
+            <Answer4>5 et 3</Answer4>
+            <CorrectAnswered>8</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1432</ID>
+            <Number>109</Number>
+            <ImageID>74</ImageID>
+            <Answer>2</Answer>
+            <Question>Par quels chiffres l'angle de plané et le poids total sont-ils indiqués sur le schéma
+                ci-contre?
+            </Question>
+            <Answer1>1 et 6</Answer1>
+            <Answer2>1 et 2</Answer2>
+            <Answer3>4 et 6</Answer3>
+            <Answer4>2 et 4</Answer4>
+            <CorrectAnswered>8</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1433</ID>
+            <Number>110</Number>
+            <ImageID>74</ImageID>
+            <Answer>4</Answer>
+            <Question>Quels chiffres indiquent la résultante aérodynamique l’angle d’incidence?</Question>
+            <Answer1>2 et 5</Answer1>
+            <Answer2>3 et 4</Answer2>
+            <Answer3>5 et 6</Answer3>
+            <Answer4>6 et 4</Answer4>
+            <CorrectAnswered>8</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1434</ID>
+            <Number>111</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Sur un planeur de pente, le mouvement autour de l'axe longitudinal s'appelle:
+            </Question>
+            <Answer1>vrille.</Answer1>
+            <Answer2>lacet.</Answer2>
+            <Answer3>tangage.</Answer3>
+            <Answer4>roulis.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>8</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1435</ID>
+            <Number>112</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Sur un planeur de pente, le mouvement autour de l'axe transversal s'appelle:
+            </Question>
+            <Answer1>lacet.</Answer1>
+            <Answer2>tangage.</Answer2>
+            <Answer3>roulis.</Answer3>
+            <Answer4>vrille.</Answer4>
+            <CorrectAnswered>8</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1436</ID>
+            <Number>113</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Sur un planeur de pente, le mouvement autour de l'axe vertical s'appelle:</Question>
+            <Answer1>tangage.</Answer1>
+            <Answer2>oscillation pendulaire.</Answer2>
+            <Answer3>roulis.</Answer3>
+            <Answer4>lacet.</Answer4>
+            <CorrectAnswered>8</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1437</ID>
+            <Number>114</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Un planeur de pente qui, en vol rectiligne, augmente continuellement sa vitesse sans
+                intervention du pilote a:
+            </Question>
+            <Answer1>des qualités de vol stables.</Answer1>
+            <Answer2>des qualités de vol indifférentes.</Answer2>
+            <Answer3>des qualités de vol inverses.</Answer3>
+            <Answer4>des qualités de vol instables.</Answer4>
+            <CorrectAnswered>8</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1438</ID>
+            <Number>115</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Un planeur de pente qui, après une perturbation extérieure ou une impulsion vigoureuse
+                du pilote et sans autre intervention de ce dernier, conserve la nouvelle attitude ainsi
+                obtenue, fait preuve de qualités de vol:
+            </Question>
+            <Answer1>stables.</Answer1>
+            <Answer2>indifférentes.</Answer2>
+            <Answer3>inverses.</Answer3>
+            <Answer4>instables.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>8</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1439</ID>
+            <Number>116</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Un planeur de pente qui, en vol rectiligne et une fois que le pilote a relâché
+                l'accélérateur, repasse à sa vitesse de vol normale fait preuve de qualités de vol:
+            </Question>
+            <Answer1>stables.</Answer1>
+            <Answer2>indifférentes.</Answer2>
+            <Answer3>inverses.</Answer3>
+            <Answer4>instables.</Answer4>
+            <CorrectAnswered>8</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1440</ID>
+            <Number>117</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Un planeur de pente qui, sans intervention du pilote, part en lacet en air calme n'est
+                pas
+            </Question>
+            <Answer1>stable en direction.</Answer1>
+            <Answer2>stable sur l'axe transversal.</Answer2>
+            <Answer3>stable sur l’axe longitudinal.</Answer3>
+            <Answer4>stable sur l’axe de roulis.</Answer4>
+            <CorrectAnswered>8</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1441</ID>
+            <Number>118</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Un planeur de pente dont l'incidence diminue en atmosphère calme et sans intervention
+                du pilote n'est pas
+            </Question>
+            <Answer1>stable en direction.</Answer1>
+            <Answer2>stable sur l’axe de roulis.</Answer2>
+            <Answer3>stable sur l’axe de tangage.</Answer3>
+            <Answer4>stable sur l'axe vertical.</Answer4>
+            <CorrectAnswered>8</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1442</ID>
+            <Number>119</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Un planeur de pente qui, sans intervention du pilote et en atmosphère calme, oscille
+                sans cesse autour de l’axe longitudinal n’est pas:
+            </Question>
+            <Answer1>stable en direction.</Answer1>
+            <Answer2>stable sur l’axe de roulis.</Answer2>
+            <Answer3>stable sur l’axe de tangage.</Answer3>
+            <Answer4>stable sur l’axe vertical</Answer4>
+            <CorrectAnswered>8</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1443</ID>
+            <Number>120</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>La finesse d’un planeur de pente indique le rapport entre</Question>
+            <Answer1>la portance et le poids total.</Answer1>
+            <Answer2>la poussée et la traînée.</Answer2>
+            <Answer3>la poussée et le poids total.</Answer3>
+            <Answer4>la portance et la traînée.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>1</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1444</ID>
+            <Number>121</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>La finesse d’un planeur de pente indique le rapport entre</Question>
+            <Answer1>la portance au niveau de l'intrados et de l'extrados.</Answer1>
+            <Answer2>la valeur des coefficients Cz et Cx d’une aile.</Answer2>
+            <Answer3>la pression statique et la pression dynamique sur le profil.</Answer3>
+            <Answer4>l’envergure et la profondeur moyenne de l’aile.</Answer4>
+            <CorrectAnswered>7</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1445</ID>
+            <Number>122</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>La finesse d’un planeur de pente indique le rapport entre</Question>
+            <Answer1>la vitesse du meilleur rapport pénétration/taux de chute et la vitesse du taux de chute
+                le plus faible.
+            </Answer1>
+            <Answer2>la vitesse horizontale et la vitesse verticale.</Answer2>
+            <Answer3>la vitesse propre et la vitesse au-dessus du sol.</Answer3>
+            <Answer4>la vitesse minimale et maximale.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>7</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1446</ID>
+            <Number>123</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>La finesse d’un planeur de pente indique le rapport entre</Question>
+            <Answer1>l'envergure et la profondeur moyenne de l'aile.</Answer1>
+            <Answer2>la poussée et le poids total.</Answer2>
+            <Answer3>la distance horizontale et la différence d'altitude.</Answer3>
+            <Answer4>la vitesse du meilleur rapport pénétration/taux de chute et la vitesse du taux de chute
+                le plus faible.
+            </Answer4>
+            <CorrectAnswered>7</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1447</ID>
+            <Number>124</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Un planeur de pente d’une finesse de 8 vole à 800 m/sol. Quelle est la plus grande
+                distance qu’il peut parcourir avec cette finesse en air calme?
+            </Question>
+            <Answer1>24,0 km</Answer1>
+            <Answer2>6,4 km</Answer2>
+            <Answer3>10,0 km</Answer3>
+            <Answer4>8,1 km</Answer4>
+            <CorrectAnswered>1</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1448</ID>
+            <Number>125</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Un planeur de pente d’une finesse de 12 vole à 2’400 m/sol. Quelle est la plus grande
+                distance qu’il peut parcourir avec cette finesse en air calme?
+            </Question>
+            <Answer1>12,0 km</Answer1>
+            <Answer2>24 km</Answer2>
+            <Answer3>28,8 km</Answer3>
+            <Answer4>23,0 km</Answer4>
+            <CorrectAnswered>6</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1450</ID>
+            <Number>126</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>En air calme, un planeur de pente a parcouru la plus grande distance possible de 7 km
+                pour un dénivelé de 1'400 m. Quelle est sa finesse?
+            </Question>
+            <Answer1>4</Answer1>
+            <Answer2>5</Answer2>
+            <Answer3>6</Answer3>
+            <Answer4>7</Answer4>
+            <CorrectAnswered>6</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1451</ID>
+            <Number>127</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Lorsque la valeur de la finesse augmente, l'angle de plané:</Question>
+            <Answer1>augmente.</Answer1>
+            <Answer2>diminue.</Answer2>
+            <Answer3>reste inchangé.</Answer3>
+            <Answer4>augmente d’abord, puis diminue.</Answer4>
+            <CorrectAnswered>6</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1452</ID>
+            <Number>128</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Lorsque l’angle de planer augmente, la finesse:</Question>
+            <Answer1>augmente.</Answer1>
+            <Answer2>diminue.</Answer2>
+            <Answer3>reste inchangée.</Answer3>
+            <Answer4>augmente d’abord, puis diminue.</Answer4>
+            <CorrectAnswered>6</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1453</ID>
+            <Number>129</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Comment s’appelle la représentation graphique du rapport entre la vitesse horizontale
+                et la vitesse verticale sur l’ensemble de la plage de vitesse d’un planeur de pente?
+            </Question>
+            <Answer1>Emagramme</Answer1>
+            <Answer2>Polaire du profil</Answer2>
+            <Answer3>Polaire des vitesses</Answer3>
+            <Answer4>Barogramme</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>6</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1454</ID>
+            <Number>130</Number>
+            <ImageID>8</ImageID>
+            <Answer>3</Answer>
+            <Question>Quelle vitesse de vol correspond à la finesse maximale du planeur de pente à la
+                polaire suivante?
+            </Question>
+            <Answer1>5,6 m/s (20 km/h)</Answer1>
+            <Answer2>7,2 m/s (26 km/h)</Answer2>
+            <Answer3>9,2 m/s (33 km/h)</Answer3>
+            <Answer4>11,3 m/s (41 km/h)</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1455</ID>
+            <Number>131</Number>
+            <ImageID>8</ImageID>
+            <Answer>3</Answer>
+            <Question>Quelle est la meilleure finesse du planeur de pente à la polaire suivante?</Question>
+            <Answer1>3,7</Answer1>
+            <Answer2>4,7</Answer2>
+            <Answer3>5,3</Answer3>
+            <Answer4>6,8</Answer4>
+            <CorrectAnswered>1</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1456</ID>
+            <Number>132</Number>
+            <ImageID>8</ImageID>
+            <Answer>2</Answer>
+            <Question>Quelle vitesse de vol correspond au taux de chute minimum du planeur de pente à la
+                polaire suivante?
+            </Question>
+            <Answer1>5,6 m/s (20 km/h)</Answer1>
+            <Answer2>7,2 m/s (26 km/h)</Answer2>
+            <Answer3>9,2 m/s (33 km/h)</Answer3>
+            <Answer4>11,3 m/s (41 km/h)</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>6</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1457</ID>
+            <Number>133</Number>
+            <ImageID>8</ImageID>
+            <Answer>3</Answer>
+            <Question>Quelle est la finesse du planeur de pente à la polaire suivante lorsqu’il vole à la
+                vitesse du taux de chute minimum?
+            </Question>
+            <Answer1>2,0</Answer1>
+            <Answer2>3,7</Answer2>
+            <Answer3>4,6</Answer3>
+            <Answer4>5,3</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>1</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1458</ID>
+            <Number>134</Number>
+            <ImageID>8</ImageID>
+            <Answer>2</Answer>
+            <Question>Quelle est la vitesse de vol minimum du planeur de pente à la polaire suivante?
+            </Question>
+            <Answer1>4,2 m/s (15 km/h)</Answer1>
+            <Answer2>5,6 m/s (20 km/h)</Answer2>
+            <Answer3>7,2 m/s (26 km/h)</Answer3>
+            <Answer4>9,2 m/s (33 km/h)</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>3</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1459</ID>
+            <Number>135</Number>
+            <ImageID>8</ImageID>
+            <Answer>1</Answer>
+            <Question>Quelle est la finesse du planeur de pente à la polaire suivante lorsqu’il vole à sa
+                vitesse minimale?
+            </Question>
+            <Answer1>2,0</Answer1>
+            <Answer2>3,7</Answer2>
+            <Answer3>4,6</Answer3>
+            <Answer4>5,3</Answer4>
+            <CorrectAnswered>3</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1461</ID>
+            <Number>136</Number>
+            <ImageID>8</ImageID>
+            <Answer>2</Answer>
+            <Question>Quelle est la finesse du planeur de pente à la polaire suivante lorsqu’il vole à sa
+                vitesse maximale?
+            </Question>
+            <Answer1>2,0</Answer1>
+            <Answer2>3,7</Answer2>
+            <Answer3>4,6</Answer3>
+            <Answer4>5,3</Answer4>
+            <CorrectAnswered>3</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1462</ID>
+            <Number>137</Number>
+            <ImageID>8</ImageID>
+            <Answer>4</Answer>
+            <Question>À quelle vitesse le planeur de pente à la polaire suivante doit-il voler avec un vent
+                de face de 8 m/s (29 km/h) pour parcourir la plus grande distance possible?
+            </Question>
+            <Answer1>7 m/s (25 km/h)</Answer1>
+            <Answer2>9 m/s (32 km/h)</Answer2>
+            <Answer3>11 m/s (40 km/h)</Answer3>
+            <Answer4>13,5 m/s (48 km/h)</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>1</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1463</ID>
+            <Number>138</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Le planeur de pente X a une finesse de 10, le planeur de pente Y une finesse de 5. On
+                peut en tirer la conclusion suivante:
+            </Question>
+            <Answer1>Y a un taux de chute égal au double de celui de X.</Answer1>
+            <Answer2>Y a un taux de chute égal à la moitié de celui de X.</Answer2>
+            <Answer3>X parcourt une distance double de Y.</Answer3>
+            <Answer4>X parcourt la moitié de la distance de Y.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>3</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1464</ID>
+            <Number>139</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Un libériste vole dans une zone de courant descendant. Pour atteindre la meilleure
+                finesse, il vole:
+            </Question>
+            <Answer1>à la vitesse de la finesse maximale en air calme.</Answer1>
+            <Answer2>à la vitesse du taux de chute minimum.</Answer2>
+            <Answer3>à la vitesse moyenne de la finesse maximale et du taux de chute minimum.</Answer3>
+            <Answer4>plus vite que la vitesse de la finesse maximale en air calme.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>2</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1465</ID>
+            <Number>140</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Pour obtenir la meilleure finesse par vent de face, un libériste vole:</Question>
+            <Answer1>à la vitesse de la finesse maximale en air calme.</Answer1>
+            <Answer2>à la vitesse du taux de chute minimum.</Answer2>
+            <Answer3>à la vitesse moyenne de la finesse maximale et du taux de chute minimum.</Answer3>
+            <Answer4>plus vite que la vitesse de la finesse maximale en air calme.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>2</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1466</ID>
+            <Number>141</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Un libériste vole à une vitesse de 36 km/h (10 m/s) avec un taux de chute de 1 m/s. Il
+                atteint une zone de courant descendant où l’air descend à 1 m/s. Quels sont la vitesse et le
+                taux de chute dans cette zone?
+            </Question>
+            <Answer1>Vitesse: 36 km/h (10 m/s), taux de chute: 1 m/s</Answer1>
+            <Answer2>Vitesse: 18 km/h (05 m/s), taux de chute: 1 m/s</Answer2>
+            <Answer3>Vitesse: 36 km/h (10 m/s), taux de chute: 2 m/s</Answer3>
+            <Answer4>Vitesse: 36 km/h (10 m/s), taux de chute: 0,5 m/s</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1467</ID>
+            <Number>142</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Un libériste vole à une vitesse de 36 km/h (10 m/s) avec un taux de chute de 1 m/s. Il
+                atteint une zone de courant descendant où l’air descend à 1 m/s. S’il maintient sa vitesse,
+            </Question>
+            <Answer1>sa finesse passe de 10 à 5.</Answer1>
+            <Answer2>sa finesse passe de 5 à 10.</Answer2>
+            <Answer3>le taux de chute et la finesse augmentent.</Answer3>
+            <Answer4>le taux de chute et la finesse diminuent.</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1468</ID>
+            <Number>143</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Un planeur de pente vole à une vitesse de 54 km/h (15 m/s) et avec un taux de chute de
+                2 m/s. Sur sa trajectoire de vol souffle un vent de face de 18 km/h (5 m/s). Quels sont son
+                taux de chute et sa vitesse par rapport au sol?
+            </Question>
+            <Answer1>Taux de chute: 2 m/s, Vitesse sol: 54 km/h (15 m/s)</Answer1>
+            <Answer2>Taux de chute: 3 m/s, Vitesse sol: 54 km/h (15 m/s)</Answer2>
+            <Answer3>Taux de chute: 2 m/s, Vitesse sol: 72 km/h (20 m/s)</Answer3>
+            <Answer4>Taux de chute: 2 m/s, Vitesse sol: 36 km/h (10 m/s)</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1469</ID>
+            <Number>144</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Un planeur de pente vole à une vitesse de 54 km/h (15 m/s) et avec un taux de chute de
+                2 m/s. Sur sa trajectoire de vol souffle un vent de face de 18 km/h (5 m/s). Sa finesse par
+                rapport au sol sera
+            </Question>
+            <Answer1>10.0.</Answer1>
+            <Answer2>6,0.</Answer2>
+            <Answer3>7,5.</Answer3>
+            <Answer4>5,0.</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1470</ID>
+            <Number>145</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>En air calme, un planeur de pente avec une finesse de 10 vole à une vitesse/sol de 43
+                km/h (env. 12 m/s). Son taux de chute s’élève à:
+            </Question>
+            <Answer1>env. 1,0 m/s</Answer1>
+            <Answer2>env. 1,2 m/s</Answer2>
+            <Answer3>env. 1,5 m/s</Answer3>
+            <Answer4>env. 1,8 m/s</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1471</ID>
+            <Number>146</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Un planeur de pente vole avec une finesse de 8. S’il parcourt une distance de 1’600 m
+                en air calme, il doit s’attendre à perdre:
+            </Question>
+            <Answer1>150 m</Answer1>
+            <Answer2>180 m</Answer2>
+            <Answer3>200 m</Answer3>
+            <Answer4>240 m</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1472</ID>
+            <Number>147</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Un planeur de pente vole avec une finesse de 9 en air calme et avec un taux de chute
+                de 1 m/s. Quelle est sa vitesse?
+            </Question>
+            <Answer1>43,2 km/h (12 m/s)</Answer1>
+            <Answer2>39,6 km/h (11 m/s)</Answer2>
+            <Answer3>36,0 km/h (10 m/s)</Answer3>
+            <Answer4>32,4 km/h (9 m/s)</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1473</ID>
+            <Number>148</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Un planeur de pente vole en air calme à une vitesse de 32,4 km/h (9 m/s) et avec un
+                taux de chute de 1,5 m/s. Quelle est sa finesse?
+            </Question>
+            <Answer1>5,5</Answer1>
+            <Answer2>6,0</Answer2>
+            <Answer3>6,5</Answer3>
+            <Answer4>7,0</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1474</ID>
+            <Number>149</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>La vitesse de vol du taux de chute minimum est:</Question>
+            <Answer1>légèrement plus faible à l'intérieur d'un courant ascendant et légèrement plus élevée à
+                l'intérieur d'un courant descendant qu'en air calme.
+            </Answer1>
+            <Answer2>légèrement plus élevée à l'intérieur d'un courant ascendant et légèrement plus faible à
+                l'intérieur d'un courant descendant qu'en air calme.
+            </Answer2>
+            <Answer3>légèrement plus faible à l'intérieur d'un courant ascendant et descendant qu'en air
+                calme.
+            </Answer3>
+            <Answer4>de même valeur à l'intérieur du courant ascendant et descendant qu'en air calme.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>2</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1475</ID>
+            <Number>150</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Le terme «facteur de charge» désigne:</Question>
+            <Answer1>la charge alaire.</Answer1>
+            <Answer2>la réserve de sécurité constructive relative à la charge sur les planeurs de pente.
+            </Answer2>
+            <Answer3>la charge effective du planeur de pente en vol divisée par son poids total au sol.
+            </Answer3>
+            <Answer4>le rapport entre la charge minimale et maximale d'un planeur de pente.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>1</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1476</ID>
+            <Number>151</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Le poids total d'un planeur de pente s'élève à 100 kg. En virage de forte inclinaison,
+                le planeur de pente est soumis à une charge de 250 kg. Quel est le facteur de charge?
+            </Question>
+            <Answer1>0.25</Answer1>
+            <Answer2>2.5</Answer2>
+            <Answer3>25</Answer3>
+            <Answer4>250</Answer4>
+            <CorrectAnswered>1</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1478</ID>
+            <Number>152</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Lors du passage en continu d’un vol rectiligne et stable à un virage,</Question>
+            <Answer1>il n'y a pas de modification de la charge alaire et de la vitesse de vol minimale
+            </Answer1>
+            <Answer2>la charge alaire et la vitesse de vol minimale augmentent.</Answer2>
+            <Answer3>la charge alaire augmente, la vitesse de vol minimale reste la même.</Answer3>
+            <Answer4>la charge alaire reste la même, la vitesse de vol minimale augmente.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>1</WrongAnswered>
+        </Question>
+    </Questions>
+</Root>

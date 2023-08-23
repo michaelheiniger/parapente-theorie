@@ -1,0 +1,2138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Questions>
+        <Question>
+            <ID>1799</ID>
+            <Number>1</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Parmi les matériaux suivants, lesquels sont entre autres utilisés pour la fabrication
+                des voiles de parapentes?
+            </Question>
+            <Answer1>Aramide (kevlar)</Answer1>
+            <Answer2>Polyéthylène (dyneema)</Answer2>
+            <Answer3>Polyamide (nylon)</Answer3>
+            <Answer4>Polyvinylchlorid (PVC)</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>9</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1800</ID>
+            <Number>2</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Le terme tissu Ripstop désigne</Question>
+            <Answer1>les renforts placés aux endroits de la calotte subissant une charge importante, qui la
+                protègent contre la déchirure et le prolongement de déchirures éventuelles.
+            </Answer1>
+            <Answer2>les barrières de déchirure qui empêchent que l'endommagement d'un élément du parapente
+                n'affecte un élément voisin.
+            </Answer2>
+            <Answer3>la technique de tissage où un fil plus solide est intercalé à intervalles réguliers
+                dans le sens de la chaîne et de la trame, afin de stopper une déchirure éventuelle.
+            </Answer3>
+            <Answer4>un revêtement spécial qui augmente l'élasticité de la structure de base d'un tissu et,
+                de ce fait, améliore sa résistance à la déchirure et au prolongement de déchirures
+                éventuelles.
+            </Answer4>
+            <CorrectAnswered>9</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1801</ID>
+            <Number>3</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>La résistance au prolongement de déchirures des tissus utilisés pour la construction
+                de parapentes est améliorée par
+            </Question>
+            <Answer1>le revêtement du tissu.</Answer1>
+            <Answer2>la technique de tissage Ripstop.</Answer2>
+            <Answer3>l'entrelacement de fils à plus grande élasticité.</Answer3>
+            <Answer4>un tissage très serré des fils.</Answer4>
+            <CorrectAnswered>9</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1802</ID>
+            <Number>4</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Dans le domaine du vol libre, porosité signifie:</Question>
+            <Answer1>la résistance à la déchirure d'un tissu.</Answer1>
+            <Answer2>la capacité de résistance au froissement d'un tissu.</Answer2>
+            <Answer3>la perméabilité à l'air d'un tissu.</Answer3>
+            <Answer4>l'état de surface d'un tissu.</Answer4>
+            <CorrectAnswered>9</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1803</ID>
+            <Number>5</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>La porosité des tissus utilisés pour la construction de parapentes</Question>
+            <Answer1>doit être la plus grande possible.</Answer1>
+            <Answer2>doit être la plus réduite possible.</Answer2>
+            <Answer3>ne doit en aucun cas descendre sous un certain niveau, sinon, la couche limite risque
+                de devenir trop laminaire.
+            </Answer3>
+            <Answer4>ne doit pas jouer de rôle décisif, puisque c'est surtout la résistance qui compte.
+            </Answer4>
+            <CorrectAnswered>9</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1804</ID>
+            <Number>6</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Les tissus utilisés pour les parapentes sont traités afin</Question>
+            <Answer1>d'en accroître l'élasticité et la capacité de charge mécanique.</Answer1>
+            <Answer2>d'en réduire la porosité et l'élasticité.</Answer2>
+            <Answer3>d'en accroître la porosité et la capacité de charge mécanique.</Answer3>
+            <Answer4>d'en réduire la capacité de charge mécanique et l'élasticité.</Answer4>
+            <CorrectAnswered>4</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1805</ID>
+            <Number>7</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>L'enduction des tissus utilisés pour la construction de parapentes</Question>
+            <Answer1>augmente leur sensibilité aux UV.</Answer1>
+            <Answer2>réduit leur porosité.</Answer2>
+            <Answer3>augmente leur élasticité.</Answer3>
+            <Answer4>réduit leur capacité de charge mécanique.</Answer4>
+            <CorrectAnswered>3</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1806</ID>
+            <Number>8</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>L'enduction des tissus utilisée pour la construction de parapentes</Question>
+            <Answer1>réduit leur sensibilité aux UV.</Answer1>
+            <Answer2>augmente leur porosité.</Answer2>
+            <Answer3>augmente leur élasticité.</Answer3>
+            <Answer4>réduit leur capacité de charge mécanique.</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1807</ID>
+            <Number>9</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>L'enduction des tissus utilisés pour la construction de parapentes</Question>
+            <Answer1>augmente leur sensibilité aux UV.</Answer1>
+            <Answer2>augmente leur porosité.</Answer2>
+            <Answer3>réduit leur élasticité.</Answer3>
+            <Answer4>réduit leur capacité de charge mécanique.</Answer4>
+            <CorrectAnswered>1</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1808</ID>
+            <Number>10</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>L'enduction des tissus utilisés pour la construction de parapentes</Question>
+            <Answer1>augmente leur sensibilité aux UV.</Answer1>
+            <Answer2>augmente leur porosité.</Answer2>
+            <Answer3>augmente leur élasticité.</Answer3>
+            <Answer4>améliore leur capacité de charge mécanique.</Answer4>
+            <CorrectAnswered>5</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1809</ID>
+            <Number>11</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Quelle influence a une enduction usagée, endommagée ou insuffisante du tissu sur le
+                comportement en vol d'un parapente?
+            </Question>
+            <Answer1>L'aile est difficile à piloter et tend à devenir instable autour de l'axe de roulis.
+            </Answer1>
+            <Answer2>La plage de vitesse totale de l'aile augmente, sa tendance à la fermeture aussi.
+            </Answer2>
+            <Answer3>La plage de vitesse totale de l'aile diminue et la polaire s'aplatit.</Answer3>
+            <Answer4>Le décrochage a lieu à une vitesse plus élevée et l'aile présente une tendance au vol
+                parachutal stable.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>5</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1810</ID>
+            <Number>12</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>La qualité de l'enduction est considérablement altérée par</Question>
+            <Answer1>l'exécution de manœuvres de vol extrêmes et les fermetures qu'elles entrainent.
+            </Answer1>
+            <Answer2>le pliage de l’aile sur une surface en goudron ou en béton.</Answer2>
+            <Answer3>le stockage conséquent de l'aile dans un endroit sombre, à l'abri du soleil.</Answer3>
+            <Answer4>le stockage de l'aile la plus sèche possible dans une pièce fraîche.</Answer4>
+            <CorrectAnswered>5</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1811</ID>
+            <Number>13</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>La qualité de l'enduction est considérablement altérée par</Question>
+            <Answer1>l'exécution de manœuvres de vol extrêmes et les fermetures qu'elles entrainent.
+            </Answer1>
+            <Answer2>le nettoyage de l'aile à l’aide de détergents ménagers agressifs.</Answer2>
+            <Answer3>le stockage conséquent de l'aile dans un endroit sombre, à l'abri du soleil.</Answer3>
+            <Answer4>le stockage de l'aile sec dans un endroit soumis à de grandes variations de
+                température.
+            </Answer4>
+            <CorrectAnswered>5</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1812</ID>
+            <Number>14</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>La qualité de l'enduction est considérablement altérée par</Question>
+            <Answer1>l'exécution de manœuvres de vol extrêmes et les fermetures qu'elles entrainent.
+            </Answer1>
+            <Answer2>le nettoyage de l'aile à l'eau froide.</Answer2>
+            <Answer3>le stockage conséquent de l'aile dans un endroit sombre, à l'abri du soleil.</Answer3>
+            <Answer4>le stockage de l'aile humide dans un endroit soumis à de grandes variations de
+                température.
+            </Answer4>
+            <CorrectAnswered>5</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1813</ID>
+            <Number>15</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>La qualité de l'enduction est considérablement altérée par</Question>
+            <Answer1>les frottements avec d’autres matériaux comme le sable, les cailloux, le sel etc.
+            </Answer1>
+            <Answer2>le nettoyage de l'aile à l'eau froide.</Answer2>
+            <Answer3>le stockage conséquent de l'aile dans un endroit sombre, à l'abri du soleil.</Answer3>
+            <Answer4>le stockage de l'aile la plus sèche possible dans une pièce fraîche.</Answer4>
+            <CorrectAnswered>5</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1814</ID>
+            <Number>16</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>La qualité de l'enduction est considérablement altérée par</Question>
+            <Answer1>l'exécution de manœuvres de vol extrêmes et les fermetures qu'elles entrainent.
+            </Answer1>
+            <Answer2>le nettoyage de l'aile à l’eau froide.</Answer2>
+            <Answer3>le stockage conséquent de l'aile dans un endroit éclairé et bien ensoleillé.</Answer3>
+            <Answer4>le stockage de l'aile la plus sèche possible dans une pièce fraîche.</Answer4>
+            <CorrectAnswered>5</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1815</ID>
+            <Number>17</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Un parapente qui est entré en contact avec de l'eau de mer doit</Question>
+            <Answer1>être séché le plus rapidement possible par gonflage face à l’aile dans la brise
+                marine.
+            </Answer1>
+            <Answer2>être séché à l'ombre puis bien secoué afin d'enlever les restes de sel.</Answer2>
+            <Answer3>être aussitôt bien rincé à l'eau douce puis séché.</Answer3>
+            <Answer4>faire l'objet d'un contrôle de porosité de la voile par un spécialiste.</Answer4>
+            <CorrectAnswered>5</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1816</ID>
+            <Number>18</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>En vol, une voile de parapente subit la plus grande charge</Question>
+            <Answer1>sur l'extrados de l'aile au niveau du bord d'attaque.</Answer1>
+            <Answer2>sur l'intrados de l'aile au niveau du bord d'attaque.</Answer2>
+            <Answer3>sur l'extrados de l'aile au niveau du bord de fuite.</Answer3>
+            <Answer4>sur l'intrados de l'aile au niveau du bord de fuite.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>5</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1817</ID>
+            <Number>19</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Les signes de vieillissement du tissu se manifestent comme suit:</Question>
+            <Answer1>La porosité augmente, le décrochage intervient à une vitesse plus élevée, la tendance
+                de l’aile au vol parachutal augmente.
+            </Answer1>
+            <Answer2>L'élasticité diminue, la pression dynamique se relâche, l'aile réagit de manière plus
+                abrupte aux actions sur les commandes.
+            </Answer2>
+            <Answer3>Le tissu s’étire sous l'action de la charge constante, le profil devient plus épais, la
+                vitesse diminue sur l’ensemble de la plage de vitesse.
+            </Answer3>
+            <Answer4>Le tissu rétrécit sous l'action d'un rayonnement UV prolongé, le profil devient plus
+                plat, la vitesse augmente sur l’ensemble de la plage de vitesse.
+            </Answer4>
+            <CorrectAnswered>5</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1818</ID>
+            <Number>20</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>A quoi servent entre autres les nervures ou parois intercaissons?</Question>
+            <Answer1>A limiter la circulation de l'air à l'intérieur de la calotte, donc à réduire la
+                porosité de l'aile.
+            </Answer1>
+            <Answer2>A transmettre de manière homogène la charge des suspentes sur l'extrados de l'aile.
+            </Answer2>
+            <Answer3>A améliorer la résistance de la structure de la calotte sur les axes de roulis et de
+                tangage.
+            </Answer3>
+            <Answer4>A réguler la circulation de l'air à l'intérieur de la calotte, donc à maintenir une
+                pression dynamique homogène.
+            </Answer4>
+            <CorrectAnswered>5</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1819</ID>
+            <Number>21</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>La charge subie par les parois intercaissons est la plus grande dans la zone
+            </Question>
+            <Answer1>des points de fixation des suspentes de la moitié avant de l'aile.</Answer1>
+            <Answer2>entre les points de fixation des suspentes de la moitié avant de l'aile.</Answer2>
+            <Answer3>des points de fixation des suspentes de la moitié arrière de l'aile.</Answer3>
+            <Answer4>entre les points de fixation des suspentes de la moitié arrière de l'aile.</Answer4>
+            <CorrectAnswered>5</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1820</ID>
+            <Number>22</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Dans quel cas les parois intercaissons peuvent-elles le plus souffrir de la charge
+                subie?
+            </Question>
+            <Answer1>Dans une spirale engagée.</Answer1>
+            <Answer2>Dans des thermiques puissants.</Answer2>
+            <Answer3>Lorsqu’on fait les oreilles.</Answer3>
+            <Answer4>Lors du décrochage aux élévateurs B.</Answer4>
+            <CorrectAnswered>5</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1821</ID>
+            <Number>23</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Un constructeur peut prévenir la déformation durable de la paroi intercaissons dans la
+                zone des points de fixation des suspentes
+            </Question>
+            <Answer1>en disposant les orifices de compensation de pression (évents) exactement au-dessus des
+                points de fixation des suspentes.
+            </Answer1>
+            <Answer2>en renforçant la partie concernée de l’intercaissons.</Answer2>
+            <Answer3>en maintenant le nombre de points de fixation des suspentes le plus réduit possible.
+            </Answer3>
+            <Answer4>en choisissant un profil relativement épais.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>5</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1822</ID>
+            <Number>24</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>À quoi servent les diagonales en V ou cloisons intercellulaires intégrées à
+                l’intérieur de la calotte?
+            </Question>
+            <Answer1>Elles permettent en particulier une réouverture plus amortie et en continu après une
+                fermeture importante.
+            </Answer1>
+            <Answer2>Elles empêchent une déformation permanente de la calotte due à la lente extension du
+                tissu.
+            </Answer2>
+            <Answer3>Elles empêchent l'air de s'échapper rapidement de certaines parties de la calotte et
+                limitent ainsi les risques de fermetures.
+            </Answer3>
+            <Answer4>Elles permettent de répartir la charge alaire sur un nombre de suspentes moindre et
+                donc de réduire la traînée.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>5</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1823</ID>
+            <Number>25</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Les trous ou évents dans les parois intercaissons</Question>
+            <Answer1>assurent une compensation de pression entre l'intrados et l'extrados de l'aile.
+            </Answer1>
+            <Answer2>répartissent la charge due à la génération de portance de manière homogène sur toute la
+                paroi intercaissons.
+            </Answer2>
+            <Answer3>permettent le remplissage des caissons dont l'ouverture est fermée ou inexistante au
+                niveau du bord d'attaque.
+            </Answer3>
+            <Answer4>assurent un équilibre entre la pression statique sur le côté intérieur de l'aile et la
+                pression dynamique sur le côté extérieur de l'aile.
+            </Answer4>
+            <CorrectAnswered>5</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1824</ID>
+            <Number>26</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Le parapente X a 18 caissons, le parapente Y 24 caissons. Tous deux ont une surface de
+                24 m² ainsi qu'une envergure de 10 m. Ils sont constitués des mêmes matériaux et conçus
+                selon le même principe. Quelles conclusions peut-on en tirer?
+            </Question>
+            <Answer1>Y a un profil plus précis et fidèle et un volume de pliage supérieur à X.</Answer1>
+            <Answer2>Y a un allongement et un volume de pliage supérieur à X.</Answer2>
+            <Answer3>X a un profil plus épais et un volume de pliage supérieur à Y.</Answer3>
+            <Answer4>X a un allongement plus petit que Y, mais tous deux ont le même volume de pliage.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>5</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1825</ID>
+            <Number>27</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Quels types de charge entrainent le plus facilement un allongement, et donc une
+                déformation permanente, d’un tissu Ripstop traité?
+            </Question>
+            <Answer1>Des charges parallèles à la trame.</Answer1>
+            <Answer2>Des charges parallèles à la chaîne.</Answer2>
+            <Answer3>Des charges perpendiculaires par rapport à la structure du tissu.</Answer3>
+            <Answer4>Des charges diagonales par rapport à la structure du tissu.</Answer4>
+            <CorrectAnswered>5</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1826</ID>
+            <Number>28</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Lorsque les points de couture pour l'assemblage de deux éléments sont trop serrés,
+            </Question>
+            <Answer1>la résistance à la déchirure augmente.</Answer1>
+            <Answer2>la couture s'adapte mieux aux déformations du tissu.</Answer2>
+            <Answer3>le tissu est perforé et perd de sa résistance.</Answer3>
+            <Answer4>la porosité est réduite.</Answer4>
+            <CorrectAnswered>5</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1828</ID>
+            <Number>29</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Comment distingue-t-on les différents groupes de suspentes d'un parapente?</Question>
+            <Answer1>Par leur couleur: par ex. suspentes jaunes, rouges.</Answer1>
+            <Answer2>Par leur diamètre: par ex. 0,9 mm, 1,3 mm, 1,5 mm.</Answer2>
+            <Answer3>Par le matériau: par ex. polyester, dyneema, kevlar, polyamide.</Answer3>
+            <Answer4>Par leur point d'accrochage sur la calotte: par ex. suspentes A, B, C, D.</Answer4>
+            <CorrectAnswered>5</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1829</ID>
+            <Number>30</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Où les suspentes A d'un parapente sont-elles fixées?</Question>
+            <Answer1>Sur le bord de fuite.</Answer1>
+            <Answer2>Sur les stabilos.</Answer2>
+            <Answer3>Sur l'axe de roulis.</Answer3>
+            <Answer4>Sur le bord d'attaque.</Answer4>
+            <CorrectAnswered>5</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1830</ID>
+            <Number>31</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>À quelles exigences les suspentes d'un parapente moderne doivent-elles entre autres
+                satisfaire?
+            </Question>
+            <Answer1>Faible élasticité et capacité de charge réduite pour un petit diamètre.</Answer1>
+            <Answer2>Grande élasticité et capacité de charge réduite pour un petit diamètre.</Answer2>
+            <Answer3>Faible élasticité et capacité de charge importante pour un petit diamètre.</Answer3>
+            <Answer4>Grande élasticité et capacité de charge importante pour un petit diamètre.</Answer4>
+            <CorrectAnswered>1</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1831</ID>
+            <Number>32</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Sur un parapente moderne, quelle est l'extension tolérable d'une suspente longue de 6
+                mètres quand elle est chargée de 50 N (5 kg)?
+            </Question>
+            <Answer1>Aucune, les suspentes des parapentes modernes doivent être fabriquées en matériaux non
+                extensibles.
+            </Answer1>
+            <Answer2>3 cm</Answer2>
+            <Answer3>6 cm</Answer3>
+            <Answer4>9 cm</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>4</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1832</ID>
+            <Number>33</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>En quels matériaux les suspentes utilisées pour la construction de parapentes modernes
+                sont-elles fabriquées?
+            </Question>
+            <Answer1>Polyester ou polyéthylène (dyneema)</Answer1>
+            <Answer2>Polyester ou polyamide (nylon)</Answer2>
+            <Answer3>Aramide (kevlar) ou polyester</Answer3>
+            <Answer4>Polyéthylène (dyneema) ou aramide (kevlar)</Answer4>
+            <CorrectAnswered>4</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1833</ID>
+            <Number>34</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Pour la construction de parapentes modernes, on utilise généralement des suspentes
+                composées d'une âme (ou cœur) recouverte d'une gaine (ou manteau) parce que
+            </Question>
+            <Answer1>la gaine augmente la résistance de la suspente.</Answer1>
+            <Answer2>la gaine protège l’âme des effets de la lumière et des frottements.</Answer2>
+            <Answer3>cela permet de mieux distinguer les suspentes grâce à des couleurs différentes.
+            </Answer3>
+            <Answer4>en cas de rupture de l’âme, la gaine peut encore supporter la charge durant un court
+                moment.
+            </Answer4>
+            <CorrectAnswered>4</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1834</ID>
+            <Number>35</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Sur des suspentes dont l’âme est en matériaux à faible extension, faut-il s'attendre à
+                des modifications sensibles de la longueur, à long terme?
+            </Question>
+            <Answer1>Oui, en particulier parce que la gaine peut se contracter et réduire ainsi la longueur
+                de la suspente.
+            </Answer1>
+            <Answer2>Non, la longueur des suspentes en matériaux à faible extension ne varie jamais
+                beaucoup.
+            </Answer2>
+            <Answer3>Oui: sous l’effet d’une charge permanente, tous les matériaux se distendent
+                sensiblement.
+            </Answer3>
+            <Answer4>Oui, et dans tous les cas lorsque les températures dépassent 60°C.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>4</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1835</ID>
+            <Number>36</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>La technique de couture des boucles de suspentes</Question>
+            <Answer1>ménage la suspente et n’altère pas sa résistance de manière significative.</Answer1>
+            <Answer2>est la seule qui garantisse une liaison durable et d’une solidité suffisante.</Answer2>
+            <Answer3>peut entrainer une perte de résistance (jusqu'à 40 %), en particulier sur une suspente
+                en aramide.
+            </Answer3>
+            <Answer4>est une mesure purement optique.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>4</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1836</ID>
+            <Number>37</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Quelle technique permet de faire des boucles de suspentes en aramide sans en diminuer
+                la résistance de manière significative?
+            </Question>
+            <Answer1>Aucune</Answer1>
+            <Answer2>Une couture</Answer2>
+            <Answer3>Une soudure</Answer3>
+            <Answer4>Une épissure</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>4</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1837</ID>
+            <Number>38</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Sur des suspentes gainées en aramide (kevlar) ou en polyéthylène (dyneema), qu’est-ce
+                qui peut entraîner une rupture blanche de l’âme, et donc une fragilisation importante de la
+                suspente?
+            </Question>
+            <Answer1>L’utilisation permanente de l'aile avec des charges situées dans la zone de charge
+                maximale ou légèrement au-dessus.
+            </Answer1>
+            <Answer2>Une charge importante sur certaines suspentes ou des groupes de suspentes lors de
+                manœuvres comme le décrochage frontal, la fermeture latérale ou le décrochage aux élévateurs
+                B.
+            </Answer2>
+            <Answer3>La rupture blanche de l’âme d’une suspente gainée est toujours due à un vice de
+                construction et ne peut être causée par l'utilisation de l’aile.
+            </Answer3>
+            <Answer4>D’abord détrempée, une suspente gèle.</Answer4>
+            <CorrectAnswered>4</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1838</ID>
+            <Number>39</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Des suspentes de 1 mm avec une résistance à la rupture de 100 daN (100 kg) se
+                distinguent de suspentes de 1,5 mm avec la même résistance à la rupture par
+            </Question>
+            <Answer1>une traînée moins importante et une plus faible tendance à la formation de nœuds
+                lorsqu’on étale l’aile pour le décollage.
+            </Answer1>
+            <Answer2>une traînée plus importante et une plus grande tendance à la formation de nœuds
+                lorsqu’on étale l’aile pour le décollage.
+            </Answer2>
+            <Answer3>une traînée plus importante et une plus faible tendance à la formation de nœuds
+                lorsqu’on étale l’aile pour le décollage.
+            </Answer3>
+            <Answer4>une traînée moins importante et une plus grande tendance à la formation de nœuds
+                lorsqu’on étale l’aile pour le décollage.
+            </Answer4>
+            <CorrectAnswered>4</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1839</ID>
+            <Number>40</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Que peut-on dire quant à la charge des suspentes en configuration de vol droit et
+                stable?
+            </Question>
+            <Answer1>Ensemble, les suspentes A et B portent plus du double de ce que portent les suspentes C
+                et D.
+            </Answer1>
+            <Answer2>Ensemble, les suspentes C et D portent plus du double de ce que portent les suspentes A
+                et B.
+            </Answer2>
+            <Answer3>Sur les parapentes modernes, la charge est répartie de manière homogène sur les
+                suspentes A, B, C et D.
+            </Answer3>
+            <Answer4>Les suspentes A et C portent la charge, tandis que les suspentes B et D servent en
+                premier lieu à former le profil.
+            </Answer4>
+            <CorrectAnswered>4</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1840</ID>
+            <Number>41</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Quel avantage présentent des suspentes nouées et non cousues à l'endroit des
+                raccordements entre les suspentes et le tissu?
+            </Question>
+            <Answer1>Le raccordement noué tient mieux, étant donné que la suspente n'est pas affaiblie par
+                une couture.
+            </Answer1>
+            <Answer2>La maintenance de l'aile est plus simple, étant donné que les suspentes défectueuses
+                peuvent être remplacées sans grande difficulté.
+            </Answer2>
+            <Answer3>Le raccordement noué est plus avantageux sur le plan aérodynamique; on l’utilise donc
+                surtout sur les ailes modernes haute performance.
+            </Answer3>
+            <Answer4>Aucun, il s'agit d'une mesure purement optique.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>4</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1841</ID>
+            <Number>42</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Lors du remplacement de suspentes endommagées, il faut veiller à ce que</Question>
+            <Answer1>les nouvelles suspentes aient le même diamètre à cause de la traînée.</Answer1>
+            <Answer2>dans tous les cas, les suspentes utilisées soient au moins de la même épaisseur ou plus
+                épaisses.
+            </Answer2>
+            <Answer3>la longueur des nouvelles suspentes soit identique à la longueur des anciennes.
+            </Answer3>
+            <Answer4>les suspentes de rechange soient des suspentes originales et fournies par le
+                constructeur ou son représentant.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>4</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1842</ID>
+            <Number>43</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Qu’est-ce qui peut entraîner une modification de la longueur initiale des suspentes?
+            </Question>
+            <Answer1>Uniquement une surcharge importante de certaines suspentes, lorsqu'elles s'accrochent à
+                une racine au décollage par exemple.
+            </Answer1>
+            <Answer2>Uniquement l’utilisation de suspentes de types ou de diamètres différents.</Answer2>
+            <Answer3>Les suspentes des parapentes modernes conservent toujours leur longueur initiale.
+            </Answer3>
+            <Answer4>Les différentes charges exercées sur les différentes rangées de suspentes dans le cadre
+                d’une utilisation normale.
+            </Answer4>
+            <CorrectAnswered>4</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1843</ID>
+            <Number>44</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Quelles conséquences entraine une surcharge très importante de certaines suspentes,
+                lorsqu'elles s'accrochent quelque part au décollage ou à l’atterrissage, par exemple?
+            </Question>
+            <Answer1>Les suspentes surchargées peuvent s'allonger définitivement, ce qui peut nuire au
+                comportement de l'aile en vol.
+            </Answer1>
+            <Answer2>Toutes les suspentes surchargées cèdent, ce qui peut nuire au comportement de l'aile en
+                vol.
+            </Answer2>
+            <Answer3>La résistance des suspentes surchargées diminue de manière significative.</Answer3>
+            <Answer4>Ni la longueur ni la résistance des suspentes d'un parapente moderne ne sont altérées
+                par un tel incident.
+            </Answer4>
+            <CorrectAnswered>4</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1844</ID>
+            <Number>45</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Qu’est-ce qui peut entrainer le rétrécissement des suspentes d'un parapente?
+            </Question>
+            <Answer1>Une utilisation très limitée du parapente pendant une longue période.</Answer1>
+            <Answer2>Des suspentes mal triées lors du pliage du parapente.</Answer2>
+            <Answer3>L'exposition des suspentes à l'humidité et à la saleté.</Answer3>
+            <Answer4>L'exposition des suspentes au froid.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>4</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1845</ID>
+            <Number>46</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Quelles conséquences entraine un allongement définitif des suspentes A par rapport aux
+                autres suspentes?
+            </Question>
+            <Answer1>L'angle d’incidence augmente, le profil et le comportement en vol sont modifiés.
+            </Answer1>
+            <Answer2>L'angle d’incidence augmente, le profil reste identique, le comportement en vol est
+                modifié.
+            </Answer2>
+            <Answer3>L'angle d’incidence reste identique, le profil et le comportement en vol sont
+                modifiés.
+            </Answer3>
+            <Answer4>L'angle d’incidence diminue, le profil et le comportement en vol sont modifiés.
+            </Answer4>
+            <CorrectAnswered>4</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1846</ID>
+            <Number>47</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Quelles sont les conséquences d'un rétrécissement des suspentes A?</Question>
+            <Answer1>L'angle d’incidence augmente, le profil et le comportement en vol sont modifiés.
+            </Answer1>
+            <Answer2>L'angle d’incidence augmente, le profil reste identique, le comportement en vol est
+                modifié.
+            </Answer2>
+            <Answer3>L'angle d’incidence reste identique, le profil et le comportement en vol sont
+                modifiés.
+            </Answer3>
+            <Answer4>L'angle d’incidence diminue, le profil et le comportement en vol sont modifiés.
+            </Answer4>
+            <CorrectAnswered>4</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1847</ID>
+            <Number>48</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Quelles sont les conséquences d'un rétrécissement des suspentes B sur une aile
+                destinée à la formation?
+            </Question>
+            <Answer1>L'angle d’incidence augmente, le profil et le comportement en vol sont modifiés.
+            </Answer1>
+            <Answer2>L'angle d’incidence augmente, le profil reste identique, le comportement en vol est
+                modifié.
+            </Answer2>
+            <Answer3>L'angle d’incidence reste à peu près identique, le profil et le comportement en vol
+                sont modifiés.
+            </Answer3>
+            <Answer4>L'angle d’incidence diminue, le profil et le comportement en vol sont modifiés.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>4</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1848</ID>
+            <Number>49</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Quelles sont les conséquences d'un allongement des suspentes D?</Question>
+            <Answer1>L'angle d’incidence augmente, le profil et le comportement en vol sont modifiés.
+            </Answer1>
+            <Answer2>L'angle d’incidence augmente, le profil reste identique, le comportement en vol est
+                modifié.
+            </Answer2>
+            <Answer3>L'angle d’incidence reste identique, le profil et le comportement en vol sont
+                modifiés.
+            </Answer3>
+            <Answer4>L'angle d’incidence diminue, le profil et le comportement en vol sont modifiés.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>4</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1849</ID>
+            <Number>50</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Quelles sont les conséquences d'un rétrécissement des suspentes D?</Question>
+            <Answer1>L'angle d’incidence augmente, le profil et le comportement en vol sont modifiés.
+            </Answer1>
+            <Answer2>L'angle d’incidence augmente, le profil reste identique, le comportement en vol est
+                modifié.
+            </Answer2>
+            <Answer3>L'angle d’incidence reste identique, le profil et le comportement en vol sont
+                modifiés.
+            </Answer3>
+            <Answer4>L'angle d’incidence diminue, le profil et le comportement en vol sont modifiés.
+            </Answer4>
+            <CorrectAnswered>4</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1850</ID>
+            <Number>51</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>En quoi le comportement en vol d'une aile peut-il être modifié si les suspentes A
+                s'allongent/sont allongées?
+            </Question>
+            <Answer1>L'aile est plus difficile à gonfler, vole plus lentement à cause d’un angle d’incidence
+                plus grand, sa tendance à la fermeture frontale diminue, sa tendance à entrer en vol
+                parachutal augmente.
+            </Answer1>
+            <Answer2>L'aile est plus difficile à gonfler, elle nécessite des actions plus amples mais moins
+                énergiques aux commandes en raison du centre de gravité plus bas, la ressource est plus
+                efficace lors de l'atterrissage.
+            </Answer2>
+            <Answer3>L'aile est plus facile à gonfler, vole plus lentement à cause d’un angle d’incidence
+                réduit, sa tendance à la fermeture frontale et à entrer en vol parachutal augmente.
+            </Answer3>
+            <Answer4>L'aile est plus facile à gonfler, vole plus vite à cause d’un angle d'incidence réduit,
+                sa tendance à la fermeture frontale augmente, sa tendance à entrer en vol parachutal
+                diminue.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>1</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1851</ID>
+            <Number>52</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>En quoi le comportement en vol d'une aile peut-il être modifié si les suspentes D
+                s'allongent/sont allongées?
+            </Question>
+            <Answer1>L'aile est plus difficile à gonfler, vole plus lentement à cause d’un angle d’incidence
+                plus grand, sa tendance à la fermeture frontale diminue, sa tendance à entrer en vol
+                parachutal augmente.
+            </Answer1>
+            <Answer2>L'aile est plus difficile à gonfler, elle nécessite des actions plus amples mais moins
+                énergiques aux commandes en raison du centre de gravité plus bas, la ressource est plus
+                efficace lors de l'atterrissage.
+            </Answer2>
+            <Answer3>L'aile est plus facile à gonfler, vole plus lentement à cause d’un angle d’incidence
+                réduit, sa tendance à la fermeture frontale et à entrer en vol parachutal augmente.
+            </Answer3>
+            <Answer4>L'aile est plus facile à gonfler, vole plus vite à cause d’un angle d'incidence réduit,
+                sa tendance à la fermeture frontale augmente, sa tendance à entrer en vol parachutal
+                diminue.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>3</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1852</ID>
+            <Number>53</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>En quoi le comportement en vol d'une aile peut-il être modifié si les suspentes A
+                rétrécissent/sont rétrécies?
+            </Question>
+            <Answer1>L'aile est plus difficile à gonfler, vole plus lentement à cause d’un angle d’incidence
+                plus grand, sa tendance à la fermeture frontale diminue, sa tendance à entrer en vol
+                parachutal augmente.
+            </Answer1>
+            <Answer2>L'aile est plus difficile à gonfler, elle nécessite des actions plus amples mais moins
+                énergiques aux commandes en raison du centre de gravité plus bas, la ressource est plus
+                efficace lors de l'atterrissage.
+            </Answer2>
+            <Answer3>L'aile est plus facile à gonfler, vole plus lentement à cause d’un angle d’incidence
+                réduit, sa tendance à la fermeture frontale et à entrer en vol parachutal augmente.
+            </Answer3>
+            <Answer4>L'aile est plus facile à gonfler, vole plus vite à cause d’un angle d'incidence réduit,
+                sa tendance à la fermeture frontale augmente, sa tendance à entrer en vol parachutal
+                diminue.
+            </Answer4>
+            <CorrectAnswered>3</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1853</ID>
+            <Number>54</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>En quoi le comportement en vol d'une aile peut-il être modifié si les suspentes D
+                rétrécissent/sont rétrécies?
+            </Question>
+            <Answer1>L'aile est plus difficile à gonfler, vole plus lentement à cause d’un angle d’incidence
+                plus grand, sa tendance à la fermeture frontale diminue, sa tendance à entrer en vol
+                parachutal augmente.
+            </Answer1>
+            <Answer2>L'aile est plus difficile à gonfler, elle nécessite des actions plus amples mais moins
+                énergiques aux commandes en raison du centre de gravité plus bas, la ressource est plus
+                efficace lors de l'atterrissage.
+            </Answer2>
+            <Answer3>L'aile est plus facile à gonfler, vole plus lentement à cause d’un angle d’incidence
+                réduit, sa tendance à la fermeture frontale et à entrer en vol parachutal augmente.
+            </Answer3>
+            <Answer4>L'aile est plus facile à gonfler, vole plus vite à cause d’un angle d'incidence réduit,
+                sa tendance à la fermeture frontale augmente, sa tendance à entrer en vol parachutal
+                diminue.
+            </Answer4>
+            <CorrectAnswered>3</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1854</ID>
+            <Number>55</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Au terrain de décollage, un pilote constate qu'une suspente B de l'aile est
+                sectionnée. Comment doit-il réagir?
+            </Question>
+            <Answer1>Il retire la suspente B sectionnée et vole sans elle.</Answer1>
+            <Answer2>Il relie les deux extrémités de la suspente défectueuse à l’aide d’un nœud plat
+                bouclé.
+            </Answer2>
+            <Answer3>Il relie un petit morceau de suspente ou de ficelle aux deux extrémités de la suspente
+                défectueuse, de manière à ce que la suspente ainsi "réparée" ne soit en aucun cas plus
+                courte, mais pas non plus beaucoup plus longue que la suspente B voisine.
+            </Answer3>
+            <Answer4>Il ne vole plus avant d’avoir remplacé la suspente défectueuse.</Answer4>
+            <CorrectAnswered>3</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1855</ID>
+            <Number>56</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Par rapport à un parapente avec des suspentes longues de 5 m, un parapente avec des
+                suspentes longues de 7 m a
+            </Question>
+            <Answer1>un centre de gravité plus haut et des amplitudes d'oscillation plus importantes lors de
+                changements de direction rapides.
+            </Answer1>
+            <Answer2>un centre de gravité plus bas et des amplitudes d'oscillation moins importantes lors de
+                changements de direction rapides.
+            </Answer2>
+            <Answer3>un centre de gravité plus bas et des amplitudes d'oscillation plus importantes lors de
+                changements de direction rapides.
+            </Answer3>
+            <Answer4>un centre de gravité plus haut et des amplitudes d'oscillation moins importantes lors
+                de changements de direction rapides.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>3</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1856</ID>
+            <Number>57</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Par rapport à un parapente avec des suspentes longues de 7 m, un parapente avec des
+                suspentes longues de 5 m a
+            </Question>
+            <Answer1>un centre de gravité plus haut et des amplitudes d'oscillation plus importantes lors de
+                changements de direction rapides.
+            </Answer1>
+            <Answer2>un centre de gravité plus bas et des amplitudes d'oscillation moins importantes lors de
+                changements de direction rapides.
+            </Answer2>
+            <Answer3>un centre de gravité plus bas et des amplitudes d'oscillation plus importantes lors de
+                changements de direction rapides.
+            </Answer3>
+            <Answer4>un centre de gravité plus haut et des amplitudes d'oscillation moins importantes lors
+                de changements de direction rapides.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>3</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1857</ID>
+            <Number>58</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Après 200 vols avec son aile, un pilote constate que depuis peu le tissu fait des plis
+                sur toute l'envergure entre les suspentes B et C.
+            </Question>
+            <Answer1>Il doit raccourcir légèrement les suspentes B et C.</Answer1>
+            <Answer2>Il doit raccourcir légèrement les suspentes A et B.</Answer2>
+            <Answer3>Il doit remplacer l'aile car le matériel est trop "fatigué".</Answer3>
+            <Answer4>Il doit faire vérifier et régler l'aile chez le constructeur ou son représentant.
+            </Answer4>
+            <CorrectAnswered>3</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1858</ID>
+            <Number>59</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Après l'atterrissage, un parapente</Question>
+            <Answer1>ne doit en aucun cas tomber latéralement: une charge unilatérale permanente des
+                suspentes peut entraîner un étirement asymétrique.
+            </Answer1>
+            <Answer2>doit tomber devant ou derrière afin que les suspentes ne s'emmêlent pas.</Answer2>
+            <Answer3>ne doit en aucun cas tomber vers l'avant: comme le bord d’attaque est alors fermé,
+                l'air ne peut pas s'échapper, la pression à l'intérieur de la calotte augmente et les parois
+                intercaissons peuvent se déchirer.
+            </Answer3>
+            <Answer4>doit tomber le plus rapidement possible afin d’éviter que l'aile ne tombe sur le pilote
+                et que ce dernier ne s'emmêle dans les suspentes.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>3</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1859</ID>
+            <Number>60</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Lorsqu’un élément de la structure du parapente subit une charge dont la valeur
+                correspond à sa résistance maximale à la traction, on peut s'attendre à ce que
+            </Question>
+            <Answer1>cet élément ne soit plus dans son état initial en ce qui concerne ses dimensions et sa
+                résistance à la traction.
+            </Answer1>
+            <Answer2>cet élément conserve les dimensions et la résistance à la traction initiales, dans la
+                mesure où la valeur de la résistance à la traction maximale n'a pas été dépassée.
+            </Answer2>
+            <Answer3>les dimensions de cet élément soient légèrement modifiées, mais sans altération de sa
+                résistance à la traction.
+            </Answer3>
+            <Answer4>un trimmage de l'aile soit nécessaire pour compenser les dimensions modifiées de cet
+                élément.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>3</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1860</ID>
+            <Number>61</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>La charge subie par les éléments d'un parapente est en premier lieu due</Question>
+            <Answer1>à la pression.</Answer1>
+            <Answer2>à la traction.</Answer2>
+            <Answer3>à la torsion.</Answer3>
+            <Answer4>à la flexion.</Answer4>
+            <CorrectAnswered>3</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1861</ID>
+            <Number>62</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Les éléments de raccord entre les suspentes et les élévateurs s’appellent</Question>
+            <Answer1>verrouillages d'élévateur.</Answer1>
+            <Answer2>maillons à vis ou maillons rapides.</Answer2>
+            <Answer3>cosses-cœurs d'élévateur.</Answer3>
+            <Answer4>cosses-cœurs de suspentes.</Answer4>
+            <CorrectAnswered>1</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1862</ID>
+            <Number>63</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Les maillons à vis (maillons rapides) doivent être</Question>
+            <Answer1>serrés le plus possible à l’aide d'une clé.</Answer1>
+            <Answer2>serrés légèrement à la main.</Answer2>
+            <Answer3>serrés à la main puis resserrés à l’aide d’une clé.</Answer3>
+            <Answer4>complètement serrés à l’aide d’une clé puis desserrés d'un quart de tour.</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1863</ID>
+            <Number>64</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Une aile est équipée d’élévateurs A, B, C et D. Quels élévateurs subissent le moins de
+                charge en vol droit et stable?
+            </Question>
+            <Answer1>Les élévateurs A</Answer1>
+            <Answer2>Les élévateurs B</Answer2>
+            <Answer3>Les élévateurs C</Answer3>
+            <Answer4>Les élévateurs D</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1864</ID>
+            <Number>65</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>La pratique continuelle de manœuvres de vol extrêmes avec des ailes homologuées
+            </Question>
+            <Answer1>n'entraîne aucune extension notable des matériaux.</Answer1>
+            <Answer2>charge les stabilos dans le sens de la diagonale et entraîne donc une modification du
+                profil au milieu de l’aile.
+            </Answer2>
+            <Answer3>peut entrainer l’étirement de diverses pièces de construction, et donc une modification
+                des caractéristiques de vol du parapente.
+            </Answer3>
+            <Answer4>peut entrainer des chocs sur les maillons rapides puis, au fil du temps, l'apparition
+                de fissures capillaires.
+            </Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1865</ID>
+            <Number>66</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Comment fonctionne l'accélérateur à pied d'un parapente de série, en règle générale?
+            </Question>
+            <Answer1>Lorsque les jambes sont tendues, le centre de gravité du corps est déplacé vers
+                l'avant, ce qui entraîne une diminution de l'incidence, donc une accélération.
+            </Answer1>
+            <Answer2>Grâce à une barre d’accélérateur reliée aux suspentes A, les suspentes situées les plus
+                en avant peuvent être tirées vers le bas, ce qui a pour effet de réduire l’angle d’incidence
+                et d'accélérer l'aile.
+            </Answer2>
+            <Answer3>Grâce à une barre d’accélérateur reliée aux suspentes D, on peut modifier la longueur
+                de l'élévateur D et ainsi modifier l'angle d’incidence et la vitesse de l'aile.
+            </Answer3>
+            <Answer4>Grâce à une barre d’accélérateur reliée aux suspentes A et B, on peut modifier la
+                longueur des élévateurs A et B et ainsi modifier l’angle d’incidence et la vitesse de
+                l'aile.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>2</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1866</ID>
+            <Number>67</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Lorsque l'accélérateur à pied d'un parapente est actionné au maximum de son
+                débattement par air calme,
+            </Question>
+            <Answer1>la finesse s'améliore.</Answer1>
+            <Answer2>le taux de chute diminue.</Answer2>
+            <Answer3>la vitesse de pénétration augmente.</Answer3>
+            <Answer4>rien ne change.</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1867</ID>
+            <Number>68</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Lorsque l'accélérateur à pied d'un parapente est actionné au maximum de son
+                débattement par un vent de face de 25 km/h,
+            </Question>
+            <Answer1>la finesse s'améliore.</Answer1>
+            <Answer2>le taux de chute diminue.</Answer2>
+            <Answer3>la finesse se réduit.</Answer3>
+            <Answer4>rien ne change.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>2</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1868</ID>
+            <Number>69</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Les afficheurs ou trimm-tabs d'un parapente modifient généralement la longueur
+            </Question>
+            <Answer1>de l'élévateur avant.</Answer1>
+            <Answer2>de l'élévateur central avant.</Answer2>
+            <Answer3>de l'élévateur central arrière.</Answer3>
+            <Answer4>de l'élévateur arrière.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>2</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1869</ID>
+            <Number>70</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Les afficheurs ou trimm-tabs</Question>
+            <Answer1>peuvent, jusqu'à une longueur de 5 cm, être montés et utilisés sur toutes les ailes de
+                série sans que l'homologation et donc la sécurité ne soient compromises.
+            </Answer1>
+            <Answer2>permettent de varier la longueur des élévateurs et par conséquent de modifier le
+                comportement de l'aile en vol. Un parapente équipé d'afficheurs n'est considéré comme
+                homologué que si les afficheurs ont été utilisés lors des tests d'homologation.
+            </Answer2>
+            <Answer3>modifient sensiblement le comportement en vol de tout parapente dans chaque position de
+                réglage des afficheurs.
+            </Answer3>
+            <Answer4>affectent à peine le comportement en vol d'une aile, mais plutôt la résistance des
+                élévateurs.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>2</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1870</ID>
+            <Number>71</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Pour voler plus vite, les afficheurs ou trimm-tabs sont</Question>
+            <Answer1>relâchés pour réduire l’angle d’incidence et relever le profil à l'arrière.</Answer1>
+            <Answer2>relâchés pour augmenter l’angle d’incidence et relever le profil à l'arrière.</Answer2>
+            <Answer3>tendus pour réduire l’angle d’incidence et rabaisser le profil à l'arrière.</Answer3>
+            <Answer4>tendus pour augmenter l’angle d’incidence et relever le profil à l'arrière.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>2</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1871</ID>
+            <Number>72</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Relâcher complètement les afficheurs ou trimm-tabs d'un parapente en vol droit et
+                stable
+            </Question>
+            <Answer1>diminue la tendance à la fermeture de l’aile, le débattement des commandes diminue.
+            </Answer1>
+            <Answer2>augmente la tendance à la fermeture de l’aile, le débattement des commandes augmente.
+            </Answer2>
+            <Answer3>diminue la tendance à la fermeture de l’aile, le débattement des commandes augmente.
+            </Answer3>
+            <Answer4>augmente la tendance à la fermeture de l’aile, le débattement des commandes diminue.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>2</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1874</ID>
+            <Number>73</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Les suspentes de freins peuvent être protégées de l'usure si</Question>
+            <Answer1>la position de freinage n'est pas modifiée trop souvent de manière inutile.</Answer1>
+            <Answer2>les mouvements de freinage ou de commande sont effectués vers l'avant et le milieu.
+            </Answer2>
+            <Answer3>le guidage des suspentes sur l'élévateur a lieu au moyen d'une poulie.</Answer3>
+            <Answer4>la force de freinage ou de commande est bien dosée par le pilote.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>2</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1875</ID>
+            <Number>74</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>La longueur des suspentes de commandes/de freins</Question>
+            <Answer1>doit être adaptée à la sellette utilisée et à la position que le pilote souhaite
+                adopter.
+            </Answer1>
+            <Answer2>est déterminée par le constructeur et ne doit être raccourcie que par le constructeur
+                ou son représentant.
+            </Answer2>
+            <Answer3>dépend du poids du pilote et de la vitesse désirée.</Answer3>
+            <Answer4>doit être adaptée à la taille du pilote, et en particulier à la longueur de ses bras.
+            </Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1877</ID>
+            <Number>75</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>La longueur des suspentes de commandes/de freins doit être réglée de manière à ce
+                que
+            </Question>
+            <Answer1>le pilote ne doive en aucun cas les enrouler pour atterrir.</Answer1>
+            <Answer2>l'aile atteigne sa vitesse de finesse maximum avec les freins aux épaules.</Answer2>
+            <Answer3>toute la plage de vitesse de l'aile puisse être exploitée sans problème.</Answer3>
+            <Answer4>les suspentes soient les plus courtes possible, afin qu'elles ne s'emmêlent pas avec
+                les suspentes D.
+            </Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1878</ID>
+            <Number>76</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Sur une aile légèrement freinée, on peut constater que les suspentes D ne sont pas
+                sous tension: trop détendues, elles pendent. Que peut-on en conclure?
+            </Question>
+            <Answer1>Les suspentes de commandes/de freins délestent les suspentes D, ce qui peut être normal
+                en cas de vol légèrement freiné.
+            </Answer1>
+            <Answer2>Les suspentes D se sont peu à peu allongées sous la charge. L'aile doit être renvoyée
+                au constructeur pour un contrôle.
+            </Answer2>
+            <Answer3>Le réglage des suspentes de commandes/de freins est trop court, elles doivent être
+                rallongées.
+            </Answer3>
+            <Answer4>Le constructeur a équipé l’aile de suspentes D trop longues, elles doivent être
+                remplacées.
+            </Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1880</ID>
+            <Number>77</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Une sellette avec des croisillons diagonaux permet</Question>
+            <Answer1>de moins sentir les turbulences et de piloter l'aile par déplacement du poids du corps
+                dans la sellette.
+            </Answer1>
+            <Answer2>de sentir les turbulences et de piloter l'aile par déplacement du poids du corps dans
+                la sellette.
+            </Answer2>
+            <Answer3>de sentir les turbulences, mais empêche le pilotage par déplacement du poids du corps
+                dans la sellette.
+            </Answer3>
+            <Answer4>de moins sentir les turbulences, mais empêche le pilotage par déplacement du poids du
+                corps dans la sellette.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>2</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1881</ID>
+            <Number>78</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Une sellette sans croisillon permet</Question>
+            <Answer1>de moins sentir les turbulences et de piloter l'aile par déplacement du poids du corps
+                dans la sellette.
+            </Answer1>
+            <Answer2>de sentir les turbulences et de piloter l'aile par déplacement du poids du corps dans
+                la sellette.
+            </Answer2>
+            <Answer3>de sentir les turbulences mais empêche le pilotage par déplacement du poids du corps
+                dans la sellette.
+            </Answer3>
+            <Answer4>de moins sentir les turbulences mais empêche le pilotage par déplacement du poids du
+                corps dans la sellette.
+            </Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1882</ID>
+            <Number>79</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Lorsqu’on réduit l'écart entre les deux points d'accrochage d'une sellette,</Question>
+            <Answer1>on ressent plus les turbulences et le risque de twist augmente.</Answer1>
+            <Answer2>on ressent moins les turbulences et le risque de twist augmente.</Answer2>
+            <Answer3>on ressent plus les turbulences et le risque de twist diminue.</Answer3>
+            <Answer4>on ressent moins les turbulences et le risque de twist diminue.</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1883</ID>
+            <Number>80</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Lorsqu’on augmente l'écart entre les deux points d'accrochage d'une sellette
+            </Question>
+            <Answer1>on ressent plus les turbulences et le risque de twist augmente.</Answer1>
+            <Answer2>on ressent moins les turbulences et le risque de twist augmente.</Answer2>
+            <Answer3>on ressent plus les turbulences et le risque de twist diminue.</Answer3>
+            <Answer4>on ressent moins les turbulences et le risque de twist diminue.</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1884</ID>
+            <Number>81</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Lorsque les points d'accrochage d'une sellette sont élevés</Question>
+            <Answer1>on ressent moins les turbulences, pencher le corps en avant pour accélérer lors du
+                décollage est moins aisé.
+            </Answer1>
+            <Answer2>on ressent plus les turbulences, pencher le corps en avant pour accélérer lors du
+                décollage est plus aisé.
+            </Answer2>
+            <Answer3>on ressent moins les turbulences, pencher le corps en avant pour accélérer lors du
+                décollage est plus aisé.
+            </Answer3>
+            <Answer4>on ressent plus les turbulences, pencher le corps en avant pour accélérer lors du
+                décollage est moins aisé.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>2</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1885</ID>
+            <Number>82</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Lorsque les points d'accrochage d'une sellette sont bas</Question>
+            <Answer1>on ressent moins les turbulences, pencher le corps en avant pour accélérer lors du
+                décollage est moins aisé.
+            </Answer1>
+            <Answer2>on ressent plus les turbulences, pencher le corps en avant pour accélérer lors du
+                décollage est plus aisé.
+            </Answer2>
+            <Answer3>on ressent moins les turbulences, pencher le corps en avant pour accélérer lors du
+                décollage est plus aisé.
+            </Answer3>
+            <Answer4>on ressent plus les turbulences, pencher le corps en avant pour accélérer lors du
+                décollage est moins aisé.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>2</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1886</ID>
+            <Number>83</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Avec un parapente, lorsqu’on remplace une sellette sans croisillons par une sellette à
+                croisillons, cela influence entre autres
+            </Question>
+            <Answer1>la plage de vitesse de l'aile.</Answer1>
+            <Answer2>le comportement de l'aile dans des situations de vol extrêmes.</Answer2>
+            <Answer3>le profil, donc l’angle d’incidence de l'aile.</Answer3>
+            <Answer4>le vrillage de l'aile.</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1887</ID>
+            <Number>84</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Une sellette construite ou réglée de façon à ce que le pilote vole en position
+                allongée présente surtout l’avantage que
+            </Question>
+            <Answer1>la traînée diminue et la finesse augmente.</Answer1>
+            <Answer2>le risque de twist en situation de vol incontrôlée diminue.</Answer2>
+            <Answer3>le pilotage par déplacement du poids du corps est plus aisé.</Answer3>
+            <Answer4>le décollage est plus aisé.</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1888</ID>
+            <Number>85</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Une sellette construite ou réglée de façon à ce que le pilote vole en position
+                allongée présente surtout l’inconvénient que
+            </Question>
+            <Answer1>la traînée augmente et la finesse diminue.</Answer1>
+            <Answer2>le risque de twist en situation de vol incontrôlée augmente.</Answer2>
+            <Answer3>le pilotage par déplacement du poids du corps n'est pas possible.</Answer3>
+            <Answer4>le décollage est moins aisé.</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1889</ID>
+            <Number>86</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Une sellette avec protection dorsale</Question>
+            <Answer1>ne doit être utilisée que si le pilote estime cela indispensable, car il aura de la
+                peine à décoller et à atterrir correctement.
+            </Answer1>
+            <Answer2>est obligatoire pour les participants aux compétitions organisées par la FSVL.
+            </Answer2>
+            <Answer3>augmente la sécurité passive mais ne doit surtout pas inciter le pilote à mépriser les
+                règles de base lors du décollage, de la volte et de l'atterrissage.
+            </Answer3>
+            <Answer4>est obligatoire pour passer les examens.</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1890</ID>
+            <Number>87</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Par rapport aux protections en mousse, les protections de type airbag qui se
+                remplissent d’air lors du déplacement présentent l’avantage
+            </Question>
+            <Answer1>de déployer tout leur effet protecteur dès le début de la phase de décollage.</Answer1>
+            <Answer2>d’offrir une flottabilité optimale en cas d'atterrissage dans l'eau et d’éviter au
+                pilote de se noyer, même s’il ne sait pas nager.
+            </Answer2>
+            <Answer3>d’une traînée réduite.</Answer3>
+            <Answer4>qu'en général, ils sont d’un volume de pliage et d’un poids moins importants.</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1891</ID>
+            <Number>88</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Par rapport aux protections de type airbag qui se remplissent d’air lors du
+                déplacement, les protections en mousse présentent l’avantage
+            </Question>
+            <Answer1>de déployer tout leur effet protecteur dès le début de la phase de décollage.</Answer1>
+            <Answer2>qu'en général, ils sont d’un volume de pliage et d’un poids moins importants.</Answer2>
+            <Answer3>d’offrir une meilleure isolation contre le froid.</Answer3>
+            <Answer4>d’offrir une flottabilité optimale en cas d'atterrissage dans l'eau et d’éviter au
+                pilote de se noyer, même s’il ne sait pas nager.
+            </Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1892</ID>
+            <Number>89</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Dans le domaine du parapente, pour une aile intermédiaire moderne et par rapport à sa
+                surface à plat, une charge alaire de 2,0 daN/m² (2,0 kg/m²) est
+            </Question>
+            <Answer1>insuffisante.</Answer1>
+            <Answer2>à la limite inférieure.</Answer2>
+            <Answer3>normale.</Answer3>
+            <Answer4>à la limite supérieure.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>2</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1894</ID>
+            <Number>90</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Dans le domaine du parapente, pour une aile intermédiaire moderne et par rapport à sa
+                surface à plat, une charge alaire de 3,5 daN/m² (3,5 kg/m²) est
+            </Question>
+            <Answer1>bien insuffisante.</Answer1>
+            <Answer2>à la limite inférieure.</Answer2>
+            <Answer3>normale.</Answer3>
+            <Answer4>à la limite supérieure.</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1895</ID>
+            <Number>91</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Dans le domaine du parapente, pour une aile intermédiaire moderne et par rapport à sa
+                surface à plat, une charge alaire de 4.5 daN/m² (4.5 kg/m²) est
+            </Question>
+            <Answer1>à la limite inférieure.</Answer1>
+            <Answer2>normale.</Answer2>
+            <Answer3>à la limite supérieure.</Answer3>
+            <Answer4>bien trop élevée.</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1896</ID>
+            <Number>92</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Quel est le principe de base essentiel concernant le positionnement du parachute de
+                secours sur la sellette?
+            </Question>
+            <Answer1>Le container doit être relié le plus solidement possible à la sellette.</Answer1>
+            <Answer2>Le container doit être fixé à un élément portant, par exemple à une sangle.</Answer2>
+            <Answer3>La poignée d'extraction doit être bien visible et facilement accessible.</Answer3>
+            <Answer4>Le container doit absolument être fixé du côté de la main qui le lance.</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1897</ID>
+            <Number>93</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Lorsque le point de fixation de la sangle principale d'un parachute de secours sur la
+                sellette se trouve près du centre de gravité du pilote,
+            </Question>
+            <Answer1>le corps du pilote sera automatiquement plus droit lors de l'ouverture.</Answer1>
+            <Answer2>il est moins probable que les suspentes du parapente et celles du parachute de secours
+                s'emmêlent.
+            </Answer2>
+            <Answer3>il faudra penser à redresser le corps avant l'atterrissage.</Answer3>
+            <Answer4>le parapente cessera automatiquement de voler, ce qui permettra une descente plus
+                calme.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>2</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1898</ID>
+            <Number>94</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Lorsque le point de fixation de la sangle principale d'un parachute de secours sur la
+                sellette se trouve bien au-dessus du centre de gravité du pilote,
+            </Question>
+            <Answer1>le corps du pilote sera automatiquement plus droit lors de la descente.</Answer1>
+            <Answer2>il est moins probable que les suspentes du parapente et celles du parachute de secours
+                s'emmêlent.
+            </Answer2>
+            <Answer3>il faudra penser à se redresser avant l'atterrissage.</Answer3>
+            <Answer4>le parapente cessera automatiquement de voler, ce qui permettra une descente plus
+                calme.
+            </Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1899</ID>
+            <Number>95</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Pour assurer une position la plus verticale possible du corps du pilote, la liaison
+                entre le parachute de secours et la sellette doit se situer
+            </Question>
+            <Answer1>devant le pilote en position haute.</Answer1>
+            <Answer2>devant le pilote en position basse.</Answer2>
+            <Answer3>derrière le pilote en position basse.</Answer3>
+            <Answer4>derrière le pilote en position haute.</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1900</ID>
+            <Number>96</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>De quels matériaux sont composées les calottes des parachutes de secours courants?
+            </Question>
+            <Answer1>Polyester Ripstop</Answer1>
+            <Answer2>Polyamide (nylon) Ripstop</Answer2>
+            <Answer3>Polyester traité de mylar</Answer3>
+            <Answer4>Polyéthylène Ripstop</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1901</ID>
+            <Number>97</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>De quels matériaux sont composées les suspentes des parachutes de secours courants?
+            </Question>
+            <Answer1>Aramide (kevlar)</Answer1>
+            <Answer2>Polyéthylène (dyneema)</Answer2>
+            <Answer3>Polyamide (nylon)</Answer3>
+            <Answer4>Polyvinylchlorid (PVC)</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>2</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1902</ID>
+            <Number>98</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>À quelles exigences doit répondre un parachute de secours dans son ensemble?
+            </Question>
+            <Answer1>Extensibilité la plus réduite possible.</Answer1>
+            <Answer2>Résistance absolue au rayonnement UV.</Answer2>
+            <Answer3>Résistance et élasticité élevées dans un cadre clairement défini.</Answer3>
+            <Answer4>Porosité la plus réduite possible.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>2</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1904</ID>
+            <Number>99</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Les intervalles de pliage d’un parachute de secours influent surtout sur</Question>
+            <Answer1>la porosité du tissu.</Answer1>
+            <Answer2>le temps d'ouverture.</Answer2>
+            <Answer3>la résistance des différents éléments.</Answer3>
+            <Answer4>la propreté du parachute.</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1905</ID>
+            <Number>100</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Quels facteurs peuvent diminuer la longévité d'un parachute de secours?</Question>
+            <Answer1>Humidité et rayonnement UV.</Answer1>
+            <Answer2>Rayonnement UV et froid.</Answer2>
+            <Answer3>Froid et pliages fréquents.</Answer3>
+            <Answer4>Pliages fréquents et humidité.</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1907</ID>
+            <Number>101</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Quel élément du parachute de secours met le plus de temps à sécher après un
+                atterrissage dans l'eau?
+            </Question>
+            <Answer1>Le container externe.</Answer1>
+            <Answer2>La calotte.</Answer2>
+            <Answer3>Le container intérieur.</Answer3>
+            <Answer4>Les suspentes.</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1908</ID>
+            <Number>102</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Lors du processus d’homologation, les parachutes de secours doivent atteindre un taux
+                de chute de 5,5 m/s. Dans la pratique,
+            </Question>
+            <Answer1>ce taux est respecté sans problème.</Answer1>
+            <Answer2>les valeurs obtenues lors des tests n’ont pas d’importance.</Answer2>
+            <Answer3>cette valeur a pu être confirmée.</Answer3>
+            <Answer4>il faut souvent s’attendre à un taux de chute bien plus élevé.</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1909</ID>
+            <Number>103</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Lorsque le taux de chute maximal d’un parachute de secours homologué est indiqué à 5,5
+                m/s, il faut considérer que
+            </Question>
+            <Answer1>d’éventuelles turbulences dues au parapente ont été prises en compte.</Answer1>
+            <Answer2>les atterrissages d’urgence à haute altitude (faible densité de l’air) ont été pris en
+                compte.
+            </Answer2>
+            <Answer3>cette valeur a été obtenue dans des conditions artificielles et peut s’avérer bien plus
+                élevée dans la pratique.
+            </Answer3>
+            <Answer4>les valeurs obtenues lors des tests n’ont pas d’importance.</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1910</ID>
+            <Number>104</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Quel est le critère essentiel lors de l’achat d’un parachute de secours?</Question>
+            <Answer1>Une surface suffisamment grande.</Answer1>
+            <Answer2>Un poids réduit.</Answer2>
+            <Answer3>La construction du conteneur interne.</Answer3>
+            <Answer4>Un volume de pliage le plus petit possible.</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1911</ID>
+            <Number>105</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Quels facteurs peuvent raccourcir le temps d'ouverture du parachute de secours? 1.
+                Faible porosité du tissu, 2. Accrochage double, 3. Intervalles de pliage courts, 4. Vitesse
+                d'écoulement d'air élevée, 5. Poignée d’extraction facile à saisir.
+            </Question>
+            <Answer1>1, 2, 3, 4</Answer1>
+            <Answer2>2, 3, 4, 5</Answer2>
+            <Answer3>1, 3, 4, 5</Answer3>
+            <Answer4>1, 2, 4, 5</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1912</ID>
+            <Number>106</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Quels facteurs peuvent rallonger le temps d'ouverture du parachute de secours? 1.
+                Intervalles de pliage longs, 2. Accrochage double, 3. Points d’accrochage sur la sellette,
+                4. Charge électrostatique, 5. Sangle de liaison trop longue.
+            </Question>
+            <Answer1>1, 3, 4</Answer1>
+            <Answer2>2, 4, 5</Answer2>
+            <Answer3>1, 4, 5</Answer3>
+            <Answer4>1, 2, 3</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1913</ID>
+            <Number>107</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Lorsqu’un équipement de parapente est stocké dans le coffre d'une voiture, il peut
+                entrer en contact avec les liquides les plus variés ou leurs vapeurs. Lequel sera le moins
+                nuisible?
+            </Question>
+            <Answer1>Essence</Answer1>
+            <Answer2>Antigel pour le radiateur</Answer2>
+            <Answer3>Agent nettoyant pour le lave-vitres</Answer3>
+            <Answer4>Eau distillée pour la batterie de la voiture</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1914</ID>
+            <Number>108</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Quels rayons nuisent le plus à un parapente dans la pratique?</Question>
+            <Answer1>Les rayons infrarouges</Answer1>
+            <Answer2>Les rayons X</Answer2>
+            <Answer3>Les rayons ultraviolets</Answer3>
+            <Answer4>Les rayons gamma</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1915</ID>
+            <Number>109</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Lorsqu’on vole en parapente, les gants</Question>
+            <Answer1>ne doivent être portés que si cela est indispensable, car ils réduisent la sensibilité
+                du pilote à la position de freinage.
+            </Answer1>
+            <Answer2>doivent être portés uniquement en hiver et à haute altitude pour se protéger contre le
+                froid.
+            </Answer2>
+            <Answer3>doivent par principe toujours être portés pour protéger les mains des blessures.
+            </Answer3>
+            <Answer4>doivent être les plus fins possible afin de ne pas réduire inutilement la sensibilité
+                et de ne pas augmenter inutilement la traînée.
+            </Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1916</ID>
+            <Number>110</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Le casque protège la tête du pilote, surtout en cas</Question>
+            <Answer1>de chute lors du décollage ou de l'atterrissage.</Answer1>
+            <Answer2>de chute d'une grande altitude.</Answer2>
+            <Answer3>de collision avec un autre aéronef.</Answer3>
+            <Answer4>d'erreur de pilotage suivie d'un atterrissage sur la tête.</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1917</ID>
+            <Number>111</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Quel casque protège le mieux le pilote de blessures à la tête?</Question>
+            <Answer1>Casque pour cycliste</Answer1>
+            <Answer2>Casque d'alpiniste</Answer2>
+            <Answer3>Casque Jet</Answer3>
+            <Answer4>Casque intégral</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1918</ID>
+            <Number>112</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Pendant le vol, l'anémomètre mesure</Question>
+            <Answer1>la direction du vent.</Answer1>
+            <Answer2>la vitesse par rapport au sol.</Answer2>
+            <Answer3>la vitesse de dérive par rapport à la vitesse de déplacement.</Answer3>
+            <Answer4>la vitesse par rapport à l'air ambiant.</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1919</ID>
+            <Number>113</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>À quel endroit la sonde de mesure d'un badin assurera-t-elle la mesure la plus
+                fiable?
+            </Question>
+            <Answer1>Un mètre au-dessous du pied du pilote.</Answer1>
+            <Answer2>Sur la cuisse du pilote.</Answer2>
+            <Answer3>Sur les suspentes A à mi-hauteur entre le pilote et la calotte.</Answer3>
+            <Answer4>Sur l'élévateur avant.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>2</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1920</ID>
+            <Number>114</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Pendant le vol, le variomètre indique au pilote</Question>
+            <Answer1>la vitesse verticale.</Answer1>
+            <Answer2>la densité de l'air.</Answer2>
+            <Answer3>le rapport entre la vitesse verticale et la vitesse horizontale.</Answer3>
+            <Answer4>la vitesse horizontale.</Answer4>
+            <CorrectAnswered>2</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1921</ID>
+            <Number>115</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Le variomètre obtient ses informations en mesurant</Question>
+            <Answer1>la différence d'altitude.</Answer1>
+            <Answer2>la différence de pression.</Answer2>
+            <Answer3>la vitesse verticale.</Answer3>
+            <Answer4>la vitesse horizontale.</Answer4>
+            <CorrectAnswered>1</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1922</ID>
+            <Number>116</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>L'altimètre obtient ses informations en mesurant</Question>
+            <Answer1>l'altitude au-dessus du sol.</Answer1>
+            <Answer2>la pression atmosphérique.</Answer2>
+            <Answer3>la vitesse verticale.</Answer3>
+            <Answer4>le vent relatif.</Answer4>
+            <CorrectAnswered>1</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1923</ID>
+            <Number>117</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Une zone anticyclonique s'étend de l'Espagne en direction de l'Europe centrale. En
+                Suisse et dans l'après-midi, il faut s'attendre à ce que l'indication d'un altimètre calibré
+                le matin soit
+            </Question>
+            <Answer1>toujours correcte.</Answer1>
+            <Answer2>trop élevée.</Answer2>
+            <Answer3>trop élevée ou trop basse selon la température.</Answer3>
+            <Answer4>trop basse.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>1</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1924</ID>
+            <Number>118</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Au-dessus de l'Europe centrale, l’anticyclone s'atténue peu à peu. En Suisse et dans
+                l'après-midi, il faut s'attendre à ce que l'indication d'un altimètre calibré le matin soit
+            </Question>
+            <Answer1>toujours correcte.</Answer1>
+            <Answer2>trop élevée.</Answer2>
+            <Answer3>trop élevée ou trop basse selon la température.</Answer3>
+            <Answer4>trop basse.</Answer4>
+            <CorrectAnswered>1</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1925</ID>
+            <Number>119</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Une homologation EN correspond à</Question>
+            <Answer1>une vérification obligatoire de la navigabilité de chaque type de planeur de pente
+                vendu en Suisse, conformément à des directives d'homologation de la FSVL.
+            </Answer1>
+            <Answer2>une vérification obligatoire de la navigabilité de chaque planeur de pente vendu en
+                Suisse, conformément à des directives d'homologation de la FSVL.
+            </Answer2>
+            <Answer3>une vérification facultative de la navigabilité de chaque type de planeur de pente
+                vendu en Suisse, conformément à des normes européennes.
+            </Answer3>
+            <Answer4>une vérification facultative de la navigabilité de chaque planeur de pente vendu en
+                Suisse, conformément à des directives d'homologation de la FSVL.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>1</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1926</ID>
+            <Number>120</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Les normes selon lesquelles la FSVL reconnait un parapente comme homologué sont
+                déterminées par
+            </Question>
+            <Answer1>l'OFAC (Office fédéral de l'aviation civile)</Answer1>
+            <Answer2>le CEN (Comité Européen de Normalisation)</Answer2>
+            <Answer3>la FSVL (Fédération suisse de vol libre)</Answer3>
+            <Answer4>l'IHGA (International Hanggliding Association)</Answer4>
+            <CorrectAnswered>1</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1927</ID>
+            <Number>121</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>L'homologation d'un parapente conformément aux normes EN comprend</Question>
+            <Answer1>une ouverture en chute libre à partir d'un avion, le vol sur toute la plage de vitesse
+                et un test de charge permanente.
+            </Answer1>
+            <Answer2>un vol sur toute la plage de vitesse, un test de charge permanente (6 G) et l'exécution
+                de différentes manœuvres de vol.
+            </Answer2>
+            <Answer3>un test de charge permanente (8 G), l'exécution de différentes manœuvres de vol et une
+                ouverture sous charge (test de choc entre 800 à 1200 daN).
+            </Answer3>
+            <Answer4>l'exécution de différentes manœuvres de vol, une ouverture sous charge (test de choc à
+                150 daN) et le vol sur toute la plage de vitesse.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>1</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1929</ID>
+            <Number>122</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>En Suisse, voler avec une aile reconnue comme homologuée selon les normes EN est
+            </Question>
+            <Answer1>légalement obligatoire.</Answer1>
+            <Answer2>obligatoire pour les membres de la FSVL et vivement recommandé dans les autres cas.
+            </Answer2>
+            <Answer3>obligatoire pour les pilotes ayant souscrit une assurance responsabilité civile auprès
+                de la FSVL et vivement recommandé dans les autres cas.
+            </Answer3>
+            <Answer4>obligatoire pour les examens conformément aux directives de l'OFAC et vivement
+                recommandé dans les autres cas.
+            </Answer4>
+            <CorrectAnswered>1</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1930</ID>
+            <Number>123</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>L'homologation selon les normes EN équivaut à une déclaration concernant</Question>
+            <Answer1>la résistance de la structure et le comportement en vol d'un modèle spécifique de
+                parapente à l'état neuf.
+            </Answer1>
+            <Answer2>le comportement en vol et la construction conforme aux prescriptions de la FSVL d'un
+                modèle spécifique de parapente à l'état neuf.
+            </Answer2>
+            <Answer3>la construction conforme aux prescriptions de la FSVL quant au vieillissement d'un
+                modèle spécifique de parapente.
+            </Answer3>
+            <Answer4>la résistance de la structure et la longévité d'un modèle spécifique de parapente.
+            </Answer4>
+            <CorrectAnswered>1</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1931</ID>
+            <Number>124</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Les ailes non reconnues comme homologuées par la FSVL</Question>
+            <Answer1>supportent six fois la charge maximale prescrite par l'OFAC pour tous les aéronefs
+                civils, mais peuvent présenter des divergences considérables quant à leur comportement en
+                vol par rapport aux standards de sécurité habituels.
+            </Answer1>
+            <Answer2>ne se distinguent pas des ailes homologuées quant à leur comportement en vol, mais ont
+                généralement une capacité de charge réduite.
+            </Answer2>
+            <Answer3>peuvent présenter des divergences considérables par rapport aux normes de sécurité
+                imposées par l'homologation en termes de comportement en vol et de capacité de charge.
+            </Answer3>
+            <Answer4>sont pour l'essentiel conformes aux mêmes normes de sécurité prescrites par l'OFAC,
+                mais il n'y a pas de classification des différentes manœuvres de vol.
+            </Answer4>
+            <CorrectAnswered>1</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1933</ID>
+            <Number>125</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Qui décide à quel intervalle un parapente doit être contrôlé par le constructeur ou
+                son représentant?
+            </Question>
+            <Answer1>L'Office Fédéral de l’Aviation Civile (OFAC)</Answer1>
+            <Answer2>La Fédération Suisse de Vol Libre (FSVL)</Answer2>
+            <Answer3>Le constructeur</Answer3>
+            <Answer4>Le pilote</Answer4>
+            <CorrectAnswered>1</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+    </Questions>
+</Root>

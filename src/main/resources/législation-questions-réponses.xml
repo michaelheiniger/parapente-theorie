@@ -1,0 +1,2972 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Questions>
+        <Question>
+            <ID>1646</ID>
+            <Number>1</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Quelles sont les instances habilitées à légiférer en matière d'utilisation de l'espace
+                aérien suisse?
+            </Question>
+            <Answer1>Jusqu'à 600 m au-dessus du sol ou 900 m au-dessus du niveau de la mer, les communes;
+                passée cette limite, la Confédération.
+            </Answer1>
+            <Answer2>Jusqu'à 600 m au-dessus du sol ou 900 m au-dessus du niveau de la mer, les cantons;
+                passée cette limite, la Confédération.
+            </Answer2>
+            <Answer3>Jusqu'à FL 195 la FSVL; passée cette limite, l'Organisation de l'Aviation Civile
+                Internationale OACI.
+            </Answer3>
+            <Answer4>La Confédération exclusivement.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1647</ID>
+            <Number>2</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Quelle est l'organisation qui a été mandatée par le Conseil Fédéral pour exercer la
+                tutelle directe sur l'aviation civile?
+            </Question>
+            <Answer1>Le Département Aviation Civile de l'Aéro-Club de Suisse.</Answer1>
+            <Answer2>L'Office Fédéral de l'Aviation Civile (OFAC).</Answer2>
+            <Answer3>La section Aviation civile du Département militaire fédéral.</Answer3>
+            <Answer4>La police fédérale.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1648</ID>
+            <Number>3</Number>
+            <ImageID xsi:nil="true"/>
+            législation-questions-réponses
+            <Answer>2</Answer>
+            <Question>Quel est, entre autres, le texte de référence qui régit les aspects juridiques
+                relatifs au vol libre en Suisse?
+            </Question>
+            <Answer1>L'ordonnance sur des appareils volants déterminés (OAVD) du 6 septembre 1976, RS
+                748.941.
+            </Answer1>
+            <Answer2>L'ordonnance sur les aéronefs de catégories spéciales (OACS) du 24 novembre 1994, RS
+                748.941.
+            </Answer2>
+            <Answer3>L'ordonnance sur la navigation aérienne (ONA) du 14 novembre 1973, RS 748.01.</Answer3>
+            <Answer4>L'ordonnance sur les planeurs de pente (OPP) du 14 mars 1988, RS 748.941.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1649</ID>
+            <Number>4</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Comment le législateur définit-il le terme «planeur de pente»?</Question>
+            <Answer1>Des appareils volants non motorisés avec une charge alaire inférieure à 20 kg/m².
+            </Answer1>
+            <Answer2>Des appareils volants qui se prêtent au départ au pas de course et qui, immédiatement
+                après le départ, sont utilisés pour effectuer des vols de pente ou des vols planés.
+            </Answer2>
+            <Answer3>Des appareils volants non motorisés qui se prêtent au vol de pente ou au vol plané avec
+                une vitesse de vol minimale inférieure à 30 km/h.
+            </Answer3>
+            <Answer4>Des appareils volants qui se prêtent au décollage d'une pente au pas de course.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1650</ID>
+            <Number>5</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Les planeurs de pente</Question>
+            <Answer1>sont inscrits au registre des planeurs de pente de la FSVL. Une liste actualisée est
+                disponible auprès de la FSVL.
+            </Answer1>
+            <Answer2>sont inscrits au registre fédéral des aéronefs de l’aviation civile dès lors que la
+                FSVL les reconnait comme homologués.
+            </Answer2>
+            <Answer3>sont inscrits au registre fédéral des aéronefs de l’aviation civile dès lors que l’OFAC
+                les reconnait comme homologués.
+            </Answer3>
+            <Answer4>ne sont pas inscrits au registre fédéral des aéronefs de l'aviation civile.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1651</ID>
+            <Number>6</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Conformément à l’ordonnance sur les aéronefs de catégories spéciales (OACS), la
+                navigabilité aérienne d’un planeur de pente
+            </Question>
+            <Answer1>doit faire l'objet d'un examen par l'Office Fédéral de l'Aviation Civile (OFAC).
+            </Answer1>
+            <Answer2>doit faire l'objet d'un examen par la Fédération Suisse de Vol libre (FSVL).</Answer2>
+            <Answer3>ne doit pas faire l'objet d'un examen par une instance.</Answer3>
+            <Answer4>doit être garantie par le constructeur.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1652</ID>
+            <Number>7</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Qui endosse en premier lieu la responsabilité quant à la navigabilité aérienne d’un
+                planeur de pente?
+            </Question>
+            <Answer1>Le pilote du planeur de pente.</Answer1>
+            <Answer2>L’Office Fédéral de l’Aviation Civile (OFAC).</Answer2>
+            <Answer3>Le service d’homologation des ailes de la FSVL.</Answer3>
+            <Answer4>Le constructeur du planeur de pente.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1653</ID>
+            <Number>8</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Emporter un parachute de secours lors d’un vol en planeur de pente</Question>
+            <Answer1>est exigé par la loi.</Answer1>
+            <Answer2>est exigé par la loi pour les grands vols au cours de la formation.</Answer2>
+            <Answer3>est exigé par la loi lors des vols de l’examen pratique.</Answer3>
+            <Answer4>n’est pas exigé par la loi.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1654</ID>
+            <Number>9</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Le port d’un casque lors d’un vol en planeur de pente</Question>
+            <Answer1>est d’une manière générale exigé par la loi.</Answer1>
+            <Answer2>est uniquement exigé par la loi pour les participants à l’examen pratique de planeur de
+                pente.
+            </Answer2>
+            <Answer3>est uniquement exigé par la loi pour tous les vols au cours de la formation.</Answer3>
+            <Answer4>est uniquement exigé par la loi pour les planeurs de pente catégorie delta.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1655</ID>
+            <Number>10</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Quel type d’assurance est exigé par la loi lors de vols en planeur de pente?
+            </Question>
+            <Answer1>Une assurance accidents.</Answer1>
+            <Answer2>Une assurance responsabilité civile planeurs de pente.</Answer2>
+            <Answer3>Une assurance responsabilité civile privée.</Answer3>
+            <Answer4>Une assurance contre le vol.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1656</ID>
+            <Number>11</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Le vol en planeur de pente n’est autorisé que lorsque l’assurance responsabilité
+                civile contractée couvre
+            </Question>
+            <Answer1>les dommages pouvant être occasionnés sur les autres aéronefs dans les airs.</Answer1>
+            <Answer2>les dommages corporels dont peuvent être victimes les utilisateurs de planeurs de pente
+                pendant le vol.
+            </Answer2>
+            <Answer3>les dommages dont peuvent être victimes au sol des tiers non impliqués.</Answer3>
+            <Answer4>les dommages dont peuvent être victimes au sol et dans les airs des tiers non
+                impliqués.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1657</ID>
+            <Number>12</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Quelle somme de garantie minimale l’assurance responsabilité civile doit-elle couvrir
+                selon la loi pour la pratique du vol libre?
+            </Question>
+            <Answer1>CHF 2'000'000</Answer1>
+            <Answer2>CHF 1'500'000</Answer2>
+            <Answer3>CHF 1'000'000</Answer3>
+            <Answer4>CHF 500'000</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1658</ID>
+            <Number>13</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Qui paie la différence quand le montant d’un dommage est supérieur à celui de la
+                garantie de l’assurance contractée?
+            </Question>
+            <Answer1>La compagnie d'assurance.</Answer1>
+            <Answer2>La Fédération Suisse de Vol Libre (FSVL).</Answer2>
+            <Answer3>Le responsable du dommage.</Answer3>
+            <Answer4>La victime du dommage.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1659</ID>
+            <Number>161</Number>
+            <ImageID>75</ImageID>
+            <Answer>3</Answer>
+            <Question>Quand tu voles dans un espace aérien marqué de ce tag, à partir de quelle altitude la
+                liaison radio est-elle obligatoire?
+            </Question>
+            <Answer1>Au-dessus de 200 m/sol.</Answer1>
+            <Answer2>Au-dessus de 1600 m/mer.</Answer2>
+            <Answer3>Au-dessus de 1750 m/mer.</Answer3>
+            <Answer4>Au-dessus de 3050 m/mer.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1660</ID>
+            <Number>14</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>En Suisse, chaque planeur de pente doit porter les inscriptions suivantes:</Question>
+            <Answer1>Plaquette d’homologation FSVL, numéro d’identification attribué par la FSVL.</Answer1>
+            <Answer2>Numéro d’identification attribué par la FSVL, nom et adresse du propriétaire.</Answer2>
+            <Answer3>Plaquette constructeur, plaquette d’homologation FSVL.</Answer3>
+            <Answer4>Numéro d’identification attribué par la FSVL, plaquette constructeur.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1661</ID>
+            <Number>15</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Selon l’art. 11a de l’ordonnance sur les marques distinctives des aéronefs (OMDA) du 6
+                septembre 1984, tous les planeurs de pente doivent entre autres porter la marque
+                d’identification suivante:
+            </Question>
+            <Answer1>un numéro composé au maximum de 5 chiffres, apposé sur l’intrados et facilement
+                reconnaissable.
+            </Answer1>
+            <Answer2>un numéro composé au maximum de 5 chiffres, apposé sur l’extrados et facilement
+                reconnaissable.
+            </Answer2>
+            <Answer3>un numéro composé au maximum de 5 chiffres, apposé sur l’intrados et l’extrados et
+                facilement reconnaissable.
+            </Answer3>
+            <Answer4>un numéro composé au maximum de 5 chiffres, apposé sur l’intrados ou sur l’extrados et
+                facilement reconnaissable.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1662</ID>
+            <Number>16</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Qui attribue les marques distinctives (numéros) des planeurs de pente?</Question>
+            <Answer1>La Fédération Suisse de Vol Libre (FSVL).</Answer1>
+            <Answer2>L'Office Fédéral de l'Aviation Civile (OFAC).</Answer2>
+            <Answer3>L'entreprise qui vend l'assurance responsable civile obligatoire.</Answer3>
+            <Answer4>Les moniteurs de vol.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1663</ID>
+            <Number>17</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Quelle doit être la hauteur des chiffres du numéro d’identification d’un planeur de
+                pente selon l’art. 11a de l’ordonnance sur les marques distinctives des aéronefs (OMDA) du 6
+                septembre 1984?
+            </Question>
+            <Answer1>Il n’y a pas de prescriptions légales à ce sujet.</Answer1>
+            <Answer2>30 cm</Answer2>
+            <Answer3>40 cm</Answer3>
+            <Answer4>50 cm</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1664</ID>
+            <Number>18</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Un pilote possède plusieurs planeurs de pente. Comment doit-il les identifier?
+            </Question>
+            <Answer1>Chaque aile doit avoir son propre numéro d'identification.</Answer1>
+            <Answer2>Toutes les ailes portent le même numéro d’identification.</Answer2>
+            <Answer3>Il faut ajouter une lettre majuscule, qui permet la distinction des ailes.</Answer3>
+            <Answer4>Il suffit qu’une aile porte le numéro d’identification, les autres peuvent voler sans
+                numéro.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1665</ID>
+            <Number>162</Number>
+            <ImageID>76</ImageID>
+            <Answer>1</Answer>
+            <Question>Quelles sont les limites inférieures et supérieures de l’espace aérien marqué de ce
+                tag?
+            </Question>
+            <Answer1>Limite inférieure 2050 m/mer, limite supérieure 3950 m/mer en atmosphère standard.
+            </Answer1>
+            <Answer2>Limite inférieure 2050 m/sol, limite supérieure 3950 m/mer en atmosphère standard.
+            </Answer2>
+            <Answer3>Limite inférieure 2050 m/mer en atmosphère standard, limite supérieure 3950 m/mer en
+                atmosphère standard.
+            </Answer3>
+            <Answer4>Limite inférieure 2050 m/sol, limite supérieure 3950 m/mer.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1666</ID>
+            <Number>19</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Selon l’art. 11a de l’ordonnance sur les marques distinctives des aéronefs (OMDA) du 6
+                septembre 1984, les planeurs de pente doivent porter une plaquette bien visible sur laquelle
+                sont indiqués:
+            </Question>
+            <Answer1>le nom du constructeur, le type, le numéro de série, la charge minimale et maximale
+                déterminée par le constructeur.
+            </Answer1>
+            <Answer2>le nom du constructeur, le type, l'année de fabrication, la charge minimale et maximale
+                déterminée par le constructeur.
+            </Answer2>
+            <Answer3>le nom du constructeur, le type, l'année de fabrication, la catégorie d'homologation
+                FSVL.
+            </Answer3>
+            <Answer4>le nom du constructeur, le numéro de série, la catégorie d'homologation, la charge
+                minimale et maximale déterminée par le constructeur.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1667</ID>
+            <Number>20</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Conformément à la loi, l’identification d’un planeur de pente</Question>
+            <Answer1>est obligatoire pour tous les détenteurs d'un brevet de pilote de planeur de pente.
+            </Answer1>
+            <Answer2>est obligatoire pour tout utilisateur de l'espace aérien suisse.</Answer2>
+            <Answer3>est uniquement obligatoire dans le cadre des examens organisés par la FSVL.</Answer3>
+            <Answer4>n’est obligatoire que pour les membres de la FSVL.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1668</ID>
+            <Number>21</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>L'âge minimum pour l'obtention de la licence officielle de vol libre est de</Question>
+            <Answer1>12 ans.</Answer1>
+            <Answer2>14 ans.</Answer2>
+            <Answer3>16 ans.</Answer3>
+            <Answer4>18 ans.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1669</ID>
+            <Number>22</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Que signifie le sigle «HX»?</Question>
+            <Answer1>Activé en permanence.</Answer1>
+            <Answer2>Activation via DABS/Notam.</Answer2>
+            <Answer3>Aucune de ces réponses n’est correcte.</Answer3>
+            <Answer4>Pas d’horaires d’activité fixes, activation possible à tout moment.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1670</ID>
+            <Number>23</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Quelles personnes peuvent occasionnellement voler en planeur de pente de manière
+                autonome dans l’espace aérien suisse sans pour autant posséder le brevet officiel de planeur
+                de pente suisse?
+            </Question>
+            <Answer1>Les pilotes de planeur de pente en possession d’un brevet étranger équivalent.
+            </Answer1>
+            <Answer2>Les pilotes de planeur de pente domiciliés à l’étranger et en possession d’un brevet
+                étranger équivalent.
+            </Answer2>
+            <Answer3>Les pilotes de planeur de pente domiciliés à l’étranger et en possession d’une licence
+                APPI.
+            </Answer3>
+            <Answer4>Les pilotes de planeur de pente , domiciliés à l’étranger et en possession d’une
+                licence de compétition FAI internationale.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1671</ID>
+            <Number>24</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Les vols d'instruction ne doivent avoir lieu que sous la surveillance directe d'une
+                personne
+            </Question>
+            <Answer1>titulaire depuis au moins trois ans de la licence officielle de pilote de planeur de
+                pente.
+            </Answer1>
+            <Answer2>titulaire d’une licence d’instructeur officielle et valide.</Answer2>
+            <Answer3>mandatée par une personne titulaire d’une licence officielle d’instructeur.</Answer3>
+            <Answer4>employée par une école de vol libre.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1672</ID>
+            <Number>25</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Avant l’examen de pilote de planeur de pente, les vols d’entraînement</Question>
+            <Answer1>peuvent avoir lieu sans être sous la surveillance directe d’une tierce personne.
+            </Answer1>
+            <Answer2>ne devraient avoir lieu que sous la surveillance d’un pilote expérimenté.</Answer2>
+            <Answer3>ne peuvent avoir lieu que sous la surveillance effective d’un instructeur de vol libre
+                titulaire d'une licence suisse valide.
+            </Answer3>
+            <Answer4>ne sont possibles que pour les membres de la FSVL.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1673</ID>
+            <Number>26</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Les vols avec un passager (vols en biplace) ne peuvent être effectués que par des
+                personnes
+            </Question>
+            <Answer1>titulaires de la licence officielle de pilote de planeur de pente depuis trois ans au
+                moins.
+            </Answer1>
+            <Answer2>titulaires de la licence officielle d'instructeur de vol libre.</Answer2>
+            <Answer3>titulaires du brevet officiel correspondant.</Answer3>
+            <Answer4>titulaires d'une autorisation spéciale de l'OFAC.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1674</ID>
+            <Number>27</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Les vols commerciaux avec un passager n’ayant aucune connaissance dans le domaine du
+                vol libre
+            </Question>
+            <Answer1>peuvent, d’une manière générale, être effectués par tout pilote de planeur de pente
+                expérimenté. La FSVL recommande toutefois expressément aux pilotes de suivre un stage de
+                formation spécialisée.
+            </Answer1>
+            <Answer2>restent réservés aux pilotes titulaires de la licence de pilote Biplace 1.</Answer2>
+            <Answer3>restent réservés aux pilotes titulaires de la licence de pilote Biplace 2.</Answer3>
+            <Answer4>restent réservés aux pilotes titulaires de la licence de pilote Biplace 3.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1675</ID>
+            <Number>28</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>La licence de pilote Biplace 1 permet d’effectuer des vols</Question>
+            <Answer1>non rémunérés avec des passagers.</Answer1>
+            <Answer2>avec des pilotes de planeur de pente licenciés dans la même catégorie, ainsi qu’avec
+                des élèves sous la surveillance d’un instructeur de vol libre.
+            </Answer2>
+            <Answer3>rémunérés avec des passagers dans un cadre commercial.</Answer3>
+            <Answer4>rémunérés avec des passagers dans un cadre non commercial.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1676</ID>
+            <Number>29</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>La licence de pilote Biplace 2 permet d’effectuer des vols</Question>
+            <Answer1>non rémunérés avec des passagers.</Answer1>
+            <Answer2>avec deux passagers.</Answer2>
+            <Answer3>rémunérés avec des passagers dans un cadre commercial.</Answer3>
+            <Answer4>rémunérés avec des passagers dans un cadre non commercial.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1677</ID>
+            <Number>30</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Le programme des examens destinés à l'obtention des licences</Question>
+            <Answer1>est déterminé dans les directives de la FSVL homologuées par l'Office Fédéral de
+                l'Aviation Civile (OFAC).
+            </Answer1>
+            <Answer2>est exclusivement défini par la Fédération Suisse de Vol Libre (FSVL).</Answer2>
+            <Answer3>est défini par les experts reconnus par l'OFAC.</Answer3>
+            <Answer4>a reçu l'aval de l'organisation de l'Aviation Civile Internationale (OACI).</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1678</ID>
+            <Number>31</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Qui a le droit de réglementer les décollages et atterrissages de planeurs de pente,
+                voire de les interdire?
+            </Question>
+            <Answer1>Exclusivement la Confédération.</Answer1>
+            <Answer2>La Confédération et les cantons.</Answer2>
+            <Answer3>La Confédération, les cantons et les communes.</Answer3>
+            <Answer4>La Confédération, les cantons, les communes et les propriétaires de terrains privés.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1679</ID>
+            <Number>32</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Quels sont les horaires de vol militaire (MIL-ON) habituels?</Question>
+            <Answer1>LUN-VEN 7 h 15 à 12 h 05 et 13 h 15 à 17 h 05 LT.</Answer1>
+            <Answer2>LUN-VEN 7 h 30 à 12 h 05 et 13 h 15 à 17 h 05 LT.</Answer2>
+            <Answer3>LUN-VEN 7 h 15 à 12 h 05 et 13 h 15 à 17 h 05 UTC.</Answer3>
+            <Answer4>LUN-VEN 7 h 30 à 12 h 05 et 13 h 15 à 17 h 05 UTC.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1680</ID>
+            <Number>33</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Quelle est la différence entre les LS-R rouges et vertes?</Question>
+            <Answer1>Il n’y a pas de différence, il est interdit d’entrer dans une LS-R.</Answer1>
+            <Answer2>L’entrée dans une LS-R verte est toujours autorisée et toujours interdite dans une LS-R
+                rouge.
+            </Answer2>
+            <Answer3>Selon l’état d’activation et les conditions d’utilisation, il est interdit d’entrer
+                dans les LS-R rouges tandis que les LS-R vertes offrent une plus grande flexibilité.
+            </Answer3>
+            <Answer4>Selon l’état d’activation et les conditions d’utilisation, il est interdit d’entrer
+                dans les LS-R rouges tandis qu’il est toujours interdit d’entrer dans une LS-R verte.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1681</ID>
+            <Number>34</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>De mars au 31 octobre, une LS-R for Gliders avec la mention «MA» est</Question>
+            <Answer1>active en permanence.</Answer1>
+            <Answer2>active uniquement le matin.</Answer2>
+            <Answer3>active en cas de MIL-OFF, inactive en cas de MIL-ON.</Answer3>
+            <Answer4>active en cas de MIL-OFF. En cas de MIL-ON, elle peut être activée sur demande auprès
+                de l’office correspondant.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1682</ID>
+            <Number>35</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Les rassemblements de personnes en plein air, les bâtiments, les voies publiques et
+                les pistes de ski, les installations de transport public, les lignes électriques aériennes
+                et autres câbles aériens,
+            </Question>
+            <Answer1>doivent être survolés ou contournés à une distance de 60 m minimum.</Answer1>
+            <Answer2>doivent être survolés ou contournés à une distance de 300 m minimum.</Answer2>
+            <Answer3>n’ont pas le droit d’être survolés, ils doivent être contournés.</Answer3>
+            <Answer4>doivent être survolés ou contournés à une distance suffisante pour assurer la
+                sécurité.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1683</ID>
+            <Number>36</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>À condition de ne transporter aucune marchandise et d’avoir sur soi les documents
+                nécessaires au passage de la frontière, un libériste
+            </Question>
+            <Answer1>peut franchir en vol les frontières nationales et douanières sans aucune restriction.
+            </Answer1>
+            <Answer2>est autorisé à entrer dans l’espace aérien suisse ou à le quitter conformément à
+                l’OACS. Le droit étranger doit être respecté.
+            </Answer2>
+            <Answer3>est autorisé à franchir en vol les frontières nationales et douanières après en avoir
+                averti l’Administration fédérale des douanes à Berne.
+            </Answer3>
+            <Answer4>est autorisé à franchir en vol les frontières nationales et douanières s’il est
+                titulaire d’une licence de compétition.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1684</ID>
+            <Number>37</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Les décollages et atterrissages sur les eaux publiques</Question>
+            <Answer1>doivent faire l'objet d'une autorisation préalable de l'administration cantonale de la
+                navigation.
+            </Answer1>
+            <Answer2>sont interdits.</Answer2>
+            <Answer3>sont autorisés sans aucune restriction à condition d'avoir l'équipement nécessaire.
+            </Answer3>
+            <Answer4>doivent faire l'objet d'une autorisation préalable de l'Office Fédéral de l'Aviation
+                Civile (OFAC).
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1685</ID>
+            <Number>38</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Le remorquage de planeurs de pente avec des treuils ou des véhicules</Question>
+            <Answer1>est interdit.</Answer1>
+            <Answer2>doit faire l'objet de l'autorisation préalable des autorités cantonales.</Answer2>
+            <Answer3>est autorisé jusqu’à 150 m/sol et interdit au-delà.</Answer3>
+            <Answer4>est autorisé jusqu’à 150 m/sol; au-delà, il est soumis à une autorisation préalable de
+                l’Office Fédéral de l’Aviation Civile (OFAC).
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1686</ID>
+            <Number>39</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Quelle distance horizontale minimale doit être respectée par rapport aux pistes d’un
+                aérodrome civil destiné aux avions sans zone de contrôle (CTR) et aux aérodromes avec CTR
+                lorsque cette dernière est inactive? (jusqu'à 600m au-dessus de l'aérodrome)
+            </Question>
+            <Answer1>2,5 km.</Answer1>
+            <Answer2>5 km.</Answer2>
+            <Answer3>8 km.</Answer3>
+            <Answer4>10 km.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1687</ID>
+            <Number>40</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Quelle distance horizontale minimale doit être respectée par rapport aux pistes d’un
+                aérodrome militaire destiné aux avions sans zone de contrôle (CTR) et aux aérodromes avec
+                CTR lorsque cette dernière est inactive? (jusqu'à 600m au-dessus de l'aérodrome)
+            </Question>
+            <Answer1>2,5 km, mais uniquement pendant les horaires de vol militaire.</Answer1>
+            <Answer2>5 km, mais uniquement pendant les horaires de vol militaire.</Answer2>
+            <Answer3>2,5 km à tout moment.</Answer3>
+            <Answer4>5 km à tout moment.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1688</ID>
+            <Number>41</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>L’utilisation de planeurs de pente est interdite à une distance inférieure à
+            </Question>
+            <Answer1>2.5 km d'un héliport (jusqu'à 300m au-dessus de l'héliport).</Answer1>
+            <Answer2>5 km d'un héliport (jusqu'à 300m au-dessus de l'héliport).</Answer2>
+            <Answer3>2,5 km d'un héliport (jusqu'à 600m au-dessus de l'héliport).</Answer3>
+            <Answer4>5 km d'un héliport (jusqu'à 600m au-dessus de l'héliport).</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1689</ID>
+            <Number>42</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Jusqu’à quelle altitude la distance minimale par rapport aux aérodromes et aux
+                héliports doit-elle être respectée, conformément à l’OACS?
+            </Question>
+            <Answer1>300 m au-dessus du point de référence de l’aérodrome.</Answer1>
+            <Answer2>600 m au-dessus du point de référence de l’aérodrome.</Answer2>
+            <Answer3>300 m/sol.</Answer3>
+            <Answer4>600 m/sol.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1690</ID>
+            <Number>43</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Dans quelles conditions un atterrissage en planeur de pente est-il légalement autorisé
+                sur une piste destinée aux avions à voilure fixe?
+            </Question>
+            <Answer1>Jamais.</Answer1>
+            <Answer2>Avec l’autorisation du chef d’aérodrome.</Answer2>
+            <Answer3>Quand, lors d’un vol de distance, des témoins de l’atterrissage s’avèrent
+                indispensables.
+            </Answer3>
+            <Answer4>Quand aucun avion ne se trouve en approche et que la piste est libre.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1691</ID>
+            <Number>44</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>À quel intervalle les pilotes de planeur de pente, hommes ou femmes, doivent-ils se
+                soumettre à une visite médicale?
+            </Question>
+            <Answer1>Il n'existe aucune disposition légale dans ce domaine.</Answer1>
+            <Answer2>Tous les 4 ans pour les pilotes âgés de moins de 40 ans, tous les 2 ans pour les
+                pilotes âgés de plus de 40 ans.
+            </Answer2>
+            <Answer3>Tous les 4 ans pour un contrôle de la vue et de l'ouïe.</Answer3>
+            <Answer4>Tous les 5 ans.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1692</ID>
+            <Number>45</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Combien de vols le détenteur d’une licence de planeur de pente doit-il effectuer au
+                minimum chaque année afin que la licence n’expire pas?
+            </Question>
+            <Answer1>40</Answer1>
+            <Answer2>30</Answer2>
+            <Answer3>20</Answer3>
+            <Answer4>Il n’existe aucune règle à ce sujet.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1693</ID>
+            <Number>46</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Quelle est la durée de validité d’une licence de pilote de parapente?</Question>
+            <Answer1>Toutes catégories: illimitée.</Answer1>
+            <Answer2>Catégories Pilote, Biplace 1 et Biplace 2: illimitée. Catégories Biplace 3 et
+                instructeur: 3 ans
+            </Answer2>
+            <Answer3>Catégories Pilote, Biplace 1 et Biplace 2: illimitée. Catégories Biplace 3 et
+                instructeur: 5 ans
+            </Answer3>
+            <Answer4>Toutes catégories: 3 ans.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1694</ID>
+            <Number>47</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Un pilote de planeur de pente est-il tenu d’inscrire les vols qu’il effectue dans son
+                carnet de vol?
+            </Question>
+            <Answer1>Oui, mais seulement jusqu'à concurrence du nombre minimum requis chaque année pour
+                prolonger la validité de sa licence.
+            </Answer1>
+            <Answer2>Oui.</Answer2>
+            <Answer3>Non.</Answer3>
+            <Answer4>Uniquement les 500 premiers vols.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1695</ID>
+            <Number>48</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Les vols en planeur de pente avec plus d'un passager sont-ils autorisés en Suisse?
+            </Question>
+            <Answer1>Non.</Answer1>
+            <Answer2>Oui, pour les titulaires d’une licence correspondante.</Answer2>
+            <Answer3>Oui, si le planeur de pente est équipé d’un système d’accrochage adapté et que la
+                charge maximale prévue n’est pas dépassée.
+            </Answer3>
+            <Answer4>Oui, 3 au maximum.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1696</ID>
+            <Number>49</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Quelle fréquence radio est spécialement réservée à la formation des pilotes?
+            </Question>
+            <Answer1>130.930 MHz</Answer1>
+            <Answer2>122.955 MHz</Answer2>
+            <Answer3>123.430 MHz</Answer3>
+            <Answer4>124.855 MHz</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1697</ID>
+            <Number>50</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Quelle fréquence radio est spécialement réservée à la communication entre pilotes en
+                vol?
+            </Question>
+            <Answer1>130.930 MHz</Answer1>
+            <Answer2>122.955 MHz</Answer2>
+            <Answer3>123.430 MHz</Answer3>
+            <Answer4>124.855 MHz</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1698</ID>
+            <Number>51</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>De quel document faut-il disposer pour pouvoir utiliser la fréquence de 130.930 MHz?
+            </Question>
+            <Answer1>Un brevet d’instructeur de vol.</Answer1>
+            <Answer2>Un brevet de radiophonie.</Answer2>
+            <Answer3>Un brevet de radiotéléphoniste de bord.</Answer3>
+            <Answer4>Aucune formation particulière n’est nécessaire.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1699</ID>
+            <Number>52</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>L’abréviation «OACI» signifie</Question>
+            <Answer1>Département Fédéral des transports, des communications et de l'énergie.</Answer1>
+            <Answer2>Organisation de l'Aviation Civile Internationale.</Answer2>
+            <Answer3>Office Fédéral de l'Aviation Civile.</Answer3>
+            <Answer4>Fédération Suisse de Vol Libre.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1700</ID>
+            <Number>53</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>L’abréviation «OFAC» signifie</Question>
+            <Answer1>Département Fédéral des transports, des communications et de l'énergie.</Answer1>
+            <Answer2>Organisation de l'Aviation Civile Internationale.</Answer2>
+            <Answer3>Office Fédéral de l'Aviation Civile.</Answer3>
+            <Answer4>Fédération Suisse de Vol Libre.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1701</ID>
+            <Number>54</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Traduit de l'anglais l'abréviation "AIP" signifie</Question>
+            <Answer1>Bureau de coordination pour les tirs et la sécurité de la navigation aérienne.
+            </Answer1>
+            <Answer2>Manuel aéronautique suisse.</Answer2>
+            <Answer3>Avis aux utilisateurs de l'espace aérien.</Answer3>
+            <Answer4>Carte de vol à voile.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1702</ID>
+            <Number>55</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>L’AIP</Question>
+            <Answer1>contient les données actualisées concernant le lieu et les horaires des tirs militaires
+                et des restrictions en découlant et paraît tous les jours.
+            </Answer1>
+            <Answer2>contient des informations générales destinées aux utilisateurs de l’espace aérien
+                suisse.
+            </Answer2>
+            <Answer3>est un résumé hebdomadaire de toutes les informations concernant le vol à vue.
+            </Answer3>
+            <Answer4>est une carte topographique contenant des informations sur l'étendue des différentes
+                catégories de l'espace aérien, sur les zones dangereuses et réglementées, sur les obstacles
+                aériens, sur les zones de vol à voile (LS-R for Gliders) et sur les horaires des vols
+                militaires.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1703</ID>
+            <Number>56</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>L’abréviation «GLDC» signifie</Question>
+            <Answer1>Bureau de coordination pour les tirs et la sécurité de la navigation aérienne.
+            </Answer1>
+            <Answer2>Publication d'informations aéronautiques.</Answer2>
+            <Answer3>Avis aux utilisateurs de l'espace aérien.</Answer3>
+            <Answer4>Carte de vol à voile.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1704</ID>
+            <Number>57</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>La GLDC</Question>
+            <Answer1>contient les données actualisées concernant le lieu et les horaires des tirs militaires
+                et des restrictions en découlant et paraît tous les jours.
+            </Answer1>
+            <Answer2>contient des informations générales destinées aux utilisateurs de l’espace aérien
+                suisse.
+            </Answer2>
+            <Answer3>est un résumé hebdomadaire de toutes les informations publiées au sujet du vol à vue.
+            </Answer3>
+            <Answer4>est une carte topographique contenant des informations sur l'étendue des différentes
+                catégories de l'espace aérien, sur les zones dangereuses et réglementées, sur les obstacles
+                aériens, sur les zones de vol à voile (LS-R for Gliders) et sur les horaires des vols
+                militaires.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1705</ID>
+            <Number>58</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>L’abréviation «NOTAM» signifie</Question>
+            <Answer1>Bureau de coordination pour les tirs et la sécurité de la navigation aérienne.
+            </Answer1>
+            <Answer2>Publication d'informations aéronautiques.</Answer2>
+            <Answer3>Avis pour les utilisateurs de l'espace aérien.</Answer3>
+            <Answer4>Carte de vol à voile.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1706</ID>
+            <Number>59</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Le bulletin NOTAM</Question>
+            <Answer1>contient les données actualisées concernant le lieu et les horaires des tirs militaires
+                et des restrictions en découlant et paraît tous les jours.
+            </Answer1>
+            <Answer2>contient des informations générales destinées aux utilisateurs de l’espace aérien
+                suisse.
+            </Answer2>
+            <Answer3>est un résumé journalier de toutes les informations publiées au sujet du vol à vue.
+            </Answer3>
+            <Answer4>est une carte topographique contenant des informations sur l'étendue des différentes
+                catégories de l'espace aérien, sur les zones dangereuses et réglementées, sur les obstacles
+                aériens, sur les zones de vol à voile (LS-R for Gliders) et sur les horaires des vols
+                militaires.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1707</ID>
+            <Number>60</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>L’abréviation «DABS» signifie</Question>
+            <Answer1>«Daily Airspace Bulletin Switzerland», une publication aéronautique officielle de
+                Suisse qui présente le statut actuel de l’espace aérien.
+            </Answer1>
+            <Answer2>Publication d'informations aéronautiques.</Answer2>
+            <Answer3>Avis aux utilisateurs de l'espace aérien.</Answer3>
+            <Answer4>Carte de vol à voile.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1708</ID>
+            <Number>61</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Le DABS</Question>
+            <Answer1>contient les données actualisées concernant les dangers et les restrictions de l’espace
+                aérien suisse, activation des TMA et CTR temporaires incl.
+            </Answer1>
+            <Answer2>contient des informations générales destinées aux utilisateurs de l’espace aérien
+                suisse.
+            </Answer2>
+            <Answer3>est un résumé hebdomadaire de toutes les informations publiées au sujet du vol à vue.
+            </Answer3>
+            <Answer4>est une carte topographique contenant des informations sur l'étendue des différentes
+                catégories de l'espace aérien, sur les zones dangereuses et réglementées, sur les obstacles
+                aériens, sur les zones de vol à voile (LS-R for Gliders) et sur les horaires des vols
+                militaires.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1709</ID>
+            <Number>62</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>L’abréviation «IFR» signifie</Question>
+            <Answer1>International Flight Rules (Règles internationales de vol.)</Answer1>
+            <Answer2>Instrument Flight Region (Région de vol aux instruments).</Answer2>
+            <Answer3>Instrument Flight Rules (Règles de vol aux instruments).</Answer3>
+            <Answer4>International Flight Region (Région de vol internationale).</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1710</ID>
+            <Number>63</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>L’abréviation «VFR» signifie</Question>
+            <Answer1>Visual Flight Rules (Règles de vol à vue).</Answer1>
+            <Answer2>Variabel Flight Region (Région de vol variable).</Answer2>
+            <Answer3>Variabel Flight Rules (Règles de vol variables).</Answer3>
+            <Answer4>Visual Flight Region (Région de vol à vue).</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1711</ID>
+            <Number>64</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Les vols IFR</Question>
+            <Answer1>sont réservés aux aéronefs disposant de l’équipement et des homologations
+                nécessaires.
+            </Answer1>
+            <Answer2>sont des vols effectués dès que la visibilité passe sous un certain seuil minimum, si
+                bien que le pilote devient tributaire de ses instruments.
+            </Answer2>
+            <Answer3>sont exclusivement effectués à un niveau supérieur à FL 195.</Answer3>
+            <Answer4>sont possibles quand un planeur de pente est équipé d'une boussole, d'un altimètre et
+                d'une radio.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1712</ID>
+            <Number>65</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Les vols VFR</Question>
+            <Answer1>sont réservés aux aéronefs disposant de l’équipement nécessaire.</Answer1>
+            <Answer2>sont exclusivement effectués à un niveau inférieur à FL 195.</Answer2>
+            <Answer3>sont les seuls types de vols autorisés avec un planeur de pente.</Answer3>
+            <Answer4>sont possibles quand un planeur de pente est équipé d'une boussole, d'un altimètre et
+                d'une radio.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1713</ID>
+            <Number>66</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Les planeurs de pente volent</Question>
+            <Answer1>dans des conditions de vol IFR ou VFR selon la visibilité.</Answer1>
+            <Answer2>exclusivement dans des conditions de vol IFR.</Answer2>
+            <Answer3>exclusivement dans des conditions de vol VFR.</Answer3>
+            <Answer4>dans des conditions de vol ni IFR ni VFR puisqu’elles sont réservées à l’aviation
+                commerciale.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1714</ID>
+            <Number>67</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>L’abréviation «GND» signifie précisément</Question>
+            <Answer1>Sol.</Answer1>
+            <Answer2>Altitude au-dessus du niveau moyen de la mer.</Answer2>
+            <Answer3>Altitude au-dessus du niveau du sol.</Answer3>
+            <Answer4>Niveau de vol.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1715</ID>
+            <Number>68</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>L’abréviation «AMSL» signifie</Question>
+            <Answer1>Sol.</Answer1>
+            <Answer2>Altitude au-dessus du niveau moyen de la mer.</Answer2>
+            <Answer3>Altitude au-dessus du niveau du sol.</Answer3>
+            <Answer4>Niveau de vol.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1716</ID>
+            <Number>69</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>L’abréviation «AGL» signifie</Question>
+            <Answer1>Sol.</Answer1>
+            <Answer2>Altitude au-dessus du niveau moyen de la mer.</Answer2>
+            <Answer3>Altitude au-dessus du niveau du sol.</Answer3>
+            <Answer4>Niveau de vol.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1717</ID>
+            <Number>70</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>L’abréviation «FL» signifie</Question>
+            <Answer1>Sol.</Answer1>
+            <Answer2>Altitude au-dessus du niveau moyen de la mer.</Answer2>
+            <Answer3>Altitude au-dessus du niveau du sol.</Answer3>
+            <Answer4>Niveau de vol.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1718</ID>
+            <Number>71</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>À environ quelle altitude se situe FL 30?</Question>
+            <Answer1>900 m au-dessus du niveau de la mer.</Answer1>
+            <Answer2>600 m au-dessus du niveau du sol.</Answer2>
+            <Answer3>300 m au-dessus du niveau de la mer.</Answer3>
+            <Answer4>3'050 m au-dessus du niveau de la mer.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1719</ID>
+            <Number>72</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>À environ quelle altitude se situe FL 100?</Question>
+            <Answer1>1'000 m au-dessus du niveau de la mer.</Answer1>
+            <Answer2>1'000 m au-dessus du niveau du sol.</Answer2>
+            <Answer3>3'050 m au-dessus du niveau de la mer.</Answer3>
+            <Answer4>4'550 m au-dessus du niveau de la mer.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1720</ID>
+            <Number>73</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>À environ quelle altitude se situe FL 150?</Question>
+            <Answer1>1'500 m au-dessus du niveau de la mer.</Answer1>
+            <Answer2>1'500 m au-dessus du niveau du sol.</Answer2>
+            <Answer3>4'550 m au-dessus du niveau de la mer.</Answer3>
+            <Answer4>5'950 m au-dessus du niveau de la mer.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1721</ID>
+            <Number>74</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>À environ quelle altitude se situe FL 195?</Question>
+            <Answer1>1'950 m au-dessus du niveau de la mer.</Answer1>
+            <Answer2>1'950 m au-dessus du niveau du sol.</Answer2>
+            <Answer3>4'550 m au-dessus du niveau de la mer.</Answer3>
+            <Answer4>5'950 m au-dessus du niveau de la mer.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1722</ID>
+            <Number>75</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>L’abréviation «AWY» signifie</Question>
+            <Answer1>Région d'information de vol.</Answer1>
+            <Answer2>Couloir aérien.</Answer2>
+            <Answer3>Zone de contrôle.</Answer3>
+            <Answer4>Secteur de contrôle d'approche.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1723</ID>
+            <Number>76</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Un AWY</Question>
+            <Answer1>correspond à la zone qui s'étend immédiatement autour d'un aérodrome. Sa limite
+                inférieure est constituée par le sol, sa limite supérieure par le secteur de contrôle
+                d'approche.
+            </Answer1>
+            <Answer2>correspond à l'ensemble de l'espace aérien de la Suisse.</Answer2>
+            <Answer3>représente en général le carrefour vers lequel conduisent les voies ATS à proximité
+                d'un ou plusieurs aérodromes de grande envergure. Les limites inférieures et supérieures
+                sont indiquées dans la carte de vol à voile.
+            </Answer3>
+            <Answer4>relie différents aéroports les uns aux autres et dispose de limites latérales et
+                inférieures clairement définies.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1724</ID>
+            <Number>77</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Le sigle «CTR» signifie</Question>
+            <Answer1>région d’information de vol.</Answer1>
+            <Answer2>couloir aérien.</Answer2>
+            <Answer3>zone de contrôle.</Answer3>
+            <Answer4>secteur de contrôle d’approche.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1725</ID>
+            <Number>78</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Une CTR</Question>
+            <Answer1>s'étend tout autour d'un aéroport. Elle s'étend du sol à une altitude au-dessus du
+                niveau de la mer indiquée sur la carte de vol à voile.
+            </Answer1>
+            <Answer2>correspond à l'ensemble de l'espace aérien au-dessus de la Suisse.</Answer2>
+            <Answer3>représente en général le carrefour vers lequel conduisent les voies ATS à proximité
+                d'un ou plusieurs aérodromes de grande envergure. Les limites inférieures et supérieures
+                sont indiquées dans la carte de vol à voile.
+            </Answer3>
+            <Answer4>relie différents aéroports les uns aux autres et dispose d'une limite inférieure
+                clairement définie; le FL 195 représente sa limite supérieure.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1726</ID>
+            <Number>79</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Le sigle «TMA» signifie</Question>
+            <Answer1>région d’information de vol.</Answer1>
+            <Answer2>couloir aérien.</Answer2>
+            <Answer3>zone de contrôle.</Answer3>
+            <Answer4>région de contrôle terminale.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1727</ID>
+            <Number>80</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Une TMA</Question>
+            <Answer1>correspond à la zone qui s’étend immédiatement autour d’un aérodrome. Elle s’étend du
+                sol jusqu’à une hauteur déterminée (définie sur la carte de vol à voile).
+            </Answer1>
+            <Answer2>correspond à l’ensemble de l’espace aérien de Suisse.</Answer2>
+            <Answer3>encadre largement un aéroport d’une certaine taille. Son extension et sa limite
+                inférieure sont indiquées sur la carte de vol à voile.
+            </Answer3>
+            <Answer4>relie différents aérodromes entre eux, a une limite inférieure clairement définie et sa
+                limite supérieure se situe au niveau du FL 195.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1728</ID>
+            <Number>81</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Quelle affirmation est correcte par rapport à une TMA située au sud de la ligne de
+                démarcation entre le Jura/Plateau suisse et les Alpes?
+            </Question>
+            <Answer1>On peut passer en-dessous, en vol, à 300 m AGL.</Answer1>
+            <Answer2>Elle descend dans tous les cas jusqu’à la limite inférieure indiquée.</Answer2>
+            <Answer3>Elle débute toujours à partir de 600 m/sol.</Answer3>
+            <Answer4>Elle ne présente aucune différence par rapport à une TMA située au nord de cette ligne
+                de démarcation.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1729</ID>
+            <Number>82</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Combien de catégories d’espaces aériens l’OACI a-t-elle défini?</Question>
+            <Answer1>2</Answer1>
+            <Answer2>4</Answer2>
+            <Answer3>7</Answer3>
+            <Answer4>9</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1730</ID>
+            <Number>83</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Parmi les catégories d'espaces aériens définies par l'OACI,</Question>
+            <Answer1>on en trouve trois en Suisse.</Answer1>
+            <Answer2>on en trouve quatre en Suisse.</Answer2>
+            <Answer3>on en trouve cinq en Suisse.</Answer3>
+            <Answer4>on en trouve six en Suisse.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1731</ID>
+            <Number>84</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>En Suisse, on trouve les catégories d’espaces aériens</Question>
+            <Answer1>A, C, E et G.</Answer1>
+            <Answer2>A, D, E et G.</Answer2>
+            <Answer3>C, D, E et G.</Answer3>
+            <Answer4>B, C, E et G.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1732</ID>
+            <Number>85</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>En Suisse, dans quelles catégories d’espaces aériens les planeurs de pente peuvent-ils
+                évoluer sans autorisation préalable?
+            </Question>
+            <Answer1>C et E.</Answer1>
+            <Answer2>F et G.</Answer2>
+            <Answer3>D et E.</Answer3>
+            <Answer4>E et G.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1733</ID>
+            <Number>86</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Pour quelles catégories d'espaces aériens la législation n'exige-t-elle aucun contact
+                radio permanent?
+            </Question>
+            <Answer1>C et D.</Answer1>
+            <Answer2>D et E.</Answer2>
+            <Answer3>E et G.</Answer3>
+            <Answer4>G et C.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1734</ID>
+            <Number>87</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Pour quelles catégories d'espaces aériens la législation exige-t-elle une autorisation
+                d'entrée préalable?
+            </Question>
+            <Answer1>C et D</Answer1>
+            <Answer2>D et E</Answer2>
+            <Answer3>E et G</Answer3>
+            <Answer4>G et C</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1735</ID>
+            <Number>88</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>En Suisse, la limite supérieure de l’espace aérien G se situe à</Question>
+            <Answer1>600 m AGL.</Answer1>
+            <Answer2>300 m AGL.</Answer2>
+            <Answer3>150 m AGL.</Answer3>
+            <Answer4>Aucune de ces réponses n’est correcte.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1736</ID>
+            <Number>89</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Dans l’espace aérien G, les règles appliquées aux planeurs de pente sans transpondeur
+                en termes de visibilité et de distance par rapport aux nuages sont:
+            </Question>
+            <Answer1>5 km / 100 m / 50 m</Answer1>
+            <Answer2>5 km / 1,5 km / 300 m</Answer2>
+            <Answer3>1,5 km et visib. sol / en dehors / en dehors</Answer3>
+            <Answer4>Jusqu’à 300 m AGL: 1,5 km et visib. sol / en dehors / en dehors. Au-dessus de 300 m
+                AGL: 1,5 km / 1,5 km / 300 m
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1737</ID>
+            <Number>90</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Dans le Jura et quand la pression atmosphérique est de 1013,2 hPa, la limite
+                supérieure de l’espace aérien E se situe à
+            </Question>
+            <Answer1>1'000 m AGL.</Answer1>
+            <Answer2>3'050 m AMSL.</Answer2>
+            <Answer3>3'950 m AMSL.</Answer3>
+            <Answer4>4'550 m AMSL.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1738</ID>
+            <Number>91</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Dans l’espace aérien E, à 2'800 m AMSL, les règles en matière de visibilité et de
+                distance par rapport aux nuages sont les suivantes:
+            </Question>
+            <Answer1>8 km / 1,5 km / 300 m</Answer1>
+            <Answer2>5 km / 1,5 km / 300 m</Answer2>
+            <Answer3>5 km / 100 m / 50 m</Answer3>
+            <Answer4>1,5 km et visib. sol / 100 m / 50 m</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1739</ID>
+            <Number>92</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Pendant les heures de vol militaire et en atmosphère standard, la limite supérieure de
+                l’espace aérien E au-dessus des Alpes se situe en général à
+            </Question>
+            <Answer1>1'000 m AGL.</Answer1>
+            <Answer2>3'050 m AMSL.</Answer2>
+            <Answer3>3'950 m AMSL.</Answer3>
+            <Answer4>4'550 m AMSL.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1740</ID>
+            <Number>93</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>En-dehors des heures de vol militaire et en atmosphère standard, la limite supérieure
+                de l’espace aérien E au-dessus des Alpes se situe en général à
+            </Question>
+            <Answer1>1‘000m AGL.</Answer1>
+            <Answer2>3‘050 m AMSL.</Answer2>
+            <Answer3>3‘950 m AMSL.</Answer3>
+            <Answer4>4‘550m AMSL.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1741</ID>
+            <Number>94</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Certaines parties de l’espace aérien sont des LS-R for Gliders pendant certaines
+                périodes. Où les pilotes de planeur de pente peuvent-ils trouver cette information?
+            </Question>
+            <Answer1>Dans chaque Swiss Glider.</Answer1>
+            <Answer2>Sur la carte de vol à voile, avec des informations complémentaires dans le
+                VFR-Manual.
+            </Answer2>
+            <Answer3>Dans le NOTAM.</Answer3>
+            <Answer4>Dans l’Ordonnance concernant les règles de l’air applicables aux aéronefs (ORA) du 20
+                mai 2015.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1742</ID>
+            <Number>95</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>En-dehors des heures de vol militaire et par 1013,2 hPa, la limite supérieure de
+                l’espace aérien E au-dessus des Alpes se situe à
+            </Question>
+            <Answer1>600 m AGL.</Answer1>
+            <Answer2>3'050 m AMSL.</Answer2>
+            <Answer3>3'950 m AMSL.</Answer3>
+            <Answer4>Aucune de ces réponses n’est correcte.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1743</ID>
+            <Number>96</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Dans la catégorie d'espace aérien E, à 3'800 m AMSL, les règles en matière de
+                visibilité et de distance par rapport aux nuages sont les suivantes:
+                Visibilité / Distance horizontale / Distance verticale
+            </Question>
+            <Answer1>8,0 km / 1,5 km / 300 m</Answer1>
+            <Answer2>5,0 km / 1,5 km / 300 m</Answer2>
+            <Answer3>1,5 km / 300 m / 50 m</Answer3>
+            <Answer4>1,5 km et vue du sol / 100 m / 50 m</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1744</ID>
+            <Number>97</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Un pilote se trouve à une altitude de 800 m AGL / 1’700 m AMSL un mercredi à 15 h 30
+                au-dessus du Jura. Quelles règles doit-il respecter en matière de visibilité et de distance
+                par rapport aux nuages? Visibilité / Distance horizontale / Distance verticale
+            </Question>
+            <Answer1>8,0 km / 1,5 km / 300 m</Answer1>
+            <Answer2>5,0 km / 1,5 km / 300 m</Answer2>
+            <Answer3>5,0 km / 100 m / 50 m</Answer3>
+            <Answer4>1,5 km et vue du sol / hors nuage / hors nuage</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1745</ID>
+            <Number>98</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Un pilote se trouve à une altitude de 200 m AGL / 1'400 m AMSL un mercredi à 15 h 30
+                au-dessus du Jura. Quelles règles doit-il respecter en matière de visibilité et de distances
+                par rapport aux nuages? Visibilité / Distance horizontale / Distance verticale
+            </Question>
+            <Answer1>8 km / 1,5 km / 300 m</Answer1>
+            <Answer2>5 km / 1,5 km / 300 m</Answer2>
+            <Answer3>1,5 km / 1,5 km / 300 m</Answer3>
+            <Answer4>1,5 km et vue du sol / en-dehors / en-dehors</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1746</ID>
+            <Number>99</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Un pilote se trouve à une altitude de 800 m AGL / 3'800 m AMSL un mercredi à 14 h 30
+                au-dessus des Alpes. Quelles règles doit-il respecter en matière de visibilité et de
+                distance par rapport aux nuages? Visibilité / Distance horizontale / Distance verticale
+            </Question>
+            <Answer1>8,0 km / 1,5 km / 300 m</Answer1>
+            <Answer2>5,0 km / 1,5 km / 300 m</Answer2>
+            <Answer3>5,0 km / 100 m / 50 m</Answer3>
+            <Answer4>1,5 km et vue du sol / en-dehors / en-dehors</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1747</ID>
+            <Number>100</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Un pilote se trouve à une altitude de 200 m AGL / 3'800 m AMSL un mercredi à 14 h 30
+                dans les Alpes. Quelles règles doit-il respecter en matière de visibilité et de distances
+                par rapport aux nuages? Visibilité / Distance horizontale / Distance verticale
+            </Question>
+            <Answer1>8,0 km / 1,5 km / 300 m</Answer1>
+            <Answer2>5,0 km / 1,5 km / 300 m</Answer2>
+            <Answer3>1,5 km / 1,5 km / 300 m</Answer3>
+            <Answer4>1,5 km et visib. sol / en-dehors / en-dehors</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1748</ID>
+            <Number>101</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Quelle publication indique précisément le tracé de la ligne qui sépare les deux
+                secteurs Jura/Plateau suisse et Alpes?
+            </Question>
+            <Answer1>La GLDK</Answer1>
+            <Answer2>Le NOTAM</Answer2>
+            <Answer3>Le DABS</Answer3>
+            <Answer4>Chaque Swiss Glider</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1749</ID>
+            <Number>102</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Un pilote se trouve à une altitude de 500 m AGL / 1'400 m AMSL un mercredi à 15 h 30
+                au-dessus du Jura. Quelles règles doit-il respecter en matière de visibilité et de distances
+                par rapport aux nuages? Visibilité / Distance horizontale / Distance verticale
+            </Question>
+            <Answer1>8,0 km / 1,5 km / 300 m</Answer1>
+            <Answer2>1,5 km / 1,5 km / 300 m</Answer2>
+            <Answer3>5,0 km / 1,5 km / 300 m</Answer3>
+            <Answer4>1,5 km et visib. sol / en-dehors / en-dehors.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1750</ID>
+            <Number>103</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Une zone réglementée (Restricted Area, LS-R...) active est une zone dans laquelle
+            </Question>
+            <Answer1>les activités aéronautiques sont interdites pendant les heures d'activités
+                militaires.
+            </Answer1>
+            <Answer2>les activités aéronautiques sont interdites hors des heures d'activités militaires.
+            </Answer2>
+            <Answer3>on doit toujours respecter les grandes distances par rapport aux nuages.</Answer3>
+            <Answer4>existent des règles spéciales (interdiction de vol dans les LS-R rouges ou distances
+                réduites par rapport aux nuages dans les LS-R vertes, p.ex.).
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1751</ID>
+            <Number>104</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Quelle publication indique les horaires des vols militaires?</Question>
+            <Answer1>Le DABS.</Answer1>
+            <Answer2>La carte de vol à voile GLDC.</Answer2>
+            <Answer3>Le NOTAM.</Answer3>
+            <Answer4>L'OACS.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1752</ID>
+            <Number>105</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Quelles sont les directives en vigueur en ce qui concerne la visibilité et les
+                distances par rapport aux nuages dans une zone «LS-R pour vol à voile» active à 900 m AGL /
+                3’800 m AMSL? Visibilité / Distance horizontale / Distance verticale
+            </Question>
+            <Answer1>8,0 km / 1,5 km / 300 m</Answer1>
+            <Answer2>8,0 km / 300 m / 100 m</Answer2>
+            <Answer3>8,0 km / 100 m / 50 m</Answer3>
+            <Answer4>5,0 km / 100 m / 50 m</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1753</ID>
+            <Number>106</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Quelles sont les directives en vigueur en ce qui concerne la visibilité et les
+                distances par rapport aux nuages dans une zone «LS-R pour vol à voile» active à 900 m AGL /
+                2’800 m AMSL? Visibilité / Distance horizontale / Distance verticale
+            </Question>
+            <Answer1>8,0 km / 1,5 km / 300 m</Answer1>
+            <Answer2>8,0 km / 300 m / 100 m</Answer2>
+            <Answer3>8,0 km / 100 m / 50 m</Answer3>
+            <Answer4>5,0 km / 100 m / 50 m</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1754</ID>
+            <Number>107</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Quelles règles s’appliquent en termes de visibilité et de distances par rapport aux
+                nuages dans une zone «LS-R pour vol à voile» active à 200 m AGL / 3'400 m AMSL? Visibilité /
+                Distance horizontale / Distance verticale
+            </Question>
+            <Answer1>8,0 km / 300 m / 300 m</Answer1>
+            <Answer2>8,0 km / 100 m / 50 m</Answer2>
+            <Answer3>5,0 km / 100 m / 50 m</Answer3>
+            <Answer4>Le pilote ne se trouve pas dans la LS-R pour vol à voile, mais dans l’espace aérien G.
+                En conséquence: 1,5 km et visib. sol / en-dehors / en-dehors
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1755</ID>
+            <Number>108</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Une «LS-R for Gliders» constitue un espace aérien délimité dans lequel, aux périodes
+                définies,
+            </Question>
+            <Answer1>les planeurs de pente ne doivent pas entrer.</Answer1>
+            <Answer2>les planeurs, équipés et autorisés en conséquence, peuvent entrer dans les nuages.
+            </Answer2>
+            <Answer3>les distances réduites par rapport aux nuages sont en vigueur pour les planeurs et les
+                planeurs de pente.
+            </Answer3>
+            <Answer4>les distances réduites par rapport aux nuages sont en vigueur pour les vols VFR.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1756</ID>
+            <Number>109</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Une zone dangereuse active (LS-D) est un espace aérien délimité dans lequel:
+            </Question>
+            <Answer1>les grandes distances par rapport aux nuages sont en vigueur.</Answer1>
+            <Answer2>la navigation aérienne sportive et le vol à voile sont interdits.</Answer2>
+            <Answer3>des activités dangereuses pour les aéronefs en vol ont lieu.</Answer3>
+            <Answer4>aucun aéronef ne doit entrer.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1757</ID>
+            <Number>110</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Dans quelles catégories est-il possible de passer une licence de pilote de planeur de
+                pente?
+            </Question>
+            <Answer1>Catégorie planeur de pente motorisé et catégorie planeur de pente non motorisé.
+            </Answer1>
+            <Answer2>Catégorie aile standard et catégorie aile de haute performance.</Answer2>
+            <Answer3>Catégorie parapente, catégorie delta et catégorie aile rigide.</Answer3>
+            <Answer4>Catégorie avion et catégorie planeur.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1758</ID>
+            <Number>163</Number>
+            <ImageID>77</ImageID>
+            <Answer>4</Answer>
+            <Question>Quelles sont les limites inférieures et supérieures de la LS-R for gliders marquée de
+                ce tag un dimanche en juin?
+            </Question>
+            <Answer1>Limite inférieure 600 m/sol, limite supérieure 3200 m/mer.</Answer1>
+            <Answer2>Limite inférieure 600 m/sol, limite supérieure 3200 m/mer en atmosphère standard.
+            </Answer2>
+            <Answer3>Limite inférieure 3200 m/mer, limite supérieure 3950 m/mer en atmosphère standard.
+            </Answer3>
+            <Answer4>Limite inférieure 600 m/sol, limite supérieure 3950 m/mer en atmosphère standard.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1759</ID>
+            <Number>111</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Qui est mandaté pour la délivrance de la licence officielle de pilote de planeur de
+                pente?
+            </Question>
+            <Answer1>La Fédération Suisse de Vol Libre (FSVL).</Answer1>
+            <Answer2>L'expert examinateur.</Answer2>
+            <Answer3>L'Office Fédéral de l'Aviation Civile (OFAC).</Answer3>
+            <Answer4>La direction cantonale de la circulation routière et aérienne.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1760</ID>
+            <Number>164</Number>
+            <ImageID>78</ImageID>
+            <Answer>4</Answer>
+            <Question>Quand tu voles dans un espace aérien marqué de ce tag, à partir de quelle altitude la
+                liaison radio est-elle obligatoire?
+            </Question>
+            <Answer1>Au-dessus de 3050 m/mer en atmosphère standard.</Answer1>
+            <Answer2>Au-dessus de 3050 m/mer</Answer2>
+            <Answer3>Au-dessus de 300 m/mer</Answer3>
+            <Answer4>Au-dessus de 300 m/sol</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1761</ID>
+            <Number>165</Number>
+            <ImageID>79</ImageID>
+            <Answer>3</Answer>
+            <Question>Sur la carte de vol à voile, ce symbole indique</Question>
+            <Answer1>un aérodrome civil.</Answer1>
+            <Answer2>un aérodrome militaire.</Answer2>
+            <Answer3>un aérodrome civil et militaire.</Answer3>
+            <Answer4>un héliport.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1762</ID>
+            <Number>166</Number>
+            <ImageID>69</ImageID>
+            <Answer>3</Answer>
+            <Question>Pourquoi les représentations graphiques des aérodromes d’Emmen (TMA LSME) et d’Alpnach
+                (TMA LSMA) diffèrent-elles sur cet extrait de carte?
+            </Question>
+            <Answer1>La TMA Emmen est une zone temporaire, la TMA Alpnach est permanente.</Answer1>
+            <Answer2>Il n’existe aucune différence.</Answer2>
+            <Answer3>La TMA Emmen est active selon HX, la TMA Alpnach est activée via Notam/DABS.</Answer3>
+            <Answer4>La TMA Emmen est active 24 h/24, la TMA Alpnach est activée via Notam/DABS.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1763</ID>
+            <Number>112</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Conformément aux directives relatives à l’examen d’aptitude pour pilotes de planeur de
+                pente, quel délai maximum faut-il respecter entre les parties partielles théorique et
+                pratique de l’examen?
+            </Question>
+            <Answer1>36 mois</Answer1>
+            <Answer2>12 mois</Answer2>
+            <Answer3>48 mois</Answer3>
+            <Answer4>24 mois</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1764</ID>
+            <Number>113</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Conformément aux directives relatives à l’examen d’aptitude pour pilotes de planeur de
+                pente, après un échec, on peut repasser les examens partiels théoriques ou pratiques après
+                un délai minimum de
+            </Question>
+            <Answer1>3 mois.</Answer1>
+            <Answer2>9 jours.</Answer2>
+            <Answer3>30 jours.</Answer3>
+            <Answer4>12 jours.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1765</ID>
+            <Number>114</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>À quelle instance un candidat à l’examen peut-il recourir lorsqu’il est d’avis que la
+                décision de l’expert-examinateur n’est pas conforme aux directives en vigueur?
+            </Question>
+            <Answer1>À l’instructeur de vol libre.</Answer1>
+            <Answer2>À l’expert-examinateur.</Answer2>
+            <Answer3>À la commission de recours de la FSVL.</Answer3>
+            <Answer4>Au Tribunal administratif fédéral.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1766</ID>
+            <Number>115</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>De quel délai dispose un candidat pour faire valoir son droit de recours lorsqu’il est
+                d’avis que la décision de l’expert examinateur n’est pas conforme aux directives en vigueur?
+            </Question>
+            <Answer1>30 jours</Answer1>
+            <Answer2>14 jours</Answer2>
+            <Answer3>12 jours</Answer3>
+            <Answer4>9 jours</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1767</ID>
+            <Number>167</Number>
+            <ImageID>71</ImageID>
+            <Answer>4</Answer>
+            <Question>Jusqu’à quelle altitude peut-on monter dans la LS-R24 un dimanche après-midi en
+                juillet?
+            </Question>
+            <Answer1>Jusqu’à 600 m au-dessus du sol.</Answer1>
+            <Answer2>Jusqu’à 3950 m au-dessus du niveau de la mer STD ou 600 m au-dessus du sol (la hauteur
+                la plus importante).
+            </Answer2>
+            <Answer3>Jusqu’à 4550 m au-dessus du niveau de la mer STD.</Answer3>
+            <Answer4>Jusqu’à 4550 m au-dessus du niveau de la mer STD ou 600 m au-dessus du sol (la hauteur
+                la plus importante).
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1768</ID>
+            <Number>168</Number>
+            <ImageID>71</ImageID>
+            <Answer>2</Answer>
+            <Question>Jusqu’à quelle altitude peut-on monter dans la LS-R24 un lundi à 14 h en février?
+            </Question>
+            <Answer1>Jusqu’à 600 m au-dessus du sol.</Answer1>
+            <Answer2>Jusqu’à 3950 m au-dessus du niveau de la mer STD ou 600 m au-dessus du sol (la hauteur
+                la plus importante).
+            </Answer2>
+            <Answer3>Jusqu’à 3950 m au-dessus du niveau de la mer STD.</Answer3>
+            <Answer4>Jusqu’à 4550 m au-dessus du niveau de la mer STD ou 600 m au-dessus du sol (la hauteur
+                la plus importante).
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1769</ID>
+            <Number>169</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Quelle est la limite inférieure minimale d’une TMA dans les Alpes?</Question>
+            <Answer1>300 m AGL.</Answer1>
+            <Answer2>600 m AGL.</Answer2>
+            <Answer3>GND.</Answer3>
+            <Answer4>L’altitude indiquée sur la carte.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1770</ID>
+            <Number>116</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>De quels documents doit disposer un candidat pour être admis à passer l’examen partiel
+                pratique?
+            </Question>
+            <Answer1>Fiche de contrôle de formation, carte de membre FSVL, attestation d’assurance.
+            </Answer1>
+            <Answer2>Carte de membre FSVL, attestation d’assurance, carnet de vol.</Answer2>
+            <Answer3>Carte de membre FSVL, attestation d’assurance, carnet de vol, fiche de contrôle de
+                formation.
+            </Answer3>
+            <Answer4>Attestation d’assurance, carnet de vol, fiche de contrôle de formation.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1771</ID>
+            <Number>117</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>De combien de grands vols certifiés par un instructeur de vol libre un candidat
+                doit-il justifier pour être admis à passer l’examen partiel pratique?
+            </Question>
+            <Answer1>Au moins: 60 pour le parapente, 40 pour le delta, 30 pour l’aile rigide.</Answer1>
+            <Answer2>Au moins: 50 pour le parapente, 30 pour le delta, 20 pour l’aile rigide.</Answer2>
+            <Answer3>Au moins: 30 pour le parapente, 20 pour le delta, 10 pour l’aile rigide.</Answer3>
+            <Answer4>Aucune de ces réponses n’est correcte.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1772</ID>
+            <Number>118</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Pour être admis à passer l’examen partiel pratique, le candidat doit justifier d’un
+                certain nombre de grands vols certifiés par un instructeur de vol libre. Sur combien de
+                sites différents ces vols doivent-ils avoir été effectués?
+            </Question>
+            <Answer1>Au moins: 2 pour le parapente, 2 pour le delta, 2 pour les ailes rigides</Answer1>
+            <Answer2>Au moins: 3 pour le parapente, 5 pour le delta, 5 pour les ailes rigides</Answer2>
+            <Answer3>Au moins: 5 pour le parapente, 3 pour le delta, 3 pour les ailes rigides</Answer3>
+            <Answer4>Au moins: 7 pour le parapente, 7 pour le delta, 7 pour les ailes rigides</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1773</ID>
+            <Number>119</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Quelles conditions l’aile d’un candidat doit-elle remplir pour qu’il soit admis à
+                passer l’examen partiel pratique? L’aile doit
+            </Question>
+            <Answer1>disposer de l'homologation classe 1 et être immatriculée conformément aux directives en
+                vigueur.
+            </Answer1>
+            <Answer2>disposer d'un allongement inférieur à 4 et être immatriculée conformément aux
+                directives en vigueur.
+            </Answer2>
+            <Answer3>être immatriculée conformément aux directives en vigueur.</Answer3>
+            <Answer4>être reconnue comme homologuée par la FSVL (exception: ailes rigides) et immatriculée
+                conformément aux directives en vigueur.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1774</ID>
+            <Number>120</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>L’examen partiel pratique se compose</Question>
+            <Answer1>d'un vol avec figures déterminées, pour lequel le candidat dispose de 2 essais.
+            </Answer1>
+            <Answer2>de deux vols avec figures déterminées, pour lesquels le candidat dispose de 4 essais.
+            </Answer2>
+            <Answer3>de deux vols avec figures déterminées, pour lesquels le candidat dispose de 3 essais.
+            </Answer3>
+            <Answer4>de trois vols avec des figures déterminées, pour lesquels le candidat dispose de 5
+                essais.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1775</ID>
+            <Number>170</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Quelle est la limite inférieure minimale d’une TMA dans le Jura?</Question>
+            <Answer1>300 m AGL.</Answer1>
+            <Answer2>600 m AGL.</Answer2>
+            <Answer3>GND.</Answer3>
+            <Answer4>L’altitude indiquée sur la carte.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1776</ID>
+            <Number>171</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>En cas de QNH de 1035 hPa, jusqu’à quelle altitude peut-on monter dans le Jura?
+            </Question>
+            <Answer1>À un peu moins de 3050 m/mer.</Answer1>
+            <Answer2>Précisément à 3050 m/mer.</Answer2>
+            <Answer3>À un peu plus de 3050 m/mer.</Answer3>
+            <Answer4>À précisément 3950 m/mer.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1777</ID>
+            <Number>121</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Quel est le diamètre de la cible d'atterrissage dans laquelle le candidat doit
+                atterrir à l'examen partiel pratique pour l'obtention de la licence de pilote de planeur de
+                pente?
+            </Question>
+            <Answer1>15 m pour le parapente, 30 m pour le delta, 30 m pour les ailes rigides</Answer1>
+            <Answer2>50 m pour le parapente, 50 m pour le delta, 50 m pour les ailes rigides</Answer2>
+            <Answer3>30 m pour le parapente, 80 m pour le delta, 80 m pour les ailes rigides</Answer3>
+            <Answer4>80 m pour le parapente, 100 m pour le delta, 100 m pour les ailes rigides</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1778</ID>
+            <Number>122</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>L'espace aérien est utilisé par différentes catégories d'aéronefs qui bénéficient de
+                priorités en fonction de leurs performances. Laquelle des propositions suivantes est
+                correcte?
+            </Question>
+            <Answer1>Les ballons ont priorité sur les dirigeables, les dirigeables ont priorité sur les
+                planeurs.
+            </Answer1>
+            <Answer2>Les ballons ont priorité sur les planeurs de pente, les planeurs de pente ont priorité
+                sur les planeurs.
+            </Answer2>
+            <Answer3>Les ballons ont priorité sur les planeurs de pente, les planeurs de pente ont priorité
+                sur les dirigeables.
+            </Answer3>
+            <Answer4>Les planeurs de pente ont priorité sur les planeurs, les planeurs ont priorité sur les
+                dirigeables.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1779</ID>
+            <Number>123</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>L'espace aérien est utilisé par différentes catégories d'aéronefs qui bénéficient de
+                priorités en fonction de leurs performances. Laquelle des propositions suivantes est
+                correcte?
+            </Question>
+            <Answer1>Les avions à réaction militaires ont priorité sur les planeurs de pente, les planeurs
+                de pente ont priorité sur les hélicoptères.
+            </Answer1>
+            <Answer2>Les planeurs de pente ont priorité sur les dirigeables, les dirigeables ont priorité
+                sur les avions à réaction militaires.
+            </Answer2>
+            <Answer3>Les hélicoptères ont priorité sur les avions à réaction militaires, les avions à
+                réaction militaires ont priorité sur les planeurs de pente.
+            </Answer3>
+            <Answer4>Les hélicoptères ont priorité sur les planeurs de pente, les planeurs de pente ont
+                priorité sur les avions à réaction militaires.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1780</ID>
+            <Number>124</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>L'espace aérien est utilisé par différentes catégories d'aéronefs qui bénéficient de
+                priorités en fonction de leurs performances. Laquelle des propositions suivantes est
+                correcte?
+            </Question>
+            <Answer1>Les dirigeables ont priorité sur les planeurs de pente, les planeurs de pente ont
+                priorité sur les avions à moteur.
+            </Answer1>
+            <Answer2>Les planeurs de pente ont priorité sur les avions à moteur, les avions à moteur ont
+                priorité sur les dirigeables.
+            </Answer2>
+            <Answer3>Les avions à moteur ont priorité sur les dirigeables, les dirigeables ont priorité sur
+                les planeurs de pente.
+            </Answer3>
+            <Answer4>Les planeurs de pente ont priorité sur les dirigeables, les dirigeables ont priorité
+                sur les avions à moteur.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1781</ID>
+            <Number>125</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>L'espace aérien est utilisé par différentes catégories d'aéronefs qui bénéficient de
+                priorités en fonction de leurs performances. Laquelle des propositions suivantes est
+                correcte?
+            </Question>
+            <Answer1>Les planeurs de pente et les avions à moteurs remorquant ont priorité sur les
+                planeurs.
+            </Answer1>
+            <Answer2>Les avions à moteurs remorquant ont priorité sur les planeurs de pente, les planeurs de
+                pente ont priorité sur les planeurs.
+            </Answer2>
+            <Answer3>Les planeurs et les planeurs de pente ont priorité sur les avions à moteurs
+                remorquant.
+            </Answer3>
+            <Answer4>Les planeurs et les avions à moteurs remorquant ont priorité sur les planeurs de
+                pente.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1782</ID>
+            <Number>126</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>L'espace aérien est utilisé par différentes catégories d'aéronefs qui bénéficient de
+                priorités en fonction de leurs performances. Laquelle des propositions suivantes est
+                correcte?
+            </Question>
+            <Answer1>Les ballons et les planeurs de pente ont priorité sur les dirigeables.</Answer1>
+            <Answer2>Les ballons et les dirigeables ont priorité sur les planeurs de pente.</Answer2>
+            <Answer3>Les planeurs de pente et les dirigeables ont priorité sur les ballons.</Answer3>
+            <Answer4>Les ballons, les planeurs de pente et les dirigeables font partie de la même catégorie
+                d'aéronefs.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1783</ID>
+            <Number>127</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>A quelle distance un planeur de pente peut-il s'approcher en vol d'un aéronef d'une
+                autre catégorie (par exemple un ballon)?
+            </Question>
+            <Answer1>50 m</Answer1>
+            <Answer2>100 m</Answer2>
+            <Answer3>Les distances de vol par rapport aux nuages font foi.</Answer3>
+            <Answer4>À une distance suffisante pour éviter toute collision.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1784</ID>
+            <Number>128</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Les trajectoires d'un planeur de pente et d'un avion à moteur se croisent sensiblement
+                à même altitude. Qui a priorité?
+            </Question>
+            <Answer1>Le planeur de pente.</Answer1>
+            <Answer2>L'avion à moteur.</Answer2>
+            <Answer3>L'aéronef venant de la gauche.</Answer3>
+            <Answer4>L'aéronef venant de la droite.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1785</ID>
+            <Number>129</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Un delta et un parapente se dirigent droit l’un vers l’autre à la même altitude dans
+                un espace aérien libre de tout obstacle. Quel comportement doivent-ils adopter?
+            </Question>
+            <Answer1>Le delta doit dévier à droite car le parapente a la priorité.</Answer1>
+            <Answer2>Les deux planeurs de pente dévient vers la gauche.</Answer2>
+            <Answer3>Le delta accélère et passe sous le parapente.</Answer3>
+            <Answer4>Les deux planeurs de pente dévient vers la droite.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1786</ID>
+            <Number>130</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Un delta et un parapente se dirigent droit l’un vers l’autre à la même altitude lors
+                d’un vol à la pente. Quel comportement doivent-ils adopter?
+            </Question>
+            <Answer1>Le delta doit dévier car le parapente a la priorité.</Answer1>
+            <Answer2>Le planeur de pente qui a le relief à sa gauche dévie vers la droite.</Answer2>
+            <Answer3>Le delta accélère et passe sous le parapente.</Answer3>
+            <Answer4>Le planeur de pente qui a le relief à sa droite dévie vers la gauche.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1787</ID>
+            <Number>131</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Un delta et un parapente volent à la même altitude dans un espace aérien libre de tout
+                obstacle. Leurs trajectoires se croiseront sous peu. Quel comportement doivent-ils adopter?
+            </Question>
+            <Answer1>Le delta doit dévier car le parapente a la priorité.</Answer1>
+            <Answer2>Le planeur de pente venant de la droite a la priorité, le planeur de pente venant de la
+                gauche dévie.
+            </Answer2>
+            <Answer3>Le delta accélère et passe sous le parapente.</Answer3>
+            <Answer4>Le planeur de pente venant de la gauche a la priorité, le planeur de pente venant de la
+                droite dévie.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1788</ID>
+            <Number>132</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Un planeur de pente et un planeur se dirigent droit l’un vers l’autre dans un espace
+                aérien libre de tout obstacle. Qui doit dévier?
+            </Question>
+            <Answer1>Tous les deux par la droite.</Answer1>
+            <Answer2>Aucun, mais le plus intelligent cède.</Answer2>
+            <Answer3>Le planeur de pente.</Answer3>
+            <Answer4>Le planeur.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1789</ID>
+            <Number>133</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Le dépassement mutuel entre planeurs de pente est</Question>
+            <Answer1>autorisé dans l'espace aérien loin d'un relief, interdit près d'un relief.</Answer1>
+            <Answer2>systématiquement interdit.</Answer2>
+            <Answer3>interdit dans l'espace aérien loin d'un relief, autorisé près d'un relief.</Answer3>
+            <Answer4>systématiquement autorisé partout.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1790</ID>
+            <Number>134</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Le dépassement dans l'espace aérien loin d'un relief s'effectue:</Question>
+            <Answer1>à droite, celui qui dépasse a la priorité.</Answer1>
+            <Answer2>à gauche, celui qui est dépassé a la priorité.</Answer2>
+            <Answer3>à droite, celui qui est dépassé a la priorité.</Answer3>
+            <Answer4>à gauche, celui qui dépasse a la priorité.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1791</ID>
+            <Number>135</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Un aéronef qui en dépasse un autre est un aéronef qui se rapproche par l’arrière et
+                dont la trajectoire par rapport au plan de symétrie de l’autre décrit un angle inférieur à
+            </Question>
+            <Answer1>45°.</Answer1>
+            <Answer2>60°.</Answer2>
+            <Answer3>70°.</Answer3>
+            <Answer4>90°.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1792</ID>
+            <Number>136</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Pendant la manœuvre de dépassement, quel planeur de pente devra dévier, le cas
+                échéant?
+            </Question>
+            <Answer1>Le planeur de pente le plus lent.</Answer1>
+            <Answer2>Le planeur de pente dépassant.</Answer2>
+            <Answer3>Le planeur de pente venant de la gauche.</Answer3>
+            <Answer4>Le planeur de pente qui vole le plus haut.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1793</ID>
+            <Number>137</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>À quelle distance minimale un planeur de pente peut-il s’approcher d’un autre planeur
+                de pente, en vol?
+            </Question>
+            <Answer1>10 m</Answer1>
+            <Answer2>30 m</Answer2>
+            <Answer3>50 m</Answer3>
+            <Answer4>À une distance suffisante pour éviter toute collision.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1794</ID>
+            <Number>138</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Le vol par-dessus ou par-dessous un autre planeur de pente est-il autorisé?</Question>
+            <Answer1>Oui, sans restriction.</Answer1>
+            <Answer2>Non, en aucun cas.</Answer2>
+            <Answer3>Oui, dans la mesure où une distance suffisante est respectée.</Answer3>
+            <Answer4>Uniquement après concertation.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1795</ID>
+            <Number>139</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Qui détermine la direction dans laquelle on enroule une pompe thermique?</Question>
+            <Answer1>L’aéronef le plus rapide à l’intérieur de la pompe.</Answer1>
+            <Answer2>L’aéronef le plus haut à l’intérieur de la pompe.</Answer2>
+            <Answer3>L’aéronef qui est entré le premier dans la pompe.</Answer3>
+            <Answer4>L’aéronef le plus grand à l’intérieur de la pompe.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1796</ID>
+            <Number>140</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Deux planeurs de pente entament en même temps la volte d’atterrissage. Lequel a la
+                priorité?
+            </Question>
+            <Answer1>Celui qui s’engage en premier dans la phase vent-arrière.</Answer1>
+            <Answer2>Dans tous les cas celui qui se trouve le plus bas.</Answer2>
+            <Answer3>Dans tous les cas celui qui se trouve le plus près de la cible d’atterrissage.
+            </Answer3>
+            <Answer4>Dans tous les cas celui qui vole le plus vite.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1797</ID>
+            <Number>141</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Quelle règle s’applique concernant la distance minimale à respecter par rapport au
+                relief lors d’un vol en planeur de pente?
+            </Question>
+            <Answer1>30 m</Answer1>
+            <Answer2>60 m</Answer2>
+            <Answer3>150 m pendant les périodes d'activité militaire, 60 m hors de ces périodes</Answer3>
+            <Answer4>Il n’existe aucune règle.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>1798</ID>
+            <Number>142</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Pour les pilotes de planeur de pente, une croix jaune sur fond rouge placée sur un
+                terrain d’atterrissage signifie que
+            </Question>
+            <Answer1>tous les pilotes doivent se poser le plus près possible de la croix.</Answer1>
+            <Answer2>tous les pilotes en cours de formation doivent se poser le plus près possible de la
+                croix.
+            </Answer2>
+            <Answer3>l'atterrissage sur ce terrain est momentanément interdit.</Answer3>
+            <Answer4>l'approche doit se faire par volte à droite.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>2625</ID>
+            <Number>143</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>Quels documents doit-on avoir sur soi lorsqu’on vole à l’étranger?</Question>
+            <Answer1>Brevet, carte IPPI, attestation d'assurance.</Answer1>
+            <Answer2>Carte de membre FSVL.</Answer2>
+            <Answer3>Licence sportive.</Answer3>
+            <Answer4>Carnet de vol.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>2626</ID>
+            <Number>144</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Le brevet suisse permet-il de pratiquer le vol libre dans le monde entier?</Question>
+            <Answer1>Oui.</Answer1>
+            <Answer2>Non.</Answer2>
+            <Answer3>Cela dépend des pays. La législation et les règles locales font foi.</Answer3>
+            <Answer4>Uniquement pour des vols occasionnels.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>2627</ID>
+            <Number>145</Number>
+            <ImageID>37</ImageID>
+            <Answer>2</Answer>
+            <Question>Quelles règles s'appliquent aux planeurs de pente à l'endroit marqué d'un X à 800 m
+                AGL un vendredi à 14h en novembre, sachant que selon le DABS LS-R3 (rouge) = actif ?
+            </Question>
+            <Answer1>Altitude maximum 3950 m AMSL, visibilité minimum 8 km, distance par rapport aux nuages
+                1500 horizontal / 300 m vertical.
+            </Answer1>
+            <Answer2>Altitude maximum 3050 m AMSL, visibilité minimum 5 km, distance par rapport aux nuages
+                1500 m horizontal / 300 m vertical.
+            </Answer2>
+            <Answer3>Altitude maximum 3050 m AMSL, visibilité minimum 1.5 km, hors des nuages, vue sur le
+                sol.
+            </Answer3>
+            <Answer4>Vol interdit.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>2628</ID>
+            <Number>146</Number>
+            <ImageID>38</ImageID>
+            <Answer>3</Answer>
+            <Question>Quelles règles s'appliquent aux planeurs de pente à l'endroit marqué d'un X de 0 m AGL
+                à 300 m AGL un dimanche à 15h en mai ?
+            </Question>
+            <Answer1>Visibilité minimum 5 km, distance par rapport aux nuages 1500 m horizontal / 300 m
+                vertical.
+            </Answer1>
+            <Answer2>Visibilité minimum 5 km, distance par rapport aux nuages 100 m horizontal / 50 m
+                vertical.
+            </Answer2>
+            <Answer3>Visibilité minimum 1.5 km, hors des nuages, vue sur le sol.</Answer3>
+            <Answer4>Vol interdit.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>2629</ID>
+            <Number>147</Number>
+            <ImageID>59</ImageID>
+            <Answer>4</Answer>
+            <Question>Quelles règles générales s’appliquent aux planeurs de pente sans autorisation spéciale
+                à l’endroit marqué d’un X à 900 m AMSL un mardi à 9h en juin ?
+            </Question>
+            <Answer1>Altitude maximum 4550 m AMSL, visibilité minimum 8 km, distance par rapport aux nuages
+                100 m horizontal / 50 m vertical.
+            </Answer1>
+            <Answer2>Altitude maximum 3950 m AMSL, visibilité minimum 8 km, distance par rapport aux nuages
+                1500 m horizontal / 300 m vertical.
+            </Answer2>
+            <Answer3>Altitude maximum 3050 m AMSL, visibilité minimum 1.5 km, hors des nuages, vue sur le
+                sol.
+            </Answer3>
+            <Answer4>Vol interdit.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>2630</ID>
+            <Number>148</Number>
+            <ImageID>41</ImageID>
+            <Answer>2</Answer>
+            <Question>Quelles règles s'appliquent aux planeurs de pente à l'endroit marqué d'un X à 1800 m
+                AMSL (~900 m AGL) un samedi à 12h en mars ?
+            </Question>
+            <Answer1>Altitude maximum 5950 m AMSL, visibilité minimum 8 km, distance par rapport aux nuages
+                1500 m horizontal / 300 m vertical.
+            </Answer1>
+            <Answer2>Altitude maximum 2750 m AMSL, visibilité minimum 5 km distance par rapport aux nuages
+                1500 m horizontal / 300 m vertical.
+            </Answer2>
+            <Answer3>Altitude maximum 2750 m AMSL, visibilité minimum 1.5 km, hors des nuages, vue sur le
+                sol.
+            </Answer3>
+            <Answer4>Vol interdit.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>2631</ID>
+            <Number>149</Number>
+            <ImageID>43</ImageID>
+            <Answer>1</Answer>
+            <Question>Quelles règles s'appliquent aux planeurs de pente à l'endroit marqué d'un X à 1500 m
+                AMSL (~700 m AGL) un vendredi à 14h en septembre, sachant que selon l'appel téléphonique,
+                TMA LFSB T1 HX = inactif?
+            </Question>
+            <Answer1>Altitude maximum 3050 m AMSL, visibilité minimum 5 km, distance par rapport aux nuages
+                100 horizontal / 50 m vertical ; à partir de 1750 m AMSL, veille radio sur 134.675 MHz ou
+                appel téléphonique toutes les demi-heures.
+            </Answer1>
+            <Answer2>Altitude maximum 1750 m AMSL, visibilité minimum 5 km, distance par rapport aux nuages
+                1500 m horizontal / 300 m vertical ; à partir de 1600 m AMSL, veille radio sur 134.675 MHz
+                ou appel téléphonique toutes les demi-heures.
+            </Answer2>
+            <Answer3>Altitude maximum 1600 m AMSL, visibilité minimum 5 km, distance par rapport aux nuages
+                1500 m horizontal, 300 m vertical.
+            </Answer3>
+            <Answer4>Vol interdit.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>2632</ID>
+            <Number>150</Number>
+            <ImageID>44</ImageID>
+            <Answer>2</Answer>
+            <Question>Quelles règles générales s'appliquent aux planeurs de pente sans autorisation spéciale
+                à l'endroit marqué d'un X à 2000 m AMSL un mercredi à 15h en mai ?
+            </Question>
+            <Answer1>Altitude maximum 1350 m AMSL, visibilité minimum 5 km, distance par rapport aux nuages
+                1500 m horizontal / 300 m vertical
+            </Answer1>
+            <Answer2>Altitude maximum 3050 m AMSL, altitude minimum 1350 m AMSL, visibilité minimum 5 km,
+                distance par rapport aux nuages 1500 m horizontal / 300 m vertical
+            </Answer2>
+            <Answer3>Altitude maximum 3050 m AMSL, visibilité minimum 1.5 km, hors des nuages, vue sur le
+                sol.
+            </Answer3>
+            <Answer4>Vol interdit.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>2633</ID>
+            <Number>151</Number>
+            <ImageID>45</ImageID>
+            <Answer>1</Answer>
+            <Question>Quelles règles s'appliquent aux planeurs de pente à l'endroit marqué d'un X à 1800 m
+                AMSL (~700 m AGL) un dimanche à 9h en juin ?
+            </Question>
+            <Answer1>Altitude maximum 3050 m AMSL, visibilité minimum 5 km, distance par rapport aux nuages
+                100 m horizontal / 50 m vertical, grande distance par rapport aux nuages au-dessus de 1850 m
+                AMSL
+            </Answer1>
+            <Answer2>Altitude maximum 1850 m AMSL, visibilité minimum 5 km, distance par rapport aux nuages
+                100 m horizontal / 50 m vertical.
+            </Answer2>
+            <Answer3>Altitude maximum 3050 m AMSL, visibilité minimum 1.5 km, hors des nuages, vue sur le
+                sol.
+            </Answer3>
+            <Answer4>Vol interdit.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>2634</ID>
+            <Number>152</Number>
+            <ImageID>46</ImageID>
+            <Answer>3</Answer>
+            <Question>Quelles règles s'appliquent aux planeurs de pente à l'endroit marqué d'un X à 2500 m
+                AMSL un lundi à 15h en mars, sachant que selon le DABS LS-R2 (rouge) = actif ?
+            </Question>
+            <Answer1>Altitude maximum 4550 m AMSL, visibilité minimum 8 km, distance par rapport aux nuages
+                1500 m horizontal / 300 m vertical.
+            </Answer1>
+            <Answer2>Altitude maximum 3950 m AMSL, visibilité minimum 5 km, distance par rapport aux nuages
+                1500 m horizontal / 300 m vertical.
+            </Answer2>
+            <Answer3>Altitude maximum 3050 m AMSL, visibilité minimum 5 km, distance par rapport aux nuages
+                1500 m horizontal / 300 m vertical.
+            </Answer3>
+            <Answer4>Vol interdit.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>2635</ID>
+            <Number>153</Number>
+            <ImageID>82</ImageID>
+            <Answer>2</Answer>
+            <Question>Quelles règles s'appliquent aux planeurs de pente à l'endroit marqué d'un X à 2700 m
+                AMSL un dimanche à 14h en août ?
+            </Question>
+            <Answer1>Altitude maximum 4550 m AMSL, visibilité minimum 8 km, distance par rapport aux nuages
+                1500 m horizontal / 300 m vertical.
+            </Answer1>
+            <Answer2>Altitude maximum 3050 m AMSL, visibilité minimum 5 km, distance par rapport aux nuages
+                1500 m horizontal / 300 m vertical.
+            </Answer2>
+            <Answer3>Altitude maximum 3050 m AMSL, visibilité minimum 5 km, distance par rapport aux nuages
+                100 m horizontal / 50 m vertical.
+            </Answer3>
+            <Answer4>Vol interdit.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>2636</ID>
+            <Number>154</Number>
+            <ImageID>60</ImageID>
+            <Answer>4</Answer>
+            <Question>Quelles règles générales s'appliquent aux planeurs de pente sans autorisation spéciale
+                à l'endroit marqué d'un X à 1500 m AMSL un jeudi à 10h en juillet ?
+            </Question>
+            <Answer1>Altitude maximum 4550 m AMSL, visibilité minimum 8 km, distance par rapport aux nuages
+                1500 m horizontal / 300 m vertical.
+            </Answer1>
+            <Answer2>Altitude maximum 3950 m AMSL, visibilité minimum 8 km, distance par rapport aux nuages
+                1500 m horizontal / 300 m vertical.
+            </Answer2>
+            <Answer3>Altitude maximum 3050 m AMSL, visibilité minimum 1.5 km, hors des nuages, vue sur le
+                sol.
+            </Answer3>
+            <Answer4>Vol interdit.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>2637</ID>
+            <Number>155</Number>
+            <ImageID>61</ImageID>
+            <Answer>4</Answer>
+            <Question>Quelles règles générales s’appliquent aux planeurs de pente sans autorisation spéciale
+                à l’endroit marqué d’un X à 4900 m AMSL (~900 m AGL) un dimanche à 16 h en août?
+            </Question>
+            <Answer1>Visibilité minimum 8 km, distance par rapport aux nuages 100 m horizontal / 50 m
+                vertical.
+            </Answer1>
+            <Answer2>Visibilité minimum 8 km, distance par rapport aux nuages 1500 m horizontal / 300 m
+                vertical.
+            </Answer2>
+            <Answer3>Visibilité minimum 1.5 km, hors des nuages, vue sur le sol.</Answer3>
+            <Answer4>Vol interdit.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>2638</ID>
+            <Number>156</Number>
+            <ImageID>50</ImageID>
+            <Answer>2</Answer>
+            <Question>Quelles règles s'appliquent aux planeurs de pente à l'endroit marqué d'un X à 2800 m
+                AMSL (~1200 m AGL) un lundi à 15h en février, sachant que selon le DABS, LS-D14 (rouge) =
+                actif ?
+            </Question>
+            <Answer1>Altitude maximum 4550 m AMSL, visibilité minimum 8 km, distance par rapport aux nuages
+                1500 m horizontal / 300 m vertical, interdiction de voler sous 2200 m AMSL.
+            </Answer1>
+            <Answer2>Altitude maximum 3950 m AMSL, visibilité minimum 5 km, distance par rapport aux nuages
+                1500 m horizontal / 300 m vertical, danger de mort lorsqu'on vole sous 2200 m AMSL.
+            </Answer2>
+            <Answer3>Altitude maximum 2200 m AMSL, visibilité minimum 5 km, distance par rapport aux nuages
+                1500 m horizontal / 300 m vertical.
+            </Answer3>
+            <Answer4>Vol interdit.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>2639</ID>
+            <Number>157</Number>
+            <ImageID>51</ImageID>
+            <Answer>3</Answer>
+            <Question>Quelles règles s'appliquent aux planeurs de pente à l'endroit marqué d'un X à 150 m
+                AGL (~1850 m AMSL) un vendredi à 14h en septembre, sachant que selon l'appel téléphonique,
+                TMA LSMM 1 HX = actif ?
+            </Question>
+            <Answer1>Altitude maximum 3950 m AMSL, visibilité minimum 5 km, distance par rapport aux nuages
+                1500 m horizontal / 300 m vertical.
+            </Answer1>
+            <Answer2>Altitude maximum 300 m AGL, visibilité minimum 5 km, distance par rapport aux nuages
+                1500 m horizontal / 300 m vertical.
+            </Answer2>
+            <Answer3>Altitude maximum 300 m AGL, visibilité minimum 1.5 km, hors des nuages, vue sur le
+                sol.
+            </Answer3>
+            <Answer4>Vol interdit.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>2640</ID>
+            <Number>158</Number>
+            <ImageID>62</ImageID>
+            <Answer>1</Answer>
+            <Question>Quelles règles s’appliquent aux planeurs de pente à l’endroit marqué d’un X à 4'100 m
+                AMSL (~1'600 m AGL) un samedi à 15h en février, sachant que selon le DABS LS-R11 (rouge) =
+                inactif ?
+            </Question>
+            <Answer1>Altitude maximum 4550 m AMSL, visibilité minimum 8 km, distance par rapport aux nuages
+                1500 m horizontal / 300 m vertical.
+            </Answer1>
+            <Answer2>Altitude maximum 4550 m AMSL, visibilité minimum 8 km, distance par rapport aux nuages
+                100 m horizontal / 50 m vertical.
+            </Answer2>
+            <Answer3>Altitude maximum 4550 m AMSL, visibilité minimum 8 km, hors des nuages, vue sur le
+                sol.
+            </Answer3>
+            <Answer4>Vol interdit.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>2641</ID>
+            <Number>159</Number>
+            <ImageID>63</ImageID>
+            <Answer>3</Answer>
+            <Question>Quelles règles s’appliquent aux planeurs de pente à l’endroit marqué d’un X à 3'300 m
+                AMSL (~700 m AGL) un dimanche à 9 h en juin?
+            </Question>
+            <Answer1>Altitude maximum 5950 m AMSL, visibilité minimum 8 km, distance par rapport aux nuages
+                100 m horizontal / 50 m vertical.
+            </Answer1>
+            <Answer2>Altitude maximum 4550 m AMSL, visibilité minimum 8 km, distance par rapport aux nuages
+                100 m horizontal / 50 m vertical.
+            </Answer2>
+            <Answer3>Altitude maximum 3950 m AMSL, visibilité minimum 8 km, distance par rapport aux nuages
+                100 m horizontal / 50 m vertical.
+            </Answer3>
+            <Answer4>Vol interdit.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>2642</ID>
+            <Number>160</Number>
+            <ImageID>54</ImageID>
+            <Answer>3</Answer>
+            <Question>Quelles règles s'appliquent aux planeurs de pente à l'endroit marqué d'un X à 2500 m
+                AMSL (~800 m AGL) un lundi à 15h en mars ?
+            </Question>
+            <Answer1>Altitude maximum 4550 m AMSL, visibilité minimum 8 km, distance par rapport aux nuages
+                1500 m horizontal / 300 m vertical.
+            </Answer1>
+            <Answer2>Altitude maximum 3950 m AMSL, visibilité minimum 5 km jusqu'à 3050 m AMSL et 8 km
+                au-delà, distance par rapport aux nuages 1500 m horizontal / 300 m vertical.
+            </Answer2>
+            <Answer3>Altitude maximum 3800 m AMSL, visibilité minimum 5 km jusqu'à 3050 m AMSL et 8 km
+                au-delà, distance par rapport aux nuages 1500 m horizontal / 300 m vertical.
+            </Answer3>
+            <Answer4>Vol interdit.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>3970</ID>
+            <Number>172</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>En cas de QNH de 1005 hPa, jusqu’à quelle altitude peut-on monter dans le Jura?
+            </Question>
+            <Answer1>À un peu moins de 3050 m/mer.</Answer1>
+            <Answer2>Précisément à 3050 m/mer.</Answer2>
+            <Answer3>À un peu plus de 3050 m/mer.</Answer3>
+            <Answer4>À précisément 3950 m/mer.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>3971</ID>
+            <Number>173</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Quelle affirmation est correcte par rapport à une TMA située au nord de la ligne de
+                démarcation entre le Jura/Plateau suisse et les Alpes?
+            </Question>
+            <Answer1>On peut passer en-dessous, en vol, à 300 m AGL.</Answer1>
+            <Answer2>Elle descend dans tous les cas jusqu’à la limite inférieure indiquée.</Answer2>
+            <Answer3>Elle débute toujours à partir de 600 m/sol.</Answer3>
+            <Answer4>Elle ne présente aucune différence par rapport à une TMA située au sud de cette ligne
+                de démarcation
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>3972</ID>
+            <Number>174</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>1</Answer>
+            <Question>FIZ signifie</Question>
+            <Answer1>Zone d’information de vol.</Answer1>
+            <Answer2>Zone d’identification d’aéronef.</Answer2>
+            <Answer3>Service d’information de vol.</Answer3>
+            <Answer4>Zone de vol aux instruments.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>3973</ID>
+            <Number>175</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>4</Answer>
+            <Question>Les règles suivantes s’appliquent dans une FIZ:</Question>
+            <Answer1>Entrée interdite aux planeurs de pente.</Answer1>
+            <Answer2>Entrée autorisée sans condition à tout moment.</Answer2>
+            <Answer3>Entrée uniquement avec veille radio et transmission en aveugle sur la fréquence
+                correspondante.
+            </Answer3>
+            <Answer4>Entrée uniquement une fois le contact radio établi sur la fréquence correspondante.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>3974</ID>
+            <Number>176</Number>
+            <ImageID>80</ImageID>
+            <Answer>3</Answer>
+            <Question>Quelles sont les limites inférieure et supérieure d’un espace aérien ainsi marqué?
+            </Question>
+            <Answer1>Limite inférieure selon Notam/DABS, limite supérieure 3950 m/mer.</Answer1>
+            <Answer2>Limite inférieure au sol, limite supérieure 3950 m/mer.</Answer2>
+            <Answer3>Limite inférieure selon Notam/DABS, limite supérieure 3950 m/mer en atmosphère
+                standard.
+            </Answer3>
+            <Answer4>Limite inférieure sur demande sur la fréquence 119.625, 3950 m/mer.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>3975</ID>
+            <Number>177</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>2</Answer>
+            <Question>Dans le Jura et quand la pression atmosphérique s’élève à 1037 hPa, la limite
+                supérieure de l’espace aérien E se situe à
+            </Question>
+            <Answer1>3'050 m AMSL.</Answer1>
+            <Answer2>3'250 m AMSL.</Answer2>
+            <Answer3>3'950 m AMSL.</Answer3>
+            <Answer4>4'150 m AMSL.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>3976</ID>
+            <Number>178</Number>
+            <ImageID>73</ImageID>
+            <Answer>2</Answer>
+            <Question>Quelles règles s’appliquent aux planeurs de pente sans transpondeur à l’endroit marqué
+                d’un X à 2219 m AMSL ou 500 m AGL un dimanche à 14 h en février?
+            </Question>
+            <Answer1>Altitude max. 3050 m AMSL, visibilité min. 8 km, distance par rapport aux nuages 1500 m
+                horizontalement / 300 m verticalement.
+            </Answer1>
+            <Answer2>Altitude max. 3050 m AMSL, visibilité min. 1,5 km, distance par rapport aux nuages 1500
+                m horizontalement / 300 m verticalement.
+            </Answer2>
+            <Answer3>Altitude max. 3950 m AMSL, visibilité min. 5 km, distance par rapport aux nuages 100 m
+                horizontalement / 50 m verticalement
+            </Answer3>
+            <Answer4>Altitude max. 3050 m AMSL, visibilité min. 1,5 km, distance par rapport aux nuages:
+                en-dehors avec vue sur le sol.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>3977</ID>
+            <Number>179</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Les règles suivantes s’appliquent dans une RMZ:</Question>
+            <Answer1>Entrée interdite aux planeurs de pente.</Answer1>
+            <Answer2>Entrée autorisée sans condition à tout moment.</Answer2>
+            <Answer3>Entrée uniquement avec veille radio et transmission en aveugle sur la fréquence
+                correspondante.
+            </Answer3>
+            <Answer4>Entrée uniquement une fois le contact radio établi sur la fréquence correspondante.
+            </Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+        <Question>
+            <ID>4017</ID>
+            <Number>180</Number>
+            <ImageID xsi:nil="true"/>
+            <Answer>3</Answer>
+            <Question>Les planeurs de pente avec moteur électrique ont le droit de décoller</Question>
+            <Answer1>depuis n’importe quel pré.</Answer1>
+            <Answer2>sur les aérodromes pour moteur électrique désignés par la FSVL et approuvés par
+                l’OFAC.
+            </Answer2>
+            <Answer3>exclusivement sur les aérodromes.</Answer3>
+            <Answer4>exclusivement sur les aéroports.</Answer4>
+            <CorrectAnswered>0</CorrectAnswered>
+            <WrongAnswered>0</WrongAnswered>
+        </Question>
+    </Questions>
+</Root>
