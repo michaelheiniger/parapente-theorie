@@ -1,7 +1,9 @@
 import com.itextpdf.io.image.ImageDataFactory
+import com.itextpdf.kernel.colors.DeviceRgb
 import com.itextpdf.kernel.geom.PageSize
 import com.itextpdf.kernel.pdf.PdfDocument
 import com.itextpdf.kernel.pdf.PdfWriter
+import com.itextpdf.kernel.pdf.tagging.StandardRoles
 import com.itextpdf.layout.Document
 import com.itextpdf.layout.element.*
 import com.itextpdf.layout.element.List
@@ -9,7 +11,7 @@ import data.Question
 import java.io.File
 
 
-class PdfCreator(outputFile: File, private val imageDirectory: File) {
+class PdfCreator(outputFile: File, private val imageDirectory: File, private val pdfTitle: String) {
 
     private val document: Document
     private val pdfDocument: PdfDocument
@@ -17,6 +19,16 @@ class PdfCreator(outputFile: File, private val imageDirectory: File) {
     init {
         pdfDocument = PdfDocument(PdfWriter(outputFile))
         document = Document(pdfDocument, PageSize.A4)
+
+        printTitle()
+    }
+
+    private fun printTitle() {
+        val titleParapgrah = Paragraph(pdfTitle)
+            .setFontColor(DeviceRgb(8, 73, 117))
+            .setFontSize(20f)
+        titleParapgrah.accessibilityProperties.role = StandardRoles.H1
+        document.add(titleParapgrah)
     }
 
     fun printQuestion(index: Int, question: Question, showAnswers: Boolean) {

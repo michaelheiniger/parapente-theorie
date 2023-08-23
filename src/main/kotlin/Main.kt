@@ -4,6 +4,9 @@ import java.io.File
 import java.io.IOException
 import java.net.URL
 
+data class PartName(val name: String)
+data class FileName(val name: String)
+
 object Main {
 
     @JvmStatic
@@ -13,12 +16,12 @@ object Main {
         val imagesDirectory = "/mnt/storage-unit1/durable/Mes Documents MEGA/parapente/question-reponse-data/images"
         val outputDirectory = File(rootDirectory, "pdfs")
 
-        val sourceFilenames = listOf(
-            "aérodynamique-questions-réponses.xml",
-            "législation-questions-réponses.xml",
-            "matériel-questions-réponses.xml",
-            "météorologie-questions-réponses.xml",
-            "pratique-de-vol-questions-réponses.xml"
+        val sourceFilenames = mapOf(
+            PartName("Aérodynamique") to FileName("aérodynamique-questions-réponses.xml"),
+            PartName("Législation") to FileName("législation-questions-réponses.xml"),
+            PartName("Matériel") to FileName("matériel-questions-réponses.xml"),
+            PartName("Météorologie") to FileName("météorologie-questions-réponses.xml"),
+            PartName("Pratique de vol") to FileName( "pratique-de-vol-questions-réponses.xml")
         )
 
         generatePdfs(outputDirectory, sourceFilenames, rootDirectory, imagesDirectory, showAnswers = false)
@@ -27,7 +30,7 @@ object Main {
 
     private fun generatePdfs(
         outputDirectory: File,
-        sourceFilenames: List<String>,
+        sourceFilenames: Map<PartName, FileName>,
         rootDirectory: String,
         imagesDirectory: String,
         showAnswers: Boolean
@@ -35,13 +38,13 @@ object Main {
         if (!outputDirectory.exists()) outputDirectory.mkdir()
 
         sourceFilenames.forEach { sourceFilename ->
-            val sourceFile = File(rootDirectory, sourceFilename)
+            val sourceFile = File(rootDirectory, sourceFilename.value.name)
             val repository = Repository(sourceFile)
 
-            val outputFile = File(outputDirectory, buildPdfName(sourceFilename, showAnswers))
+            val outputFile = File(outputDirectory, buildPdfName(sourceFilename.value.name, showAnswers))
 
-            println("Generating PDF $outputFile from $sourceFilename")
-            val pdfCreator = PdfCreator(outputFile, File(imagesDirectory))
+            println("Generating PDF $outputFile from ${sourceFilename.value.name}")
+            val pdfCreator = PdfCreator(outputFile, File(imagesDirectory), sourceFilename.key.name)
 
             repository.questions().forEachIndexed { index, question ->
                 pdfCreator.printQuestion(index, question, showAnswers)
